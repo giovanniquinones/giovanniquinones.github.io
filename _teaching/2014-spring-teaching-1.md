@@ -1,20 +1,29 @@
 ---
-title: "Teaching experience 1"
+title: "Single cell RNA-sequencing data analysis with R"
 collection: teaching
-type: "Undergraduate course"
+type: "Technical workshop"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "UCLA QCBio Collaboratory"
+date: 2022-01-02
+location: "Los Angeles, CA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+As part of the UCLA QCBio Collaboratory I teach this workshop every quarter of the academic year. 
 
-Heading 1
+
+If you are interested in attending the workshop register here:
+https://qcb.ucla.edu/collaboratory/workshops/w20-single-cell-rna-seq/#toggle-id-1-closed
+
+Session 1
 ======
 
-Heading 2
-======
+[Youtube link](https://www.youtube.com/watch?v=G-XmYchwmgc)
 
-Heading 3
+Session 2
 ======
+[Youtube link](https://www.youtube.com/watch?v=OYO2_6td7Os&t)
+
+
+Session 3
+======
+[Youtube link](https://www.youtube.com/watch?v=nu-APoGNAzk&t)

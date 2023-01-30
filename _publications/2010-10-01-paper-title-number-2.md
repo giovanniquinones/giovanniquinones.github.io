@@ -1,15 +1,9 @@
 ---
-title: "Paper Title Number 2"
+title: "RNA editing in nascent RNA affects pre-mRNA splicing"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: "https://genome.cshlp.org/content/28/6/812.short"
+date: 2018-04-26
+venue: 'Genome Research'
+citation: 'Hsiao, Y.-H. E. et al. RNA editing in nascent RNA affects pre-mRNA splicing. Genome Res. 28, 812–823 (2018).'
 ---
-This paper is about the number 2. The number 3 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Altmetric statistics: [Link](https://genome.cshlp.org/articleusage?gca=genome;28/6/812)

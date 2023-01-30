@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Variant Calling with GATK"
 collection: teaching
-type: "Workshop"
+type: "Technical workshop"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "UCLA QCBio Collaboratory"
+date: 2020-07-23
+location: "Los Angeles, CA"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
@@ -13,8 +13,4 @@ This is a description of a teaching experience. You can use markdown like any ot
 Heading 1
 ======
 
-Heading 2
-======
 
-Heading 3
-======
