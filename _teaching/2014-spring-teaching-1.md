@@ -17,13 +17,15 @@ https://qcb.ucla.edu/collaboratory/workshops/w20-single-cell-rna-seq/#toggle-id-
 Session 1
 ======
 
-[Youtube link](https://www.youtube.com/watch?v=G-XmYchwmgc)
+[Youtube link](https://www.youtube.com/watch?v=G-XmYchwmgc)\
+![Slides](/files/background_2.jpg)
 
 Session 2
 ======
-[Youtube link](https://www.youtube.com/watch?v=OYO2_6td7Os&t)
-
+[Youtube link](https://www.youtube.com/watch?v=OYO2_6td7Os&t)\
+![Slides](/files/background_2.jpg)
 
 Session 3
 ======
-[Youtube link](https://www.youtube.com/watch?v=nu-APoGNAzk&t)
+[Youtube link](https://www.youtube.com/watch?v=nu-APoGNAzk&t)\
+![Slides](/files/background_2.jpg)
