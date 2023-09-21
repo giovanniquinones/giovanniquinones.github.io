@@ -19,19 +19,25 @@ I am postdoctoral fellow at UCLA. I develop computational tools to study next an
 Education
 ------
 - **International Baccalaureate, 2011** \
-    United World Colleges of the Adriatic
+    United World Colleges of the Adriatic (Italy)\
+    
 - **B.S. in Agricultural and Biological Engineering, 2015** \
-    University of Florida
+    University of Florida (Florida, USA)\
+  
 - **Ph.D in Bioengineering, 2021** \
-    University of California, Los Angeles
+    University of California, Los Angeles (California, USA)\
+
+Interests
+------
+- I like origami 
 
 Photos I like
 ------
 
-![Editing a markdown file for a talk](/images/background_1.jpg=120x120)
+![Editing a markdown file for a talk](/images/background_3.jpg)
 
-![Editing a markdown file for a talk](/images/background_2.jpg=10x10)
+![Editing a markdown file for a talk](/images/background_2.jpg)
 
-![Editing a markdown file for a talk](/images/background_3.jpg=50x50)
+![Editing a markdown file for a talk](/images/background_1.jpg)
 
 
