@@ -3,5 +3,5 @@ title: "Delaying Retinal Degeneration in a Mouse Model of Geographic Atrophy: An
 collection: publications
 permalink: 'https://iovs.arvojournals.org/article.aspx?articleid=23330338'
 date: 2015-06-01
-venue: IOVS'
+venue: IOVS
 ---
