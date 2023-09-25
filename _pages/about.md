@@ -15,6 +15,11 @@ Bio
 ------
 I am postdoctoral fellow at UCLA. I develop computational tools to study next and third generation RNA sequencing data. My work focuses on the study of RNA processing including RNA editing and alternative splicing. 
 
+<!-- Right-aligned image with specified width -->
+<img src="/images/nerd_llamita.jpg" alt="Brain Fuel" align="right" width="240" height="400">
+
+
+
 
 Education
 ------
@@ -29,15 +34,12 @@ Education
 
 Interests
 ------
-- I like origami 
+- I like origami
 
-Photos I like
-------
+<img src="/images/turtle_origami.jpg" alt="Brain Fuel"  width="500">
 
-![Editing a markdown file for a talk](/images/background_3.jpg)
+<img src="/images/dragon_origami.png" alt="Brain Fuel"  width="500">
 
-![Editing a markdown file for a talk](/images/background_2.jpg)
 
-![Editing a markdown file for a talk](/images/background_1.jpg)
 
 
