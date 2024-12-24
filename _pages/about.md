@@ -13,7 +13,11 @@ redirect_from:
 
 Bio
 ------
+<<<<<<< HEAD
 I am postdoctoral fellow at UCLA in the department of Integrated Biology and Physiology. I mainly develop computational tools to study next and third generation RNA sequencing data. My work focuses on the study of RNA processing including RNA editing and alternative splicing. 
+=======
+I am postdoctoral fellow at UCLA. I develop computational tools to study next and third generation RNA sequencing data. My work focuses on the study of RNA processing including RNA editing and alternative splicing. 
+>>>>>>> 2aae948635696066be162e800cdd6fd2a1bb835e
 
 Education
 ------
@@ -31,6 +35,18 @@ Education
 Interests
 ------
 - I like origami
+<<<<<<< HEAD
 
 <img src="/images/turtle_origami.jpg" alt="Image 1" style="width: 48%;">
 <img src="/images/dragon_origami.png" alt="Image 2" style="width: 48%;">
+=======
+
+<img src="/images/turtle_origami.jpg" alt="Image 1" style="width: 48%;">
+<img src="/images/dragon_origami.png" alt="Image 2" style="width: 48%;">
+
+
+
+
+
+
+>>>>>>> 2aae948635696066be162e800cdd6fd2a1bb835e
