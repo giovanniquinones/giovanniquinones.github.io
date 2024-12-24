@@ -12,7 +12,8 @@ As part of the UCLA QCBio Collaboratory I teach this workshop every quarter of t
 
 
 If you are interested in attending the workshop register here:
-https://qcb.ucla.edu/collaboratory/workshops/w20-single-cell-rna-seq/#toggle-id-1-closed
+!(QCBio Collaboratory)[https://qcb.ucla.edu/collaboratory/workshops/w20-single-cell-rna-seq]
+ 
 
 Session 1
 ======
