@@ -13,16 +13,16 @@ redirect_from:
 EDUCATION
 ======
 
-* University of California, Los Angeles | Bioengineering | Ph.D.	12/2021
+* University of California, Los Angeles - Bioengineering - Ph.D.	12/2021
   * GPA: 3.745/4.0
   * Advisor: Dr. Xinshu (Grace) Xiao
   * Dissertation Title: “Function and Regulation of Nucleotide Variants in RNA”
 
-* University of Florida | Biological Engineering | B.S.	05/2015
+* University of Florida - Biological Engineering - B.S.	05/2015
   * GPA: 3.84/4.0 (Honors Program, Summa Cum Laude)
   * Minor: Biomolecular Engineering
 
-* United World College of the Adriatic | International Baccalaureate	05/2011
+* United World College of the Adriatic - International Baccalaureate - 05/2011
 
 
 AWARDS
@@ -74,9 +74,9 @@ SKILLS
 STUDENT ORGANIZATIONS
 ======
 
-eGSA (Engineering Graduate Student Association)	09/2015 - 12/2021
-SHPE (Society of Hispanic Professional Engineers)	09/2012 - 05/2015
-HOPES (Health-Oriented Professional Engineering Students)
+* eGSA (Engineering Graduate Student Association)	09/2015 - 12/2021
+* SHPE (Society of Hispanic Professional Engineers)	09/2012 - 05/2015
+* HOPES (Health-Oriented Professional Engineering Students)
 
 
 
