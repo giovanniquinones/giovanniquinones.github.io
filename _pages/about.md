@@ -13,7 +13,10 @@ redirect_from:
 
 Bio
 ------
-I am postdoctoral fellow at UCLA in the department of Integrated Biology and Physiology. I mainly develop computational tools to study next and third generation RNA sequencing data. My work focuses on the study of RNA processing including RNA editing and alternative splicing. 
+I specialize in developing computational tools for analyzing various modalities of RNA sequencing data, focusing on nucleotide variants originating from genetic and post-transcriptional processes. My primary objective is to characterize these variants and elucidate their functional implications in RNA processing within health and disease contexts.
+
+I deliver computational research support to UCLA laboratories through hands-on workshops and consulting services. These workshops empower graduate students, postdoctoral fellows, and faculty to conduct data analysis from single-cell RNA sequencing experiments. 
+
 
 Education
 ------
@@ -26,11 +29,11 @@ Education
 - **Ph.D in Bioengineering, 2021** \
     University of California, Los Angeles (California, USA)
 
-<img src="/images/nerd_llamita.jpg" alt="Brain Fuel" align="center" width="300" height="500">
+<img src="/images/PXL_20210107_064439158.jpg" alt="Brain Fuel" align="center" width="300" height="500">
 
 Interests
 ------
 - I like origami
 
-<img src="/images/turtle_origami.jpg" alt="Image 1" style="width: 48%;">
-<img src="/images/dragon_origami.png" alt="Image 2" style="width: 48%;">
+<img src="/images/PXL_20201013_222829414.jpg" alt="Image 1" style="width: 48%;">
+<img src="/images/IMG_1043.JPG" alt="Image 2" style="width: 48%;">
