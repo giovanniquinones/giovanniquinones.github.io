@@ -15,6 +15,8 @@ Bio
 ------
 I specialize in developing computational tools for analyzing various modalities of RNA sequencing data, focusing on nucleotide variants originating from genetic and post-transcriptional processes. My primary objective is to characterize these variants and elucidate their functional implications in RNA processing within health and disease contexts.
 
+![llamita](/images/PXL_20210107_064439158.jpg){:height="45%" width="45%" style="float: left"}
+
 
 Education
 ------
@@ -27,7 +29,6 @@ Education
 - **Ph.D in Bioengineering, 2021** \
     University of California, Los Angeles (California, USA)
 
-![llamita](/images/PXL_20210107_064439158.jpg){:height="45%" width="45%" style="float: left"}
 
 
 Interests
