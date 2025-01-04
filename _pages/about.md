@@ -19,22 +19,22 @@ I specialize in developing computational tools for analyzing various modalities 
 
 <div style="display: flex; align-items: center;">
 
-  <div style="flex: 1; margin-right: 20px; margin-left: 0px;">
-    <img src="/images/PXL_20210107_064439158.jpg" alt="Figure description" style="width: 30%; height: 30%"/>  
+  <div style="flex: 1; margin-right: 10px; margin-left: 0px;">
+    <img src="/images/PXL_20210107_064439158.jpg" style="width: 30%; height: 30%"/>  
   </div>
 
-  <div style="flex: 2; margin-left: 20px;">
+  <div style="flex: 2; margin-left: 10px;">
     
-    Education
-    ------
-    - **International Baccalaureate, 2011** \
-        United World Colleges of the Adriatic (Italy)
-        
-    - **B.S. in Agricultural and Biological Engineering, 2015** \
-        University of Florida (Florida, USA)
-    
-    - **Ph.D in Bioengineering, 2021** \
-        University of California, Los Angeles (California, USA)
+Education
+------
+- **International Baccalaureate, 2011** \
+United World Colleges of the Adriatic (Italy)
+
+- **B.S. in Agricultural and Biological Engineering, 2015** \
+University of Florida (Florida, USA)
+
+- **Ph.D in Bioengineering, 2021** \
+University of California, Los Angeles (California, USA)
   
   </div>
 
