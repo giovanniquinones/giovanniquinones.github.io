@@ -15,8 +15,6 @@ Bio
 ------
 I specialize in developing computational tools for analyzing various modalities of RNA sequencing data, focusing on nucleotide variants originating from genetic and post-transcriptional processes. My primary objective is to characterize these variants and elucidate their functional implications in RNA processing within health and disease contexts.
 
-I deliver computational research support to UCLA laboratories through hands-on workshops and consulting services. These workshops empower graduate students, postdoctoral fellows, and faculty to conduct data analysis from single-cell RNA sequencing experiments. 
-
 
 Education
 ------
@@ -29,12 +27,15 @@ Education
 - **Ph.D in Bioengineering, 2021** \
     University of California, Los Angeles (California, USA)
 
-<img src="/images/PXL_20210107_064439158.jpg" alt="Brain Fuel" align="center" width="300" height="500">
+![llamita](/images/PXL_20210107_064439158.jpg){:height="45%" width="45%" style="float: left"}
+
 
 Interests
 ------
 - I like origami
 
-<img src="/images/PXL_20201013_222829414.jpg" alt="Image 1" style="width: 54%;">
-<img src="/images/IMG_1043.JPG" alt="Image 2" style="width: 48%;">
+<div style="display: flex; justify-content: space-between;">
+  <img src="/images/PXL_20201013_222829414.jpg"  alt="Image 1 description" style="width: 45%;"/>
+  <img src="/images/IMG_1043.JPG" alt="Image 2 description" style="width: 45%;"/>
+</div>
 
