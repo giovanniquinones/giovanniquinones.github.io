@@ -18,13 +18,13 @@ If you are interested in attending the workshop register here:
 Session 1
 ======
 
-[Youtube link](https://www.youtube.com/watch?v=G-XmYchwmgc)
+![Youtube link](https://www.youtube.com/watch?v=G-XmYchwmgc){width=80%; height=80%}
 
 Session 2
 ======
-[Youtube link](https://www.youtube.com/watch?v=OYO2_6td7Os&t)
+![Youtube link](https://www.youtube.com/watch?v=OYO2_6td7Os&t){width=80%; height=80%}
 
 
 Session 3
 ======
-[Youtube link](https://www.youtube.com/watch?v=nu-APoGNAzk&t)
+![Youtube link](https://www.youtube.com/watch?v=nu-APoGNAzk&t){width=80%; height=80%}
