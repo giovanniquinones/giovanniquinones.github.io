@@ -20,8 +20,9 @@ This workshop introduces the basic concepts and algorithms necessary to analyze 
 
 As part of the UCLA QCBio Collaboratory I teach this workshop every quarter of the academic year. If you are interested in attending the workshop register here:
 
-![CBio Collaboratory](https://qcb.ucla.edu/collaboratory/workshops/w20-single-cell-rna-seq)
+[UCLA QCBio Collaboratory](https://qcb.ucla.edu/collaboratory/workshops/w20-single-cell-rna-seq)
  
+
 
 **Session 1**
 
