@@ -19,12 +19,12 @@ I specialize in developing computational tools for analyzing various modalities 
 
 <div style="display: flex; align-items: center;">
 
-  <div style="flex: 1; margin-right: 3px; margin-left: 0px;">
+  <div style="flex: 1; margin-right: 10px; margin-left: 0px;">
     <img src="/images/PXL_20210107_064439158.jpg" style="width: 99%; height: 99%"/>  
   </div>
 
 
-  <div style="flex: 3; margin-left: 3px;">
+  <div style="flex: 3; margin-left: 10px;">
     <h2>Education</h2>
     <hr/>
     <ul>
