@@ -15,7 +15,11 @@ Bio
 ------
 I specialize in developing computational tools for analyzing various modalities of RNA sequencing data, focusing on nucleotide variants originating from genetic and post-transcriptional processes. My primary objective is to characterize these variants and elucidate their functional implications in RNA processing within health and disease contexts.
 
-![llamita](/images/PXL_20210107_064439158.jpg){:height="45%" width="45%" style="float: left"}
+
+<div style="float: left; margin-right: 20px; margin-top: 20px; margin-bottom: 20px; margin-left: 0px;">
+  <img src="/images/PXL_20210107_064439158.jpg" alt="Figure description" style="width: 30%; height: 30%"/>
+</div>
+
 
 
 Education
