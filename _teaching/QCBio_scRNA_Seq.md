@@ -22,21 +22,23 @@ As part of the UCLA QCBio Collaboratory I teach this workshop every quarter of t
 !(QCBio Collaboratory)[https://qcb.ucla.edu/collaboratory/workshops/w20-single-cell-rna-seq]
  
 
-Session 1
-======
+**Session 1**
 
-<video width="1280" height="960" controls>
-  <source src="https://www.youtube.com/watch?v=G-XmYchwmgc" type="video/mp4">
-</video>
+<iframe width="1280" height="720" 
+  src="https://www.youtube.com/embed/G-XmYchwmgc" 
+  frameborder="0" allowfullscreen>
+</iframe>
 
-Session 2
-======
-<video width="1280" height="960" controls>
-  <source src="https://www.youtube.com/watch?v=OYO2_6td7Os&t" type="video/mp4">
-</video>
+**Session 2**
 
-Session 3
-======
-<video width="1280" height="960" controls>
-  <source src="https://www.youtube.com/watch?v=nu-APoGNAzk&t" type="video/mp4">
-</video>
+<iframe width="1280" height="720" 
+  src="https://www.youtube.com/embed/OYO2_6td7Os" 
+  frameborder="0" allowfullscreen>
+</iframe>
+
+**Session 3**
+
+<iframe width="1280" height="720" 
+  src="https://www.youtube.com/embed/nu-APoGNAzk" 
+  frameborder="0" allowfullscreen>
+</iframe>
