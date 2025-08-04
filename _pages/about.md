@@ -37,8 +37,11 @@ I specialize in developing computational tools for analyzing various modalities 
 </div>
 
 
+I like making RNA art:
 
-
+<div style="display: flex; justify-content: space-between;">
+  <img src="/images/RiboFolds.png"  alt="Image 1 description" style="width: 95%;"/>
+</div>
 
 
 
