@@ -13,11 +13,6 @@ Invited talk at QCBio Seminar Series.
 Watch the talk:
 
 
-<iframe width="1280" height="720" 
-  src="https://www.youtube.com/watch?v=tKc-xjQiiAM" 
-  frameborder="0" allowfullscreen>
-</iframe>
-
 <div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden;">
   <iframe src="https://www.youtube.com/embed/tKc-xjQiiAM" 
   style="position:absolute; top:0; left:0; width:100%; height:100%;" 

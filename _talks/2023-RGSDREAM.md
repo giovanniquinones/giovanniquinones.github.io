@@ -14,7 +14,8 @@ Selected talk for the International Society for Computational Biology
 
 Watch the talk:
 
-<iframe width="1280" height="720" 
-  src="https://www.youtube.com/watch?v=uXM933hgFfk" 
-  frameborder="0" allowfullscreen>
-</iframe>
+<div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden;">
+  <iframe src="https://www.youtube.com/embed/uXM933hgFfk" 
+  style="position:absolute; top:0; left:0; width:100%; height:100%;" 
+  frameborder="0" allowfullscreen></iframe>
+</div>
