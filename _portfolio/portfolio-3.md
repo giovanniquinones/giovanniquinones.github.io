@@ -14,7 +14,7 @@ In the RNA-Seq Blog:
 
 In PacBio's Application Notes:
 
-<iframe src="/files/pacbio_app_notes.pdf" width="80%" ></iframe>
+<iframe src="/files/pacbio_app_notes.pdf" width="750" height="400"  ></iframe>
 
 In AlzForum:
 
