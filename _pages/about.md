@@ -36,18 +36,17 @@ I specialize in developing computational tools for analyzing various modalities 
     
 </div>
 
+Interests
+------
 
-I like making RNA art:
+- I like making RNA art:
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="/images/RiboFolds.png"  alt="Image 1 description" style="width: 95%;"/>
+  <img src="/images/RiboFolds.png"  alt="Image 1 description" style="width: 75%;"/>
 </div>
 
 
-
-Interests
-------
-- I like origami
+- .. and origami:
 
 <div style="display: flex; justify-content: space-between;">
   <img src="/images/PXL_20201013_222829414.jpg"  alt="Image 1 description" style="width: 45%;"/>
