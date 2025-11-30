@@ -10,4 +10,4 @@ location: "Remote"
 
 Invited talk at QCBio Seminar Series.
 
-Watch the talk here: (YouTube)[https://www.youtube.com/watch?v=tKc-xjQiiAM]
+Watch the talk here: [YouTube](https://www.youtube.com/watch?v=tKc-xjQiiAM)
