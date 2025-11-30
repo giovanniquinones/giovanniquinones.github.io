@@ -11,3 +11,5 @@ location: "Los Angeles, CA"
 Selected talk for the International Society for Computational Biology
 
 ![ima](/images/Gio-RSGDREAM.png)
+
+[Youtube link](https://www.youtube.com/watch?v=uXM933hgFfk)
