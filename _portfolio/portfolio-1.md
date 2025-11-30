@@ -1,12 +1,12 @@
 ---
 title: "Media Coverage of ASHG Award"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/asgh_qcbio.png'>"
+excerpt: "Trainee Research Excellence Award mentions in different websites<br/><img src='/images/asgh_qcbio.png' width='200'>"
 collection: portfolio
 ---
 
 **QCBio website**
 
-<img src="/images/asgh_qcbio.png" alt="News Highlight" width="30%">
+<img src="/images/asgh_qcbio.png" alt="News Highlight" width="60%">
 
 **UCLA IBP Instagram**
 
@@ -15,7 +15,7 @@ collection: portfolio
 
 **ASGH X**
 
-<img src="/images/asgh_x.png" alt="News Highlight" width="30%">
+<img src="/images/asgh_x.png" alt="News Highlight" width="60%">
 
 [X Link](https://x.com/GeneticsSociety/status/1855046780397736206)
 
