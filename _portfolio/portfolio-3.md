@@ -14,7 +14,7 @@ In the RNA-Seq Blog:
 
 In PacBio's Application Notes:
 
-<iframe src="https://www.pacb.com/wp-content/uploads/Application-note-Bioinformatics-tools-for-full-length-isoform-sequencing.pdf" width="80%" ></iframe>
+<iframe src="/files/pacbio_app_notes.pdf" width="80%" ></iframe>
 
 In AlzForum:
 
