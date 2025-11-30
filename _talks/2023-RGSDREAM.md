@@ -2,7 +2,7 @@
 title: "Long-read RNA-seq demarcates cis- and trans-directed alternative RNA splicing"
 collection: talks
 type: "Talk"
-permalink: /talks/2023-RGSDREAM.md
+permalink: /talks/2023-RGSDREAM-1
 venue: "University of California, Los Angeles"
 date: 2023-11-13
 location: "Los Angeles, CA"
