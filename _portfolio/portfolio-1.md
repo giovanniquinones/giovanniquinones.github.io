@@ -1,7 +1,22 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Media Coverage of ASHG Award"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/ashg_qcbio.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+
+
+
+**Instagram**
+
+<blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/DCXJUpZyZBc/?hl=en" data-instgrm-version="14"></blockquote>
+<script async src="//www.instagram.com/embed.js"></script>
+
+
+
+**X**
+
+<blockquote class="twitter-tweet">
+  <a href="https://x.com/GeneticsSociety/status/1855046780397736206"></a>
+</blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
