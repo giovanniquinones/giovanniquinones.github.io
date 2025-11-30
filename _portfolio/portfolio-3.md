@@ -1,6 +1,6 @@
 ---
 title: "Media Mention of Publications"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/asgh_qcbio.png'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/media_mention_icon.png'>"
 collection: portfolio
 ---
 
