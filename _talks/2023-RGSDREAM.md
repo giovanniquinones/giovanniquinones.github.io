@@ -12,4 +12,9 @@ Selected talk for the International Society for Computational Biology
 
 ![ima](/images/Gio-RSGDREAM.png)
 
-Watch the talk here: [YouTube](https://www.youtube.com/watch?v=uXM933hgFfk)
+Watch the talk:
+
+<iframe width="1280" height="720" 
+  src="https://www.youtube.com/watch?v=uXM933hgFfk" 
+  frameborder="0" allowfullscreen>
+</iframe>
