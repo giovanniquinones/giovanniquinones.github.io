@@ -192,6 +192,84 @@
 }
 
 /*
+   Google Scholar widget
+   ========================================================================== */
+
+.scholar-profile {
+  margin: 1.5em 0 2em;
+
+  h3 {
+    margin-top: 1.2em;
+  }
+}
+
+.scholar-metrics {
+  margin-top: 1em;
+}
+
+.scholar-metrics__grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  gap: 0.75em 1em;
+  margin-top: 0.5em;
+}
+
+.scholar-metrics__item {
+  padding: 0.75em 1em;
+  border: 1px solid $border-color;
+  border-radius: $border-radius;
+  background: $background-color;
+}
+
+.scholar-metrics__label {
+  font-size: $type-size-7;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: $text-color-light;
+}
+
+.scholar-metrics__value {
+  font-size: $type-size-3;
+  font-weight: bold;
+  margin: 0.1em 0 0.2em;
+}
+
+.scholar-metrics__since {
+  font-size: $type-size-6;
+  color: $text-color-light;
+}
+
+.scholar-publications__list {
+  list-style: none;
+  margin: 0.5em 0 0;
+  padding: 0;
+}
+
+.scholar-publications__item {
+  padding: 0.9em 0;
+  border-bottom: 1px solid $border-color;
+}
+
+.scholar-publications__item:last-child {
+  border-bottom: 0;
+}
+
+.scholar-publications__title {
+  font-size: $type-size-5;
+}
+
+.scholar-publications__meta,
+.scholar-publications__journal,
+.scholar-publications__cites {
+  font-size: $type-size-6;
+  color: $text-color-light;
+}
+
+.scholar-publications__year {
+  margin-left: 0.35em;
+}
+
+/*
    Social sharing
    ========================================================================== */
 
