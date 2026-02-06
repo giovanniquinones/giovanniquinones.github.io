@@ -5,10 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on <u><a href="https://scholar.google.com/citations?user=Un02rhgAAAAJ&hl=en">my Google Scholar profile</a>.</u>
 
 {% assign scholar = site.data.scholar %}
 {% assign author = scholar.author | default: scholar.author_info %}
+{% assign metrics = scholar.cited_by.table %}
 
 <div class="scholar-profile">
   <h2>Google Scholar</h2>
@@ -35,41 +35,70 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
         {% if interests_list != "" %}<p>Interests: {{ interests_list }}</p>{% endif %}
       {% endif %}
     </div>
+
+    {% if metrics and metrics.size >= 3 %}
+      <div class="scholar-metrics">
+        <h3>Citation metrics</h3>
+        <div class="scholar-metrics__grid">
+          <div class="scholar-metrics__item">
+            <div class="scholar-metrics__label">Citations</div>
+            <div class="scholar-metrics__value">{{ metrics[0].citations.all }}</div>
+            <div class="scholar-metrics__since">Since 2021: {{ metrics[0].citations.since_2021 }}</div>
+          </div>
+          <div class="scholar-metrics__item">
+            <div class="scholar-metrics__label">h-index</div>
+            <div class="scholar-metrics__value">{{ metrics[1].h_index.all }}</div>
+            <div class="scholar-metrics__since">Since 2021: {{ metrics[1].h_index.since_2021 }}</div>
+          </div>
+          <div class="scholar-metrics__item">
+            <div class="scholar-metrics__label">i10-index</div>
+            <div class="scholar-metrics__value">{{ metrics[2].i10_index.all }}</div>
+            <div class="scholar-metrics__since">Since 2021: {{ metrics[2].i10_index.since_2021 }}</div>
+          </div>
+        </div>
+      </div>
+    {% endif %}
   {% else %}
     <p>Scholar profile data not available yet.</p>
   {% endif %}
 
   {% if scholar.articles %}
-    <ul>
-      {% for p in scholar.articles limit:10 %}
-        <li>
-          <strong>
-            {% if p.link %}
-              <a href="{{ p.link }}">{{ p.title }}</a>
-            {% else %}
-              {{ p.title | default: "Untitled" }}
+    <div class="scholar-publications">
+      <h3>Selected publications</h3>
+      <ul class="scholar-publications__list">
+        {% for p in scholar.articles limit:10 %}
+          <li class="scholar-publications__item">
+            <div class="scholar-publications__title">
+              <strong>
+                {% if p.link %}
+                  <a href="{{ p.link }}">{{ p.title }}</a>
+                {% else %}
+                  {{ p.title | default: "Untitled" }}
+                {% endif %}
+              </strong>
+            </div>
+            <div class="scholar-publications__meta">
+              {% if p.authors %}
+                {% if p.authors.size %}
+                  <span>{{ p.authors | join: ", " }}</span>
+                {% else %}
+                  <span>{{ p.authors }}</span>
+                {% endif %}
+              {% endif %}
+              {% if p.year %}<span class="scholar-publications__year">({{ p.year }})</span>{% endif %}
+            </div>
+            {% if p.publication %}
+              <div class="scholar-publications__journal">{{ p.publication }}</div>
             {% endif %}
-          </strong>
-          <br>
-          {% if p.authors %}
-            {% if p.authors.size %}
-              {{ p.authors | join: ", " }}
-            {% else %}
-              {{ p.authors }}
+            {% if p.cited_by and p.cited_by.value %}
+              <div class="scholar-publications__cites">Cited by: {{ p.cited_by.value }}</div>
             {% endif %}
-          {% endif %}
-          {% if p.year %} ({{ p.year }}){% endif %}
-        </li>
-      {% endfor %}
-    </ul>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
   {% else %}
     <p>Scholar publications not available yet.</p>
   {% endif %}
 </div>
 
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
