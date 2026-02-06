@@ -64,9 +64,9 @@ author_profile: true
 
   {% if scholar.articles %}
     <div class="scholar-publications">
-      <h3>Selected publications</h3>
+      <h3>Google Scholar publications</h3>
       <ul class="scholar-publications__list">
-        {% for p in scholar.articles limit:10 %}
+        {% for p in scholar.articles %}
           <li class="scholar-publications__item">
             <div class="scholar-publications__title">
               <strong>
@@ -78,13 +78,7 @@ author_profile: true
               </strong>
             </div>
             <div class="scholar-publications__meta">
-              {% if p.authors %}
-                {% if p.authors.size %}
-                  <span>{{ p.authors | join: ", " }}</span>
-                {% else %}
-                  <span>{{ p.authors }}</span>
-                {% endif %}
-              {% endif %}
+              {% if p.authors %}<span>{{ p.authors }}</span>{% endif %}
               {% if p.year %}<span class="scholar-publications__year">({{ p.year }})</span>{% endif %}
             </div>
             {% if p.publication %}
@@ -101,4 +95,10 @@ author_profile: true
     <p>Scholar publications not available yet.</p>
   {% endif %}
 </div>
+
+{% include base_path %}
+
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
 
