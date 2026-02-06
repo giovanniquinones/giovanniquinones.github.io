@@ -1,11 +1,522 @@
 {
-  "author": {
-    "name": "Google Scholar Profile",
-    "affiliation": "",
-    "cited_by": {
-      "value": ""
-    },
-    "interests": []
+  "search_metadata": {
+    "id": "698656f09f8abca822418462",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/rlbW6Wf4bQBJSERAaNUmQQ/698656f09f8abca822418462.json",
+    "created_at": "2026-02-06 21:02:40 UTC",
+    "processed_at": "2026-02-06 21:02:40 UTC",
+    "google_scholar_author_url": "https://scholar.google.com/citations?user=Un02rhgAAAAJ&hl=en",
+    "raw_html_file": "https://serpapi.com/searches/rlbW6Wf4bQBJSERAaNUmQQ/698656f09f8abca822418462.html",
+    "total_time_taken": 5.92
   },
-  "articles": []
+  "search_parameters": {
+    "engine": "google_scholar_author",
+    "author_id": "Un02rhgAAAAJ",
+    "hl": "en"
+  },
+  "author": {
+    "name": "Giovanni Quinones-Valdez",
+    "affiliations": "UCLA",
+    "email": "Verified email at ucla.edu",
+    "website": "https://giovanniquinones.github.io/",
+    "interests": [
+      {
+        "title": "Transcriptomics",
+        "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:transcriptomics",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Atranscriptomics"
+      },
+      {
+        "title": "Bioinformatics",
+        "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:bioinformatics",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Abioinformatics"
+      },
+      {
+        "title": "RNA biology",
+        "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:rna_biology",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Arna_biology"
+      },
+      {
+        "title": "Genomics",
+        "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:genomics",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Agenomics"
+      }
+    ],
+    "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=Un02rhgAAAAJ&citpid=2"
+  },
+  "articles": [
+    {
+      "title": "Expanded encyclopaedias of DNA elements in the human and mouse genomes",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Un02rhgAAAAJ&citation_for_view=Un02rhgAAAAJ:hqOjcs7Dif8C",
+      "citation_id": "Un02rhgAAAAJ:hqOjcs7Dif8C",
+      "authors": "JE Moore, MJ Purcaro, HE Pratt, CB Epstein, N Shoresh, J Adrian, T Kawli, ...",
+      "publication": "Nature 583 (7818), 699-710, 2020",
+      "cited_by": {
+        "value": 2061,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=648428232262261720",
+        "serpapi_link": "https://serpapi.com/search.json?cites=648428232262261720&engine=google_scholar&hl=en",
+        "cites_id": "648428232262261720"
+      },
+      "year": "2020"
+    },
+    {
+      "title": "Perspectives on ENCODE",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Un02rhgAAAAJ&citation_for_view=Un02rhgAAAAJ:UebtZRa9Y70C",
+      "citation_id": "Un02rhgAAAAJ:UebtZRa9Y70C",
+      "authors": "MP Snyder, TR Gingeras, JE Moore, Z Weng, MB Gerstein, B Ren, ...",
+      "publication": "Nature 583 (7818), 693-698, 2020",
+      "cited_by": {
+        "value": 176,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13037996884087036368,12466045730709983789,7901029321751058697",
+        "serpapi_link": "https://serpapi.com/search.json?cites=13037996884087036368%2C12466045730709983789%2C7901029321751058697&engine=google_scholar&hl=en",
+        "cites_id": "13037996884087036368,12466045730709983789,7901029321751058697"
+      },
+      "year": "2020"
+    },
+    {
+      "title": "RNA editing in nascent RNA affects pre-mRNA splicing",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Un02rhgAAAAJ&citation_for_view=Un02rhgAAAAJ:u5HHmVD_uO8C",
+      "citation_id": "Un02rhgAAAAJ:u5HHmVD_uO8C",
+      "authors": "YHE Hsiao, JH Bahn, Y Yang, X Lin, S Tran, EW Yang, ...",
+      "publication": "Genome research 28 (6), 812-823, 2018",
+      "cited_by": {
+        "value": 163,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13268555053370951987",
+        "serpapi_link": "https://serpapi.com/search.json?cites=13268555053370951987&engine=google_scholar&hl=en",
+        "cites_id": "13268555053370951987"
+      },
+      "year": "2018"
+    },
+    {
+      "title": "Regulation of RNA editing by RNA-binding proteins in human cells",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Un02rhgAAAAJ&citation_for_view=Un02rhgAAAAJ:2osOgNQ5qMEC",
+      "citation_id": "Un02rhgAAAAJ:2osOgNQ5qMEC",
+      "authors": "G Quinones-Valdez, SS Tran, HI Jun, JH Bahn, EW Yang, L Zhan, ...",
+      "publication": "Communications biology 2 (1), 19, 2019",
+      "cited_by": {
+        "value": 145,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11402915078674006669",
+        "serpapi_link": "https://serpapi.com/search.json?cites=11402915078674006669&engine=google_scholar&hl=en",
+        "cites_id": "11402915078674006669"
+      },
+      "year": "2019"
+    },
+    {
+      "title": "Allele-specific binding of RNA-binding proteins reveals functional genetic variants in the RNA",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Un02rhgAAAAJ&citation_for_view=Un02rhgAAAAJ:u-x6o8ySG0sC",
+      "citation_id": "Un02rhgAAAAJ:u-x6o8ySG0sC",
+      "authors": "EW Yang, JH Bahn, EYH Hsiao, BX Tan, Y Sun, T Fu, B Zhou, ...",
+      "publication": "Nature communications 10 (1), 1338, 2019",
+      "cited_by": {
+        "value": 60,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10137849346563844167",
+        "serpapi_link": "https://serpapi.com/search.json?cites=10137849346563844167&engine=google_scholar&hl=en",
+        "cites_id": "10137849346563844167"
+      },
+      "year": "2019"
+    },
+    {
+      "title": "RNA editing in cancer impacts mRNA abundance in immune response pathways",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Un02rhgAAAAJ&citation_for_view=Un02rhgAAAAJ:Tyk-4Ss8FVUC",
+      "citation_id": "Un02rhgAAAAJ:Tyk-4Ss8FVUC",
+      "authors": "TW Chan, T Fu, JH Bahn, HI Jun, JH Lee, G Quinones-Valdez, C Cheng, ...",
+      "publication": "Genome biology 21 (1), 268, 2020",
+      "cited_by": {
+        "value": 49,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3283132903120402362,5322147104356830065",
+        "serpapi_link": "https://serpapi.com/search.json?cites=3283132903120402362%2C5322147104356830065&engine=google_scholar&hl=en",
+        "cites_id": "3283132903120402362,5322147104356830065"
+      },
+      "year": "2020"
+    },
+    {
+      "title": "hnRNPM protects against the dsRNA-mediated interferon response by repressing LINE-associated cryptic splicing",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Un02rhgAAAAJ&citation_for_view=Un02rhgAAAAJ:ULOm3_A8WrAC",
+      "citation_id": "Un02rhgAAAAJ:ULOm3_A8WrAC",
+      "authors": "R Zheng, M Dunlap, GOM Bobkov, C Gonzalez-Figueroa, KJ Patel, J Lyu, ...",
+      "publication": "Molecular cell 84 (11), 2087-2103. e8, 2024",
+      "cited_by": {
+        "value": 27,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17186719674900460619,7484198392927232078",
+        "serpapi_link": "https://serpapi.com/search.json?cites=17186719674900460619%2C7484198392927232078&engine=google_scholar&hl=en",
+        "cites_id": "17186719674900460619,7484198392927232078"
+      },
+      "year": "2024"
+    },
+    {
+      "title": "L-GIREMI uncovers RNA editing sites in long-read RNA-seq",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Un02rhgAAAAJ&citation_for_view=Un02rhgAAAAJ:MXK_kJrjxJIC",
+      "citation_id": "Un02rhgAAAAJ:MXK_kJrjxJIC",
+      "authors": "Z Liu, G Quinones-Valdez, T Fu, E Huang, M Choudhury, F Reese, ...",
+      "publication": "Genome Biology 24 (1), 171, 2023",
+      "cited_by": {
+        "value": 24,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16476454066440598919",
+        "serpapi_link": "https://serpapi.com/search.json?cites=16476454066440598919&engine=google_scholar&hl=en",
+        "cites_id": "16476454066440598919"
+      },
+      "year": "2023"
+    },
+    {
+      "title": "scAllele: A versatile tool for the detection and analysis of variants in scRNA-seq",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Un02rhgAAAAJ&citation_for_view=Un02rhgAAAAJ:3fE2CSJIrl8C",
+      "citation_id": "Un02rhgAAAAJ:3fE2CSJIrl8C",
+      "authors": "G Quinones-Valdez, T Fu, TW Chan, X Xiao",
+      "publication": "Science Advances 8 (35), eabn6398, 2022",
+      "cited_by": {
+        "value": 18,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6023914868540801289,16551074891127263578",
+        "serpapi_link": "https://serpapi.com/search.json?cites=6023914868540801289%2C16551074891127263578&engine=google_scholar&hl=en",
+        "cites_id": "6023914868540801289,16551074891127263578"
+      },
+      "year": "2022"
+    },
+    {
+      "title": "Splicing-specific transcriptome-wide association uncovers genetic mechanisms for schizophrenia",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Un02rhgAAAAJ&citation_for_view=Un02rhgAAAAJ:_kc_bZDykSQC",
+      "citation_id": "Un02rhgAAAAJ:_kc_bZDykSQC",
+      "authors": "JL Hervoso, K Amoah, J Dodson, M Choudhury, A Bhattacharya, ...",
+      "publication": "The American Journal of Human Genetics 111 (8), 1573-1587, 2024",
+      "cited_by": {
+        "value": 10,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6069675586488762136",
+        "serpapi_link": "https://serpapi.com/search.json?cites=6069675586488762136&engine=google_scholar&hl=en",
+        "cites_id": "6069675586488762136"
+      },
+      "year": "2024"
+    },
+    {
+      "title": "Long-read RNA-seq demarcates cis- and trans-directed alternative RNA splicing",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Un02rhgAAAAJ&citation_for_view=Un02rhgAAAAJ:YOwf2qJgpHMC",
+      "citation_id": "Un02rhgAAAAJ:YOwf2qJgpHMC",
+      "authors": "G Quinones-Valdez, K Amoah, X Xiao",
+      "publication": "Nature Communications 16 (1), 9603, 2025",
+      "cited_by": {
+        "value": 3,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15074087183485529783",
+        "serpapi_link": "https://serpapi.com/search.json?cites=15074087183485529783&engine=google_scholar&hl=en",
+        "cites_id": "15074087183485529783"
+      },
+      "year": "2025"
+    },
+    {
+      "title": "Immune landscape of the affected brain in Rasmussen encephalitis",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Un02rhgAAAAJ&citation_for_view=Un02rhgAAAAJ:aqlVkmm33-oC",
+      "citation_id": "Un02rhgAAAAJ:aqlVkmm33-oC",
+      "authors": "G Quinones-Valdez, JW Chang, SD Magaki, HV Vinters, N Salamon, ...",
+      "publication": "Research Square, 2026",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2026"
+    },
+    {
+      "title": "Single-cell tracing of myeloid leukemia evolution in down syndrome reveals a latent progenitor bridging disease onset, progression and relapse",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Un02rhgAAAAJ&citation_for_view=Un02rhgAAAAJ:qxL8FJ1GzNcC",
+      "citation_id": "Un02rhgAAAAJ:qxL8FJ1GzNcC",
+      "authors": "S Frenz-Wiessner, Y Wang, K Rohde, G Quinones-Valdez, H Issa, ...",
+      "publication": "Blood 146, 1472, 2025",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2025"
+    },
+    {
+      "title": "3160–TRACING THE ORIGIN AND EVOLUTION OF MYELOID LEUKEMIA IN DOWN SYNDROME",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Un02rhgAAAAJ&citation_for_view=Un02rhgAAAAJ:M3ejUd6NZC8C",
+      "citation_id": "Un02rhgAAAAJ:M3ejUd6NZC8C",
+      "authors": "S Frenz-Wiessner, Y Wang, GQ Valdez, P Mack, H Issa, K Rohde, ...",
+      "publication": "Experimental Hematology 151, 105101, 2025",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2025"
+    },
+    {
+      "title": "Function and Regulation of Nucleotide Variants in RNA",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Un02rhgAAAAJ&citation_for_view=Un02rhgAAAAJ:ufrVoPGSRksC",
+      "citation_id": "Un02rhgAAAAJ:ufrVoPGSRksC",
+      "authors": "GQ Valdez",
+      "publication": "University of California, Los Angeles, 2021",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2021"
+    },
+    {
+      "title": "Functional Roles of Single Nucleotide Variants in Alternative Splicing",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Un02rhgAAAAJ&citation_for_view=Un02rhgAAAAJ:9yKSN-GCB0IC",
+      "citation_id": "Un02rhgAAAAJ:9yKSN-GCB0IC",
+      "authors": "YH Hsiao",
+      "publication": "UCLA, 2018",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2018"
+    },
+    {
+      "title": "Delaying Retinal Degeneration in a Mouse Model of Geographic Atrophy: An Antioxidant Gene Therapy Approach.",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Un02rhgAAAAJ&citation_for_view=Un02rhgAAAAJ:d1gkVwhDpl0C",
+      "citation_id": "Un02rhgAAAAJ:d1gkVwhDpl0C",
+      "authors": "MR Biswal, CJ Ildefonso, BP Rossmiller, H Mao, H Li, P Han, P Zhu, ...",
+      "publication": "Investigative Ophthalmology & Visual Science 56 (7), 3189-3189, 2015",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2015"
+    },
+    {
+      "title": "393. Effectiveness of Antioxidant Gene Therapy in Delaying Retinal Degeneration",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Un02rhgAAAAJ&citation_for_view=Un02rhgAAAAJ:qjMakFHDy7sC",
+      "citation_id": "Un02rhgAAAAJ:qjMakFHDy7sC",
+      "authors": "MR Biswal, C Ildefonso, Z Wang, H Mao, H Li, P Zhu, G Quinones, ...",
+      "publication": "Molecular Therapy 23, S156, 2015",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2015"
+    }
+  ],
+  "cited_by": {
+    "table": [
+      {
+        "citations": {
+          "all": 2736,
+          "since_2021": 2588
+        }
+      },
+      {
+        "h_index": {
+          "all": 10,
+          "since_2021": 10
+        }
+      },
+      {
+        "i10_index": {
+          "all": 10,
+          "since_2021": 10
+        }
+      }
+    ],
+    "graph": [
+      {
+        "year": 2019,
+        "citations": 21
+      },
+      {
+        "year": 2020,
+        "citations": 108
+      },
+      {
+        "year": 2021,
+        "citations": 384
+      },
+      {
+        "year": 2022,
+        "citations": 451
+      },
+      {
+        "year": 2023,
+        "citations": 487
+      },
+      {
+        "year": 2024,
+        "citations": 574
+      },
+      {
+        "year": 2025,
+        "citations": 630
+      },
+      {
+        "year": 2026,
+        "citations": 62
+      }
+    ]
+  },
+  "public_access": {
+    "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=Un02rhgAAAAJ",
+    "available": 12,
+    "not_available": 0
+  },
+  "co_authors": [
+    {
+      "name": "Jae Hoon Bahn",
+      "link": "https://scholar.google.com/citations?user=5AwrVWoAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=5AwrVWoAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "5AwrVWoAAAAJ",
+      "affiliations": "Scientist at UCLA",
+      "email": "Verified email at g.ucla.edu",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=5AwrVWoAAAAJ&citpid=3"
+    },
+    {
+      "name": "Ting Fu",
+      "link": "https://scholar.google.com/citations?user=-aXRLSsAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=-aXRLSsAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "-aXRLSsAAAAJ",
+      "affiliations": "UCLA",
+      "email": "Verified email at ucla.edu",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=-aXRLSsAAAAJ&citpid=2"
+    },
+    {
+      "name": "Ei-Wen Yang",
+      "link": "https://scholar.google.com/citations?user=DlhoLJQAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=DlhoLJQAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "DlhoLJQAAAAJ",
+      "affiliations": "PolyAgent",
+      "email": "Verified email at ucr.edu",
+      "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+    },
+    {
+      "name": "Brenton Graveley",
+      "link": "https://scholar.google.com/citations?user=S188gSkAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=S188gSkAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "S188gSkAAAAJ",
+      "affiliations": "Professor and Chair of Genetics and Genome Sciences, UCONN Health, Institute for Systems",
+      "email": "Verified email at uchc.edu",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=S188gSkAAAAJ&citpid=2"
+    },
+    {
+      "name": "Eric Van Nostrand",
+      "link": "https://scholar.google.com/citations?user=pcMUUEAAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=pcMUUEAAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "pcMUUEAAAAAJ",
+      "affiliations": "Baylor College of Medicine",
+      "email": "Verified email at bcm.edu",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=pcMUUEAAAAAJ&citpid=2"
+    },
+    {
+      "name": "Gabriel Pratt",
+      "link": "https://scholar.google.com/citations?user=zvv-JG8AAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=zvv-JG8AAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "zvv-JG8AAAAJ",
+      "affiliations": "Bioinformatics Scientist, TwinStrand Biosciences",
+      "email": "Verified email at ucsd.edu",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=zvv-JG8AAAAJ&citpid=1"
+    },
+    {
+      "name": "Gene Yeo PhD MBA",
+      "link": "https://scholar.google.com/citations?user=6D8iNc0AAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=6D8iNc0AAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "6D8iNc0AAAAJ",
+      "affiliations": "Professor of Cellular and Molecular Medicine at UC San Diego",
+      "email": "Verified email at ucsd.edu",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=6D8iNc0AAAAJ&citpid=3"
+    },
+    {
+      "name": "Mudra Choudhury",
+      "link": "https://scholar.google.com/citations?user=hKRbmw0AAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=hKRbmw0AAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "hKRbmw0AAAAJ",
+      "affiliations": "Bristol Myers Squib",
+      "email": "Verified email at bms.com",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=hKRbmw0AAAAJ&citpid=1"
+    },
+    {
+      "name": "Esther Yun-Hua Hsiao",
+      "link": "https://scholar.google.com/citations?user=lMsvONYAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=lMsvONYAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "lMsvONYAAAAJ",
+      "affiliations": "UCLA",
+      "email": "Verified email at ucla.edu",
+      "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+    },
+    {
+      "name": "Xianzhi Lin",
+      "link": "https://scholar.google.com/citations?user=w7_EW0kAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=w7_EW0kAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "w7_EW0kAAAAJ",
+      "affiliations": "Duke Kunshan University",
+      "email": "Verified email at duke.edu",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=w7_EW0kAAAAJ&citpid=15"
+    },
+    {
+      "name": "Anneke Brümmer",
+      "link": "https://scholar.google.com/citations?user=ouzMgzoAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=ouzMgzoAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "ouzMgzoAAAAJ",
+      "affiliations": "University of Lausanne",
+      "email": "Verified email at unil.ch",
+      "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+    },
+    {
+      "name": "Jill E. Moore, PhD",
+      "link": "https://scholar.google.com/citations?user=aJ_YDAsAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=aJ_YDAsAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "aJ_YDAsAAAAJ",
+      "affiliations": "Assistant Professor, UMass Chan Medical School",
+      "email": "Verified email at umassmed.edu",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=aJ_YDAsAAAAJ&citpid=3"
+    },
+    {
+      "name": "Zhiping Weng",
+      "link": "https://scholar.google.com/citations?user=-o3I0zUAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=-o3I0zUAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "-o3I0zUAAAAJ",
+      "affiliations": "Prof & Chair, Department of Genomics and Computational Biology, UMASS Medical School",
+      "email": "Verified email at umassmed.edu",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=-o3I0zUAAAAJ&citpid=2"
+    },
+    {
+      "name": "Richard M. Myers",
+      "link": "https://scholar.google.com/citations?user=uNSng0gAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=uNSng0gAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "uNSng0gAAAAJ",
+      "affiliations": "HudsonAlpha Institute for Biotechnology",
+      "email": "Verified email at hudsonalpha.com",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=uNSng0gAAAAJ&citpid=2"
+    },
+    {
+      "name": "Bing Ren, Ph.D.",
+      "link": "https://scholar.google.com/citations?user=XU7ZT5kAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=XU7ZT5kAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "XU7ZT5kAAAAJ",
+      "affiliations": "New York Genome Center",
+      "email": "Verified email at nygenome.org",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=XU7ZT5kAAAAJ&citpid=2"
+    },
+    {
+      "name": "Michael Snyder",
+      "link": "https://scholar.google.com/citations?user=YZYne64AAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=YZYne64AAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "YZYne64AAAAJ",
+      "affiliations": "Stanford University",
+      "email": "Verified email at stanford.edu",
+      "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+    },
+    {
+      "name": "Bradley Bernstein",
+      "link": "https://scholar.google.com/citations?user=RNWfk1QAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=RNWfk1QAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "RNWfk1QAAAAJ",
+      "affiliations": "Professor of Pathology, Harvard University",
+      "email": "Verified email at broadinstitute.org",
+      "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+    },
+    {
+      "name": "Adam Frankish",
+      "link": "https://scholar.google.com/citations?user=S2aWPBUAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=S2aWPBUAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "S2aWPBUAAAAJ",
+      "affiliations": "Manual Genome Annotation Coordinator, EMBL-EBI",
+      "email": "Verified email at ebi.ac.uk",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=S2aWPBUAAAAJ&citpid=1"
+    },
+    {
+      "name": "Ross C. Hardison",
+      "link": "https://scholar.google.com/citations?user=waPNWUYAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=waPNWUYAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "waPNWUYAAAAJ",
+      "affiliations": "Professor Emeritus of Biochemistry and Molecular Biology, The Pennsylvania State University",
+      "email": "Verified email at psu.edu",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=waPNWUYAAAAJ&citpid=4"
+    },
+    {
+      "name": "J. Michael Cherry",
+      "link": "https://scholar.google.com/citations?user=Sha9_3YAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=Sha9_3YAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "Sha9_3YAAAAJ",
+      "affiliations": "Stanford University, Department of Genetics",
+      "email": "Verified email at stanford.edu",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Sha9_3YAAAAJ&citpid=3"
+    }
+  ]
 }
