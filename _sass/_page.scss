@@ -225,7 +225,7 @@
   font-size: $type-size-7;
   text-transform: uppercase;
   letter-spacing: 0.04em;
-  color: $text-color-light;
+  color: $gray;
 }
 
 .scholar-metrics__value {
@@ -236,7 +236,7 @@
 
 .scholar-metrics__since {
   font-size: $type-size-6;
-  color: $text-color-light;
+  color: $gray;
 }
 
 .scholar-publications__list {
@@ -262,7 +262,7 @@
 .scholar-publications__journal,
 .scholar-publications__cites {
   font-size: $type-size-6;
-  color: $text-color-light;
+  color: $gray;
 }
 
 .scholar-publications__year {
