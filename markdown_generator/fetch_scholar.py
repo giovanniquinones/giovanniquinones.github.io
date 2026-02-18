@@ -20,7 +20,9 @@ url = "https://serpapi.com/search.json?" + urllib.parse.urlencode(params)
 with urllib.request.urlopen(url) as response:
     data = json.loads(response.read().decode("utf-8"))
 
+# /Users/giovanni/giovanniquinones.github.io
 output_path = os.path.join(os.path.dirname(__file__), "..", "_data", "scholar.json")
+
 with open(output_path, "w", encoding="utf-8") as f:
     json.dump(data, f, ensure_ascii=False, indent=2)
 
