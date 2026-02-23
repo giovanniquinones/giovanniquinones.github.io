@@ -1,13 +1,13 @@
 {
   "search_metadata": {
-    "id": "69957be6b4ab721c643ae3ca",
+    "id": "699c96bc5729481f5df95b85",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/rlbW6Wf4bQBJSERAaNUmQQ/69957be6b4ab721c643ae3ca.json",
-    "created_at": "2026-02-18 08:44:22 UTC",
-    "processed_at": "2026-02-18 08:44:22 UTC",
+    "json_endpoint": "https://serpapi.com/searches/rlbW6Wf4bQBJSERAaNUmQQ/699c96bc5729481f5df95b85.json",
+    "created_at": "2026-02-23 18:04:44 UTC",
+    "processed_at": "2026-02-23 18:04:44 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=Un02rhgAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/rlbW6Wf4bQBJSERAaNUmQQ/69957be6b4ab721c643ae3ca.html",
-    "total_time_taken": 1.09
+    "raw_html_file": "https://serpapi.com/searches/rlbW6Wf4bQBJSERAaNUmQQ/699c96bc5729481f5df95b85.html",
+    "total_time_taken": 1.08
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -51,7 +51,7 @@
       "authors": "JE Moore, MJ Purcaro, HE Pratt, CB Epstein, N Shoresh, J Adrian, T Kawli, ...",
       "publication": "Nature 583 (7818), 699-710, 2020",
       "cited_by": {
-        "value": 2090,
+        "value": 2096,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=648428232262261720",
         "serpapi_link": "https://serpapi.com/search.json?cites=648428232262261720&engine=google_scholar&hl=en",
         "cites_id": "648428232262261720"
@@ -210,6 +210,28 @@
       "year": "2026"
     },
     {
+      "title": "Allele-specific alternative polyadenylation links noncoding genetic variation to Alzheimer's disease risk",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Un02rhgAAAAJ&citation_for_view=Un02rhgAAAAJ:mVmsd5A6BfQC",
+      "citation_id": "Un02rhgAAAAJ:mVmsd5A6BfQC",
+      "authors": "RM Barney, G Quinones-Valdez, AJ King, K Amoah, W Wang, X Xiao",
+      "publication": "bioRxiv, 2026.02. 13.705798, 2026",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2026"
+    },
+    {
+      "title": "Allele-specific splicing modulates protein isoforms and Alzheimer's risk",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Un02rhgAAAAJ&citation_for_view=Un02rhgAAAAJ:Wp0gIr-vW9MC",
+      "citation_id": "Un02rhgAAAAJ:Wp0gIr-vW9MC",
+      "authors": "AJ King, K Amoah, L Zhang, JH Bahn, RM Barney, G Quinones-Valdez, ...",
+      "publication": "bioRxiv, 2026.02. 13.705796, 2026",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2026"
+    },
+    {
       "title": "Single-cell tracing of myeloid leukemia evolution in down syndrome reveals a latent progenitor bridging disease onset, progression and relapse",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Un02rhgAAAAJ&citation_for_view=Un02rhgAAAAJ:qxL8FJ1GzNcC",
       "citation_id": "Un02rhgAAAAJ:qxL8FJ1GzNcC",
@@ -280,8 +302,8 @@
     "table": [
       {
         "citations": {
-          "all": 2768,
-          "since_2021": 2622
+          "all": 2774,
+          "since_2021": 2628
         }
       },
       {
@@ -324,17 +346,17 @@
       },
       {
         "year": 2025,
-        "citations": 641
+        "citations": 639
       },
       {
         "year": 2026,
-        "citations": 89
+        "citations": 97
       }
     ]
   },
   "public_access": {
     "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=Un02rhgAAAAJ",
-    "available": 12,
+    "available": 14,
     "not_available": 0
   },
   "co_authors": [
@@ -518,5 +540,8 @@
       "email": "Verified email at stanford.edu",
       "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Sha9_3YAAAAJ&citpid=3"
     }
-  ]
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?author_id=Un02rhgAAAAJ&engine=google_scholar_author&hl=en&start=20"
+  }
 }
