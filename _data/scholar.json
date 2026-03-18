@@ -1,13 +1,13 @@
 {
   "search_metadata": {
-    "id": "699c96bc5729481f5df95b85",
+    "id": "69bb277e8681803409a77ac6",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/rlbW6Wf4bQBJSERAaNUmQQ/699c96bc5729481f5df95b85.json",
-    "created_at": "2026-02-23 18:04:44 UTC",
-    "processed_at": "2026-02-23 18:04:44 UTC",
+    "json_endpoint": "https://serpapi.com/searches/rlbW6Wf4bQBJSERAaNUmQQ/69bb277e8681803409a77ac6.json",
+    "created_at": "2026-03-18 22:30:22 UTC",
+    "processed_at": "2026-03-18 22:30:22 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=Un02rhgAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/rlbW6Wf4bQBJSERAaNUmQQ/699c96bc5729481f5df95b85.html",
-    "total_time_taken": 1.08
+    "raw_html_file": "https://serpapi.com/searches/rlbW6Wf4bQBJSERAaNUmQQ/69bb277e8681803409a77ac6.html",
+    "total_time_taken": 1.4
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -51,7 +51,7 @@
       "authors": "JE Moore, MJ Purcaro, HE Pratt, CB Epstein, N Shoresh, J Adrian, T Kawli, ...",
       "publication": "Nature 583 (7818), 699-710, 2020",
       "cited_by": {
-        "value": 2096,
+        "value": 2132,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=648428232262261720",
         "serpapi_link": "https://serpapi.com/search.json?cites=648428232262261720&engine=google_scholar&hl=en",
         "cites_id": "648428232262261720"
@@ -65,7 +65,7 @@
       "authors": "MP Snyder, TR Gingeras, JE Moore, Z Weng, MB Gerstein, B Ren, ...",
       "publication": "Nature 583 (7818), 693-698, 2020",
       "cited_by": {
-        "value": 180,
+        "value": 182,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13037996884087036368,12466045730709983789,7901029321751058697",
         "serpapi_link": "https://serpapi.com/search.json?cites=13037996884087036368%2C12466045730709983789%2C7901029321751058697&engine=google_scholar&hl=en",
         "cites_id": "13037996884087036368,12466045730709983789,7901029321751058697"
@@ -93,7 +93,7 @@
       "authors": "G Quinones-Valdez, SS Tran, HI Jun, JH Bahn, EW Yang, L Zhan, ...",
       "publication": "Communications biology 2 (1), 19, 2019",
       "cited_by": {
-        "value": 142,
+        "value": 143,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11402915078674006669",
         "serpapi_link": "https://serpapi.com/search.json?cites=11402915078674006669&engine=google_scholar&hl=en",
         "cites_id": "11402915078674006669"
@@ -107,7 +107,7 @@
       "authors": "EW Yang, JH Bahn, EYH Hsiao, BX Tan, Y Sun, T Fu, B Zhou, ...",
       "publication": "Nature communications 10 (1), 1338, 2019",
       "cited_by": {
-        "value": 60,
+        "value": 61,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10137849346563844167",
         "serpapi_link": "https://serpapi.com/search.json?cites=10137849346563844167&engine=google_scholar&hl=en",
         "cites_id": "10137849346563844167"
@@ -135,7 +135,7 @@
       "authors": "R Zheng, M Dunlap, GOM Bobkov, C Gonzalez-Figueroa, KJ Patel, J Lyu, ...",
       "publication": "Molecular cell 84 (11), 2087-2103. e8, 2024",
       "cited_by": {
-        "value": 29,
+        "value": 32,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17186719674900460619,7484198392927232078",
         "serpapi_link": "https://serpapi.com/search.json?cites=17186719674900460619%2C7484198392927232078&engine=google_scholar&hl=en",
         "cites_id": "17186719674900460619,7484198392927232078"
@@ -149,7 +149,7 @@
       "authors": "Z Liu, G Quinones-Valdez, T Fu, E Huang, M Choudhury, F Reese, ...",
       "publication": "Genome Biology 24 (1), 171, 2023",
       "cited_by": {
-        "value": 24,
+        "value": 25,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16476454066440598919",
         "serpapi_link": "https://serpapi.com/search.json?cites=16476454066440598919&engine=google_scholar&hl=en",
         "cites_id": "16476454066440598919"
@@ -302,8 +302,8 @@
     "table": [
       {
         "citations": {
-          "all": 2774,
-          "since_2021": 2628
+          "all": 2818,
+          "since_2021": 2672
         }
       },
       {
@@ -338,19 +338,19 @@
       },
       {
         "year": 2023,
-        "citations": 489
+        "citations": 488
       },
       {
         "year": 2024,
-        "citations": 576
+        "citations": 575
       },
       {
         "year": 2025,
-        "citations": 639
+        "citations": 640
       },
       {
         "year": 2026,
-        "citations": 97
+        "citations": 142
       }
     ]
   },
@@ -451,15 +451,6 @@
       "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=w7_EW0kAAAAJ&citpid=15"
     },
     {
-      "name": "Anneke Brümmer",
-      "link": "https://scholar.google.com/citations?user=ouzMgzoAAAAJ&hl=en",
-      "serpapi_link": "https://serpapi.com/search.json?author_id=ouzMgzoAAAAJ&engine=google_scholar_author&hl=en",
-      "author_id": "ouzMgzoAAAAJ",
-      "affiliations": "University of Lausanne",
-      "email": "Verified email at unil.ch",
-      "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
-    },
-    {
       "name": "Jill E. Moore, PhD",
       "link": "https://scholar.google.com/citations?user=aJ_YDAsAAAAJ&hl=en",
       "serpapi_link": "https://serpapi.com/search.json?author_id=aJ_YDAsAAAAJ&engine=google_scholar_author&hl=en",
@@ -539,6 +530,15 @@
       "affiliations": "Stanford University, Department of Genetics",
       "email": "Verified email at stanford.edu",
       "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Sha9_3YAAAAJ&citpid=3"
+    },
+    {
+      "name": "Thomas Gingeras",
+      "link": "https://scholar.google.com/citations?user=uKGAVZwAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=uKGAVZwAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "uKGAVZwAAAAJ",
+      "affiliations": "Professor of Functional Genomics, Cold Spring Harbor Laboratory",
+      "email": "Verified email at cshl.edu",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=uKGAVZwAAAAJ&citpid=5"
     }
   ],
   "serpapi_pagination": {
