@@ -572,9 +572,18 @@
   .home-hero,
   .home-card,
   .home-gallery {
-    opacity: 0;
-    transform: translateY(14px);
-    animation: home-rise 0.55s ease-out forwards;
+    opacity: 1;
+    transform: none;
+  }
+
+  @media (prefers-reduced-motion: no-preference) {
+    .home-hero,
+    .home-card,
+    .home-gallery {
+      opacity: 0;
+      transform: translateY(14px);
+      animation: home-rise 0.55s ease-out forwards;
+    }
   }
 
   .home-card:nth-child(1) {
