@@ -18,15 +18,15 @@ redirect_from:
     health and disease.
   </p>
   <div class="home-hero__actions">
-    <a class="btn" href="/publications/">View Publications</a>
-    <a class="btn btn--inverse" href="/cv/">Download CV</a>
+    <a class="btn" href="{{ '/publications/' | relative_url }}">View Publications</a>
+    <a class="btn btn--inverse" href="{{ '/cv/' | relative_url }}">Download CV</a>
   </div>
 </section>
 
 <section class="home-grid" aria-label="Highlights">
   <article class="home-card home-card--profile">
     <div class="home-card__photo-shell">
-      <img class="home-card__photo" src="/images/PXL_20210107_064439158.jpg" alt="Portrait of Giovanni Quinones Valdez" />
+      <img class="home-card__photo" src="{{ '/images/PXL_20210107_064439158.jpg' | relative_url }}" alt="Portrait of Giovanni Quinones Valdez" />
     </div>
     <p class="home-card__kicker">Current role</p>
     <h3>Postdoctoral Fellow at UCLA</h3>
@@ -68,15 +68,15 @@ redirect_from:
 
   <div class="home-gallery__grid">
     <figure class="home-gallery__item home-gallery__item--wide">
-      <img src="/images/RiboFolds.png" alt="RNA art piece" />
+      <img src="{{ '/images/RiboFolds.png' | relative_url }}" alt="RNA art piece" />
       <figcaption>RNA art</figcaption>
     </figure>
     <figure class="home-gallery__item">
-      <img src="/images/PXL_20201013_222829414.jpg" alt="Origami figure" />
+      <img src="{{ '/images/PXL_20201013_222829414.jpg' | relative_url }}" alt="Origami figure" />
       <figcaption>Origami</figcaption>
     </figure>
     <figure class="home-gallery__item">
-      <img src="/images/IMG_1043.JPG" alt="Origami artwork" />
+      <img src="{{ '/images/IMG_1043.JPG' | relative_url }}" alt="Origami artwork" />
       <figcaption>Origami</figcaption>
     </figure>
   </div>
