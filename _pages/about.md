@@ -1,55 +1,84 @@
 ---
 permalink: /
-title: "About"
-excerpt: "About me"
-author_profile: true
+title: "Computational RNA Biology"
+excerpt: "I build computational tools to study RNA variation and function in health and disease."
+author_profile: false
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-
-
-
-Bio
-------
-I specialize in developing computational tools for analyzing various modalities of RNA sequencing data, focusing on nucleotide variants originating from genetic and post-transcriptional processes. My primary objective is to characterize these variants and elucidate their functional implications in RNA processing within health and disease contexts.
-
-
-
-<div style="display: flex; align-items: center;">
-
-  <div style="flex: 1; margin-right: 10px; margin-left: 0px;">
-    <img src="/images/PXL_20210107_064439158.jpg" style="width: 99%; height: 99%"/>  
+<section class="home-hero">
+  <p class="home-hero__eyebrow">Giovanni Quinones Valdez, Ph.D.</p>
+  <h2 class="home-hero__title">Making sense of RNA variation with computational biology</h2>
+  <p class="home-hero__lede">
+    I develop methods for analyzing RNA sequencing data, with a focus on
+    nucleotide variants from genetic and post-transcriptional processes.
+    My work connects method development with biological interpretation in
+    health and disease.
+  </p>
+  <div class="home-hero__actions">
+    <a class="btn" href="/publications/">View Publications</a>
+    <a class="btn btn--inverse" href="/cv/">Download CV</a>
   </div>
+</section>
 
+<section class="home-grid" aria-label="Highlights">
+  <article class="home-card home-card--profile">
+    <div class="home-card__photo-shell">
+      <img class="home-card__photo" src="/images/PXL_20210107_064439158.jpg" alt="Portrait of Giovanni Quinones Valdez" />
+    </div>
+    <p class="home-card__kicker">Current role</p>
+    <h3>Postdoctoral Fellow at UCLA</h3>
+    <p>Building computational pipelines to characterize RNA processing and variant biology.</p>
+  </article>
 
-  <div style="flex: 3; margin-left: 10px;">
-    <h2>Education</h2>
-    <hr/>
-    <ul>
-      <li><strong>International Baccalaureate, 2011</strong><br/>United World Colleges of the Adriatic (Italy)</li>
-      <li><strong>B.S. in Agricultural and Biological Engineering, 2015</strong><br/>University of Florida (Florida, USA)</li>
-      <li><strong>Ph.D. in Bioengineering, 2021</strong><br/>University of California, Los Angeles (California, USA)</li>
+  <article class="home-card">
+    <p class="home-card__kicker">Education</p>
+    <ul class="home-timeline">
+      <li>
+        <strong>Ph.D. in Bioengineering</strong>
+        <span>University of California, Los Angeles, 2021</span>
+      </li>
+      <li>
+        <strong>B.S. in Agricultural and Biological Engineering</strong>
+        <span>University of Florida, 2015</span>
+      </li>
+      <li>
+        <strong>International Baccalaureate</strong>
+        <span>United World Colleges of the Adriatic, 2011</span>
+      </li>
     </ul>
+  </article>
+
+  <article class="home-card">
+    <p class="home-card__kicker">Research themes</p>
+    <ul class="home-tags">
+      <li>RNA-seq analytics</li>
+      <li>Nucleotide variant detection</li>
+      <li>Post-transcriptional biology</li>
+      <li>Disease-focused interpretation</li>
+    </ul>
+  </article>
+</section>
+
+<section class="home-gallery" aria-label="Creative interests">
+  <h2>Beyond the bench</h2>
+  <p>I also enjoy building RNA-inspired art and folded-paper designs.</p>
+
+  <div class="home-gallery__grid">
+    <figure class="home-gallery__item home-gallery__item--wide">
+      <img src="/images/RiboFolds.png" alt="RNA art piece" />
+      <figcaption>RNA art</figcaption>
+    </figure>
+    <figure class="home-gallery__item">
+      <img src="/images/PXL_20201013_222829414.jpg" alt="Origami figure" />
+      <figcaption>Origami</figcaption>
+    </figure>
+    <figure class="home-gallery__item">
+      <img src="/images/IMG_1043.JPG" alt="Origami artwork" />
+      <figcaption>Origami</figcaption>
+    </figure>
   </div>
-    
-</div>
-
-Interests
-------
-
-- I like making RNA art:
-
-<div style="display: flex; justify-content: space-between;">
-  <img src="/images/RiboFolds.png"  alt="Image 1 description" style="width: 75%;"/>
-</div>
-
-
-- .. and origami:
-
-<div style="display: flex; justify-content: space-between;">
-  <img src="/images/PXL_20201013_222829414.jpg"  alt="Image 1 description" style="width: 45%;"/>
-  <img src="/images/IMG_1043.JPG" alt="Image 2 description" style="width: 45%;"/>
-</div>
+</section>
 

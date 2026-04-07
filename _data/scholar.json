@@ -1,13 +1,13 @@
 {
   "search_metadata": {
-    "id": "69bb277e8681803409a77ac6",
+    "id": "69d589bc9a1f2c83729ba614",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/rlbW6Wf4bQBJSERAaNUmQQ/69bb277e8681803409a77ac6.json",
-    "created_at": "2026-03-18 22:30:22 UTC",
-    "processed_at": "2026-03-18 22:30:22 UTC",
+    "json_endpoint": "https://serpapi.com/searches/rlbW6Wf4bQBJSERAaNUmQQ/69d589bc9a1f2c83729ba614.json",
+    "created_at": "2026-04-07 22:48:28 UTC",
+    "processed_at": "2026-04-07 22:48:28 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=Un02rhgAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/rlbW6Wf4bQBJSERAaNUmQQ/69bb277e8681803409a77ac6.html",
-    "total_time_taken": 1.4
+    "raw_html_file": "https://serpapi.com/searches/rlbW6Wf4bQBJSERAaNUmQQ/69d589bc9a1f2c83729ba614.html",
+    "total_time_taken": 1.04
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -51,7 +51,7 @@
       "authors": "JE Moore, MJ Purcaro, HE Pratt, CB Epstein, N Shoresh, J Adrian, T Kawli, ...",
       "publication": "Nature 583 (7818), 699-710, 2020",
       "cited_by": {
-        "value": 2132,
+        "value": 2161,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=648428232262261720",
         "serpapi_link": "https://serpapi.com/search.json?cites=648428232262261720&engine=google_scholar&hl=en",
         "cites_id": "648428232262261720"
@@ -65,7 +65,7 @@
       "authors": "MP Snyder, TR Gingeras, JE Moore, Z Weng, MB Gerstein, B Ren, ...",
       "publication": "Nature 583 (7818), 693-698, 2020",
       "cited_by": {
-        "value": 182,
+        "value": 183,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13037996884087036368,12466045730709983789,7901029321751058697",
         "serpapi_link": "https://serpapi.com/search.json?cites=13037996884087036368%2C12466045730709983789%2C7901029321751058697&engine=google_scholar&hl=en",
         "cites_id": "13037996884087036368,12466045730709983789,7901029321751058697"
@@ -79,7 +79,7 @@
       "authors": "YHE Hsiao, JH Bahn, Y Yang, X Lin, S Tran, EW Yang, ...",
       "publication": "Genome research 28 (6), 812-823, 2018",
       "cited_by": {
-        "value": 161,
+        "value": 162,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13268555053370951987",
         "serpapi_link": "https://serpapi.com/search.json?cites=13268555053370951987&engine=google_scholar&hl=en",
         "cites_id": "13268555053370951987"
@@ -93,7 +93,7 @@
       "authors": "G Quinones-Valdez, SS Tran, HI Jun, JH Bahn, EW Yang, L Zhan, ...",
       "publication": "Communications biology 2 (1), 19, 2019",
       "cited_by": {
-        "value": 143,
+        "value": 144,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11402915078674006669",
         "serpapi_link": "https://serpapi.com/search.json?cites=11402915078674006669&engine=google_scholar&hl=en",
         "cites_id": "11402915078674006669"
@@ -121,7 +121,7 @@
       "authors": "TW Chan, T Fu, JH Bahn, HI Jun, JH Lee, G Quinones-Valdez, C Cheng, ...",
       "publication": "Genome biology 21 (1), 268, 2020",
       "cited_by": {
-        "value": 49,
+        "value": 51,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3283132903120402362,5322147104356830065",
         "serpapi_link": "https://serpapi.com/search.json?cites=3283132903120402362%2C5322147104356830065&engine=google_scholar&hl=en",
         "cites_id": "3283132903120402362,5322147104356830065"
@@ -135,7 +135,7 @@
       "authors": "R Zheng, M Dunlap, GOM Bobkov, C Gonzalez-Figueroa, KJ Patel, J Lyu, ...",
       "publication": "Molecular cell 84 (11), 2087-2103. e8, 2024",
       "cited_by": {
-        "value": 32,
+        "value": 33,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17186719674900460619,7484198392927232078",
         "serpapi_link": "https://serpapi.com/search.json?cites=17186719674900460619%2C7484198392927232078&engine=google_scholar&hl=en",
         "cites_id": "17186719674900460619,7484198392927232078"
@@ -177,7 +177,7 @@
       "authors": "JL Hervoso, K Amoah, J Dodson, M Choudhury, A Bhattacharya, ...",
       "publication": "The American Journal of Human Genetics 111 (8), 1573-1587, 2024",
       "cited_by": {
-        "value": 12,
+        "value": 13,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6069675586488762136",
         "serpapi_link": "https://serpapi.com/search.json?cites=6069675586488762136&engine=google_scholar&hl=en",
         "cites_id": "6069675586488762136"
@@ -191,7 +191,7 @@
       "authors": "G Quinones-Valdez, K Amoah, X Xiao",
       "publication": "Nature Communications 16 (1), 9603, 2025",
       "cited_by": {
-        "value": 4,
+        "value": 6,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13732698681155342026",
         "serpapi_link": "https://serpapi.com/search.json?cites=13732698681155342026&engine=google_scholar&hl=en",
         "cites_id": "13732698681155342026"
@@ -199,18 +199,18 @@
       "year": "2025"
     },
     {
-      "title": "Immune landscape of the affected brain in Rasmussen encephalitis",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Un02rhgAAAAJ&citation_for_view=Un02rhgAAAAJ:aqlVkmm33-oC",
-      "citation_id": "Un02rhgAAAAJ:aqlVkmm33-oC",
-      "authors": "G Quinones-Valdez, JW Chang, SD Magaki, HV Vinters, N Salamon, ...",
-      "publication": "Research Square, 2026",
+      "title": "Allele-specific splicing modulates protein isoforms and Alzheimer’s risk",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Un02rhgAAAAJ&citation_for_view=Un02rhgAAAAJ:Wp0gIr-vW9MC",
+      "citation_id": "Un02rhgAAAAJ:Wp0gIr-vW9MC",
+      "authors": "AJ King, K Amoah, L Zhang, JH Bahn, RM Barney, G Quinones-Valdez, ...",
+      "publication": "bioRxiv, 2026.02. 13.705796, 2026",
       "cited_by": {
         "value": null
       },
       "year": "2026"
     },
     {
-      "title": "Allele-specific alternative polyadenylation links noncoding genetic variation to Alzheimer's disease risk",
+      "title": "Allele-specific alternative polyadenylation links noncoding genetic variation to Alzheimer’s disease risk",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Un02rhgAAAAJ&citation_for_view=Un02rhgAAAAJ:mVmsd5A6BfQC",
       "citation_id": "Un02rhgAAAAJ:mVmsd5A6BfQC",
       "authors": "RM Barney, G Quinones-Valdez, AJ King, K Amoah, W Wang, X Xiao",
@@ -221,11 +221,11 @@
       "year": "2026"
     },
     {
-      "title": "Allele-specific splicing modulates protein isoforms and Alzheimer's risk",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Un02rhgAAAAJ&citation_for_view=Un02rhgAAAAJ:Wp0gIr-vW9MC",
-      "citation_id": "Un02rhgAAAAJ:Wp0gIr-vW9MC",
-      "authors": "AJ King, K Amoah, L Zhang, JH Bahn, RM Barney, G Quinones-Valdez, ...",
-      "publication": "bioRxiv, 2026.02. 13.705796, 2026",
+      "title": "Immune landscape of the affected brain in Rasmussen encephalitis",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Un02rhgAAAAJ&citation_for_view=Un02rhgAAAAJ:aqlVkmm33-oC",
+      "citation_id": "Un02rhgAAAAJ:aqlVkmm33-oC",
+      "authors": "G Quinones-Valdez, JW Chang, SD Magaki, HV Vinters, N Salamon, ...",
+      "publication": "Research Square, 2026",
       "cited_by": {
         "value": null
       },
@@ -302,8 +302,8 @@
     "table": [
       {
         "citations": {
-          "all": 2818,
-          "since_2021": 2672
+          "all": 2856,
+          "since_2021": 2710
         }
       },
       {
@@ -330,7 +330,7 @@
       },
       {
         "year": 2021,
-        "citations": 380
+        "citations": 381
       },
       {
         "year": 2022,
@@ -338,19 +338,19 @@
       },
       {
         "year": 2023,
-        "citations": 488
+        "citations": 491
       },
       {
         "year": 2024,
-        "citations": 575
+        "citations": 578
       },
       {
         "year": 2025,
-        "citations": 640
+        "citations": 636
       },
       {
         "year": 2026,
-        "citations": 142
+        "citations": 177
       }
     ]
   },
@@ -451,6 +451,15 @@
       "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=w7_EW0kAAAAJ&citpid=15"
     },
     {
+      "name": "Anneke Brümmer",
+      "link": "https://scholar.google.com/citations?user=ouzMgzoAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=ouzMgzoAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "ouzMgzoAAAAJ",
+      "affiliations": "University of Lausanne",
+      "email": "Verified email at unil.ch",
+      "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+    },
+    {
       "name": "Jill E. Moore, PhD",
       "link": "https://scholar.google.com/citations?user=aJ_YDAsAAAAJ&hl=en",
       "serpapi_link": "https://serpapi.com/search.json?author_id=aJ_YDAsAAAAJ&engine=google_scholar_author&hl=en",
@@ -530,15 +539,6 @@
       "affiliations": "Stanford University, Department of Genetics",
       "email": "Verified email at stanford.edu",
       "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Sha9_3YAAAAJ&citpid=3"
-    },
-    {
-      "name": "Thomas Gingeras",
-      "link": "https://scholar.google.com/citations?user=uKGAVZwAAAAJ&hl=en",
-      "serpapi_link": "https://serpapi.com/search.json?author_id=uKGAVZwAAAAJ&engine=google_scholar_author&hl=en",
-      "author_id": "uKGAVZwAAAAJ",
-      "affiliations": "Professor of Functional Genomics, Cold Spring Harbor Laboratory",
-      "email": "Verified email at cshl.edu",
-      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=uKGAVZwAAAAJ&citpid=5"
     }
   ],
   "serpapi_pagination": {
