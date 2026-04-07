@@ -318,6 +318,310 @@
   }
 }
 
+/*
+   Homepage refresh
+   ========================================================================== */
+
+.page--home {
+  @include breakpoint($large) {
+    @include span(12 of 12 last);
+    @include prefix(0);
+    @include suffix(0);
+  }
+
+  .page__inner-wrap {
+    max-width: 1080px;
+    margin: 0 auto;
+  }
+
+  header {
+    margin-bottom: 0.75em;
+  }
+
+  .page__title {
+    font-family: "Avenir Next", "Segoe UI", "Helvetica Neue", sans-serif;
+    font-weight: 800;
+    line-height: 0.95;
+    letter-spacing: -0.02em;
+    font-size: clamp(2.2rem, 5vw, 4.1rem);
+    max-width: 12ch;
+    color: #0e2a39;
+  }
+
+  .page__content {
+    font-family: "Avenir Next", "Segoe UI", "Helvetica Neue", sans-serif;
+  }
+
+  .home-hero {
+    position: relative;
+    padding: clamp(1.25rem, 3vw, 2rem);
+    border-radius: 20px;
+    margin: 1.25rem 0 1.75rem;
+    background:
+      radial-gradient(circle at 85% 20%, rgba(255, 198, 132, 0.45), transparent 45%),
+      linear-gradient(130deg, #f4fbff 0%, #d8edf8 45%, #f8efe1 100%);
+    border: 1px solid rgba(40, 95, 122, 0.2);
+    box-shadow: 0 20px 55px rgba(19, 57, 76, 0.16);
+    overflow: hidden;
+  }
+
+  .home-hero::after {
+    content: "";
+    position: absolute;
+    width: 220px;
+    height: 220px;
+    right: -70px;
+    bottom: -80px;
+    background: radial-gradient(circle, rgba(30, 110, 140, 0.18) 0%, rgba(30, 110, 140, 0) 72%);
+  }
+
+  .home-hero__eyebrow {
+    margin: 0;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    font-weight: 700;
+    color: #23556f;
+    font-size: $type-size-6;
+  }
+
+  .home-hero__title {
+    margin: 0.25rem 0 0.65rem;
+    border: 0;
+    padding: 0;
+    font-size: clamp(1.5rem, 2.8vw, 2.2rem);
+    line-height: 1.15;
+    color: #0f2e3c;
+  }
+
+  .home-hero__lede {
+    max-width: 65ch;
+    margin: 0;
+    color: #234452;
+    font-size: $type-size-5;
+  }
+
+  .home-hero__actions {
+    display: flex;
+    gap: 0.7rem;
+    flex-wrap: wrap;
+    margin-top: 1rem;
+  }
+
+  .home-hero__actions .btn {
+    border-radius: 999px;
+    font-weight: 700;
+    text-decoration: none;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+  }
+
+  .home-hero__actions .btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 18px rgba(23, 67, 84, 0.22);
+  }
+
+  .home-grid {
+    display: grid;
+    grid-template-columns: repeat(12, minmax(0, 1fr));
+    gap: 1rem;
+    margin: 1.5rem 0 2rem;
+  }
+
+  .home-card {
+    grid-column: span 4;
+    padding: 1.1rem;
+    border-radius: 16px;
+    border: 1px solid rgba(22, 78, 100, 0.17);
+    background: linear-gradient(180deg, #ffffff 0%, #f8fcff 100%);
+    box-shadow: 0 12px 30px rgba(13, 46, 62, 0.11);
+  }
+
+  .home-card--profile {
+    background: linear-gradient(165deg, #f8fcff 0%, #ebf6fd 60%, #fff8ed 100%);
+  }
+
+  .home-card h3 {
+    margin-top: 0.2rem;
+    margin-bottom: 0.4rem;
+    border: 0;
+    padding: 0;
+  }
+
+  .home-card p {
+    margin-bottom: 0;
+  }
+
+  .home-card__photo-shell {
+    position: relative;
+    margin-bottom: 0.8rem;
+    border-radius: 30px 18px 34px 16px;
+    padding: 0.35rem;
+    background: linear-gradient(135deg, #257093 0%, #6fb2cf 52%, #f2ba77 100%);
+    box-shadow: 0 14px 26px rgba(18, 62, 82, 0.22);
+    transform: rotate(-1.2deg);
+  }
+
+  .home-card__photo-shell::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    border-radius: 30px 18px 34px 16px;
+    border: 1px solid rgba(255, 255, 255, 0.65);
+    pointer-events: none;
+  }
+
+  .home-card__photo {
+    display: block;
+    width: 100%;
+    aspect-ratio: 4 / 3;
+    object-fit: cover;
+    border-radius: 26px 14px 30px 12px;
+    border: 1px solid rgba(15, 72, 96, 0.2);
+  }
+
+  .home-card__kicker {
+    margin: 0;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    font-size: $type-size-7;
+    color: #2c677f;
+    font-weight: 700;
+  }
+
+  .home-timeline,
+  .home-tags {
+    margin: 0.6rem 0 0;
+    padding-left: 1.15rem;
+  }
+
+  .home-timeline li,
+  .home-tags li {
+    margin-bottom: 0.55rem;
+  }
+
+  .home-timeline span {
+    display: block;
+    color: #47616b;
+    font-size: $type-size-6;
+  }
+
+  .home-gallery {
+    padding: 1.25rem;
+    border-radius: 16px;
+    border: 1px solid rgba(15, 72, 96, 0.16);
+    background:
+      linear-gradient(180deg, rgba(255, 255, 255, 0.96), rgba(247, 252, 255, 0.96)),
+      repeating-linear-gradient(
+        -45deg,
+        rgba(19, 84, 108, 0.04),
+        rgba(19, 84, 108, 0.04) 10px,
+        rgba(255, 255, 255, 0.01) 10px,
+        rgba(255, 255, 255, 0.01) 20px
+      );
+  }
+
+  .home-gallery h2 {
+    border: 0;
+    padding: 0;
+    margin-bottom: 0.2rem;
+  }
+
+  .home-gallery p {
+    margin-bottom: 0.9rem;
+  }
+
+  .home-gallery__grid {
+    display: grid;
+    grid-template-columns: repeat(12, minmax(0, 1fr));
+    gap: 0.75rem;
+  }
+
+  .home-gallery__item {
+    grid-column: span 4;
+    margin: 0;
+    border-radius: 12px;
+    overflow: hidden;
+    border: 1px solid rgba(18, 77, 100, 0.2);
+    background: #fff;
+  }
+
+  .home-gallery__item--wide {
+    grid-column: span 4;
+  }
+
+  .home-gallery__item img {
+    width: 100%;
+    height: 210px;
+    object-fit: cover;
+    display: block;
+  }
+
+  .home-gallery__item--wide img {
+    object-fit: contain;
+    background: linear-gradient(180deg, #ecf6ff 0%, #f7fbfe 100%);
+  }
+
+  .home-gallery__item figcaption {
+    padding: 0.45rem 0.65rem;
+    font-size: $type-size-7;
+    color: #305261;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    font-weight: 700;
+  }
+
+  .home-hero,
+  .home-card,
+  .home-gallery {
+    opacity: 0;
+    transform: translateY(14px);
+    animation: home-rise 0.55s ease-out forwards;
+  }
+
+  .home-card:nth-child(1) {
+    animation-delay: 0.07s;
+  }
+
+  .home-card:nth-child(2) {
+    animation-delay: 0.14s;
+  }
+
+  .home-card:nth-child(3) {
+    animation-delay: 0.21s;
+  }
+
+  .home-gallery {
+    animation-delay: 0.26s;
+  }
+
+  @include breakpoint(max-width $large) {
+    .home-card {
+      grid-column: span 12;
+    }
+
+    .home-gallery__item,
+    .home-gallery__item--wide {
+      grid-column: span 12;
+    }
+
+    .home-gallery__item img {
+      height: auto;
+      max-height: 320px;
+    }
+  }
+}
+
+@keyframes home-rise {
+  from {
+    opacity: 0;
+    transform: translateY(14px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
 .page__meta-title {
   margin-bottom: 10px;
   font-size: $type-size-6;
