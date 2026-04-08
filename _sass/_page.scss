@@ -375,6 +375,20 @@
     background: radial-gradient(circle, rgba(30, 110, 140, 0.18) 0%, rgba(30, 110, 140, 0) 72%);
   }
 
+  .home-hero__sticker {
+    position: absolute;
+    right: 1rem;
+    top: 1rem;
+    width: 72px;
+    height: 72px;
+    object-fit: cover;
+    border-radius: 14px 10px 16px 8px;
+    border: 2px solid rgba(255, 255, 255, 0.8);
+    box-shadow: 0 10px 20px rgba(17, 58, 76, 0.2);
+    transform: rotate(6deg);
+    z-index: 2;
+  }
+
   .home-hero__eyebrow {
     margin: 0;
     text-transform: uppercase;
@@ -606,6 +620,13 @@
   }
 
   @include breakpoint(max-width $large) {
+    .home-hero__sticker {
+      width: 56px;
+      height: 56px;
+      right: 0.75rem;
+      top: 0.75rem;
+    }
+
     .home-card {
       grid-column: span 12;
     }
