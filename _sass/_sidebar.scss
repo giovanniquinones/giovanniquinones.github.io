@@ -166,6 +166,26 @@
   }
 }
 
+.author__sidebar-photo {
+  margin-top: 14px;
+
+  @include breakpoint($large) {
+    margin-top: 18px;
+  }
+
+  img {
+    display: block;
+    width: 100%;
+    max-width: 128px;
+    border-radius: 14px 10px 16px 8px;
+    border: 2px solid transparent;
+    background:
+      linear-gradient(#ffffff, #ffffff) padding-box,
+      linear-gradient(145deg, rgba(255, 191, 103, 0.9), rgba(66, 153, 196, 0.85)) border-box;
+    box-shadow: 0 10px 20px rgba(16, 56, 75, 0.2);
+  }
+}
+
 .author__urls {
   display: none;
   position: absolute;
