@@ -19,10 +19,6 @@ author_profile: true
       I am also proficient in R and Bash for scalable analysis pipelines and
       rapid prototyping.
     </p>
-    <p>
-      I am the lead developer of <strong>scAllele</strong> and <strong>isoLASER</strong>,
-      and a co-developer of <strong>BEAPR</strong> and <strong>L-GIREMI</strong>.
-    </p>
     <a class="btn" href="https://github.com/giovanniquinones" target="_blank" rel="noopener noreferrer">
       View GitHub Profile
     </a>
@@ -31,6 +27,7 @@ author_profile: true
   <div class="software-grid">
     <article class="software-card">
       <h3 class="software-card__title"><img class="software-card__icon" src="{{ '/images/isoLASER_icon.png' | relative_url }}" alt="isoLASER icon" />isoLASER</h3>
+      <p><strong>Role:</strong> Lead developer</p>
       <p>Isoform-aware analysis workflows for long-read transcriptomics and RNA processing.</p>
       <ul class="software-tags">
         <li>Long-read RNA-seq</li>
@@ -43,6 +40,7 @@ author_profile: true
 
     <article class="software-card">
       <h3 class="software-card__title"><img class="software-card__icon" src="{{ '/images/scAllele_icon.png' | relative_url }}" alt="scAllele icon" />scAllele</h3>
+      <p><strong>Role:</strong> Lead developer</p>
       <p>Variant detection and downstream analysis from single-cell RNA sequencing data.</p>
       <ul class="software-tags">
         <li>scRNA-seq</li>
@@ -55,6 +53,7 @@ author_profile: true
 
     <article class="software-card">
       <h3 class="software-card__title"><img class="software-card__icon" src="{{ '/images/L-Giremi_icon.png' | relative_url }}" alt="L-GIREMI icon" />L-GIREMI</h3>
+      <p><strong>Role:</strong> Contributor</p>
       <p>Long-read RNA editing site identification for transcriptome-wide studies.</p>
       <ul class="software-tags">
         <li>RNA editing</li>
@@ -67,6 +66,7 @@ author_profile: true
 
     <article class="software-card">
       <h3 class="software-card__title"><img class="software-card__icon" src="{{ '/images/BEAPR_icon.png' | relative_url }}" alt="BEAPR icon" />BEAPR</h3>
+      <p><strong>Role:</strong> Contributor</p>
       <p>Computational framework for identifying functional allele-specific molecular signals.</p>
       <ul class="software-tags">
         <li>Allele-specific analysis</li>
