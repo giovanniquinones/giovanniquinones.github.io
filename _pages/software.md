@@ -13,6 +13,12 @@ author_profile: true
       Open-source tools for RNA variant discovery, RNA editing, and
       transcriptome-scale analysis.
     </p>
+    <p>
+      I develop production-ready bioinformatics methods in Python, including
+      packaging and distribution workflows for reproducible research software.
+      I am also proficient in R and Bash for scalable analysis pipelines and
+      rapid prototyping.
+    </p>
     <a class="btn" href="https://github.com/giovanniquinones" target="_blank" rel="noopener noreferrer">
       View GitHub Profile
     </a>
@@ -27,7 +33,8 @@ author_profile: true
         <li>Isoform analysis</li>
         <li>Python</li>
       </ul>
-      <p><a href="https://github.com/giovanniquinones?tab=repositories&q=isoLASER" target="_blank" rel="noopener noreferrer">Repository search</a></p>
+      <p><a href="https://github.com/gxiaolab?tab=repositories&q=isoLASER" target="_blank" rel="noopener noreferrer">Repository search</a></p>
+      <p><a href="https://doi.org/10.1038/s41467-025-64605-6" target="_blank" rel="noopener noreferrer">Related paper</a></p>
     </article>
 
     <article class="software-card">
@@ -38,7 +45,8 @@ author_profile: true
         <li>Variant calling</li>
         <li>Genomics</li>
       </ul>
-      <p><a href="https://github.com/giovanniquinones?tab=repositories&q=scAllele" target="_blank" rel="noopener noreferrer">Repository search</a></p>
+      <p><a href="https://github.com/gxiaolab?tab=repositories&q=scAllele" target="_blank" rel="noopener noreferrer">Repository search</a></p>
+      <p><a href="https://doi.org/10.1126/sciadv.abn6398" target="_blank" rel="noopener noreferrer">Related paper</a></p>
     </article>
 
     <article class="software-card">
@@ -49,7 +57,8 @@ author_profile: true
         <li>Long-read</li>
         <li>Bioinformatics</li>
       </ul>
-      <p><a href="https://github.com/giovanniquinones?tab=repositories&q=giremi" target="_blank" rel="noopener noreferrer">Repository search</a></p>
+      <p><a href="https://github.com/gxiaolab?tab=repositories&q=giremi" target="_blank" rel="noopener noreferrer">Repository search</a></p>
+      <p><a href="https://doi.org/10.1186/s13059-023-03012-w" target="_blank" rel="noopener noreferrer">Related paper</a></p>
     </article>
 
     <article class="software-card">
@@ -60,7 +69,8 @@ author_profile: true
         <li>Statistical modeling</li>
         <li>RNA biology</li>
       </ul>
-      <p><a href="https://github.com/giovanniquinones?tab=repositories&q=beapr" target="_blank" rel="noopener noreferrer">Repository search</a></p>
+      <p><a href="https://github.com/gxiaolab?tab=repositories&q=beapr" target="_blank" rel="noopener noreferrer">Repository search</a></p>
+      <p><a href="https://doi.org/10.1038/s41467-019-09292-w" target="_blank" rel="noopener noreferrer">Related paper</a></p>
     </article>
   </div>
 </section>
