@@ -731,12 +731,18 @@
     padding: 0;
     font-family: "SFMono-Regular", Menlo, Consolas, "Liberation Mono", monospace;
     color: #123748;
+    font-size: clamp(1.15rem, 1.8vw, 1.35rem);
   }
 
   .software-card__title {
     display: flex;
     align-items: center;
+    justify-content: space-between;
     gap: 0.85rem;
+  }
+
+  .software-card__name {
+    display: inline-block;
   }
 
   .software-card__icon {
@@ -745,7 +751,7 @@
     flex: 0 0 auto;
     border-radius: 10px;
     box-shadow: 0 4px 9px rgba(18, 58, 76, 0.18);
-    transform: translateX(10px);
+    margin-left: auto;
     object-fit: contain;
   }
 
