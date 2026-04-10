@@ -733,6 +733,20 @@
     color: #123748;
   }
 
+  .software-card__title {
+    display: flex;
+    align-items: center;
+    gap: 0.55rem;
+  }
+
+  .software-card__icon {
+    width: 28px;
+    height: 28px;
+    flex: 0 0 28px;
+    border-radius: 7px;
+    box-shadow: 0 4px 9px rgba(18, 58, 76, 0.18);
+  }
+
   .software-card p {
     margin-bottom: 0.65rem;
   }
