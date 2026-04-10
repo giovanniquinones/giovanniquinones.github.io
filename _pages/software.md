@@ -26,7 +26,7 @@ author_profile: true
 
   <div class="software-grid">
     <article class="software-card">
-      <h3 class="software-card__title"><img class="software-card__icon" src="{{ '/images/isoLASER_icon.png' | relative_url }}" alt="isoLASER icon" />isoLASER</h3>
+      <h3 class="software-card__title"><span class="software-card__name">isoLASER</span><img class="software-card__icon" src="{{ '/images/isoLASER_icon.png' | relative_url }}" alt="isoLASER icon" /></h3>
       <p><strong>Role:</strong> Lead developer</p>
       <p>Isoform-aware analysis workflows for long-read transcriptomics and RNA processing.</p>
       <ul class="software-tags">
@@ -39,7 +39,7 @@ author_profile: true
     </article>
 
     <article class="software-card">
-      <h3 class="software-card__title"><img class="software-card__icon" src="{{ '/images/scAllele_icon.png' | relative_url }}" alt="scAllele icon" />scAllele</h3>
+      <h3 class="software-card__title"><span class="software-card__name">scAllele</span><img class="software-card__icon" src="{{ '/images/scAllele_icon.png' | relative_url }}" alt="scAllele icon" /></h3>
       <p><strong>Role:</strong> Lead developer</p>
       <p>Variant detection and downstream analysis from single-cell RNA sequencing data.</p>
       <ul class="software-tags">
@@ -52,7 +52,7 @@ author_profile: true
     </article>
 
     <article class="software-card">
-      <h3 class="software-card__title"><img class="software-card__icon" src="{{ '/images/L-Giremi_icon.png' | relative_url }}" alt="L-GIREMI icon" />L-GIREMI</h3>
+      <h3 class="software-card__title"><span class="software-card__name">L-GIREMI</span><img class="software-card__icon" src="{{ '/images/L-Giremi_icon.png' | relative_url }}" alt="L-GIREMI icon" /></h3>
       <p><strong>Role:</strong> Contributor</p>
       <p>Long-read RNA editing site identification for transcriptome-wide studies.</p>
       <ul class="software-tags">
@@ -65,7 +65,7 @@ author_profile: true
     </article>
 
     <article class="software-card">
-      <h3 class="software-card__title"><img class="software-card__icon" src="{{ '/images/BEAPR_icon.png' | relative_url }}" alt="BEAPR icon" />BEAPR</h3>
+      <h3 class="software-card__title"><span class="software-card__name">BEAPR</span><img class="software-card__icon" src="{{ '/images/BEAPR_icon.png' | relative_url }}" alt="BEAPR icon" /></h3>
       <p><strong>Role:</strong> Contributor</p>
       <p>Computational framework for identifying functional allele-specific molecular signals.</p>
       <ul class="software-tags">
