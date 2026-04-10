@@ -26,50 +26,50 @@ author_profile: true
 
   <div class="software-grid">
     <article class="software-card">
-      <h3>isoLASER</h3>
+      <h3 class="software-card__title"><img class="software-card__icon" src="{{ '/images/software-icons/isolaser.svg' | relative_url }}" alt="isoLASER icon" />isoLASER</h3>
       <p>Isoform-aware analysis workflows for long-read transcriptomics and RNA processing.</p>
       <ul class="software-tags">
         <li>Long-read RNA-seq</li>
         <li>Isoform analysis</li>
         <li>Python</li>
       </ul>
-      <p><a href="https://github.com/gxiaolab?tab=repositories&q=isoLASER" target="_blank" rel="noopener noreferrer">Repository search</a></p>
+      <p><a href="https://github.com/gxiaolab/isoLASER" target="_blank" rel="noopener noreferrer">Repository</a></p>
       <p><a href="https://doi.org/10.1038/s41467-025-64605-6" target="_blank" rel="noopener noreferrer">Related paper</a></p>
     </article>
 
     <article class="software-card">
-      <h3>scAllele</h3>
+      <h3 class="software-card__title"><img class="software-card__icon" src="{{ '/images/software-icons/scallele.svg' | relative_url }}" alt="scAllele icon" />scAllele</h3>
       <p>Variant detection and downstream analysis from single-cell RNA sequencing data.</p>
       <ul class="software-tags">
         <li>scRNA-seq</li>
         <li>Variant calling</li>
         <li>Genomics</li>
       </ul>
-      <p><a href="https://github.com/gxiaolab?tab=repositories&q=scAllele" target="_blank" rel="noopener noreferrer">Repository search</a></p>
+      <p><a href="https://github.com/gxiaolab/scAllele" target="_blank" rel="noopener noreferrer">Repository</a></p>
       <p><a href="https://doi.org/10.1126/sciadv.abn6398" target="_blank" rel="noopener noreferrer">Related paper</a></p>
     </article>
 
     <article class="software-card">
-      <h3>L-GIREMI</h3>
+      <h3 class="software-card__title"><img class="software-card__icon" src="{{ '/images/software-icons/lgiremi.svg' | relative_url }}" alt="L-GIREMI icon" />L-GIREMI</h3>
       <p>Long-read RNA editing site identification for transcriptome-wide studies.</p>
       <ul class="software-tags">
         <li>RNA editing</li>
         <li>Long-read</li>
         <li>Bioinformatics</li>
       </ul>
-      <p><a href="https://github.com/gxiaolab?tab=repositories&q=giremi" target="_blank" rel="noopener noreferrer">Repository search</a></p>
+      <p><a href="https://github.com/gxiaolab/L-GIREMI" target="_blank" rel="noopener noreferrer">Repository</a></p>
       <p><a href="https://doi.org/10.1186/s13059-023-03012-w" target="_blank" rel="noopener noreferrer">Related paper</a></p>
     </article>
 
     <article class="software-card">
-      <h3>BEAPR</h3>
+      <h3 class="software-card__title"><img class="software-card__icon" src="{{ '/images/software-icons/beapr.svg' | relative_url }}" alt="BEAPR icon" />BEAPR</h3>
       <p>Computational framework for identifying functional allele-specific molecular signals.</p>
       <ul class="software-tags">
         <li>Allele-specific analysis</li>
         <li>Statistical modeling</li>
         <li>RNA biology</li>
       </ul>
-      <p><a href="https://github.com/gxiaolab?tab=repositories&q=beapr" target="_blank" rel="noopener noreferrer">Repository search</a></p>
+      <p><a href="https://github.com/gxiaolab/BEAPR" target="_blank" rel="noopener noreferrer">Repository</a></p>
       <p><a href="https://doi.org/10.1038/s41467-019-09292-w" target="_blank" rel="noopener noreferrer">Related paper</a></p>
     </article>
   </div>
