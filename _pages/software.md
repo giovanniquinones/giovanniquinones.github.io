@@ -13,12 +13,45 @@ author_profile: true
       Open-source tools for RNA variant discovery, RNA editing, and
       transcriptome-scale analysis.
     </p>
-    <p>
-      I develop production-ready bioinformatics methods in Python, including
-      packaging and distribution workflows for reproducible research software.
-      I am also proficient in R and Bash for scalable analysis pipelines and
-      rapid prototyping.
-    </p>
+    <ul>
+      <li>
+        <strong>isoLASER - Lead Developer:</strong> isoLASER performs variant
+        calling, haplotyping, and allele-specific splicing analysis in
+        long-read RNA-sequencing data. This one-stop solution enables the
+        classification of genetically regulated splicing events revealing
+        transcriptome-wide patterns of regulation and disease-relevant isoform
+        regulation such as the HLA gene family and Alzheimer's disease risk
+        genes. Built in Python, available on GitHub and PyPI. GitHub:
+        <a href="https://github.com/gxiaolab/isoLASER" target="_blank" rel="noopener noreferrer">https://github.com/gxiaolab/isoLASER</a>
+      </li>
+      <li>
+        <strong>scAllele - Lead Developer:</strong> scAllele is an integrative
+        tool that performs high-confidence calls of small variants in
+        single-cell RNA-sequencing. Additionally, scAllele enables
+        allele-specific splicing analysis, a unique feature not previously used
+        at the single-cell level. This feature allows the identification of
+        cell-type and cancer-specific splicing regulation in our studies. Built
+        in Python, available on GitHub and PyPI. GitHub:
+        <a href="https://github.com/gxiaolab/scAllele" target="_blank" rel="noopener noreferrer">https://github.com/gxiaolab/scAllele</a>
+      </li>
+      <li>
+        <strong>L-GIREMI - Contributor:</strong> L-GIREMI uses a robust
+        statistical approach based on mutual information for the detection of
+        A-to-I RNA editing in long-read RNA sequencing data, unveiling insights
+        about the distribution of these sites on individual RNA molecules.
+        Built in Python, available on GitHub. GitHub:
+        <a href="https://github.com/gxiaolab/L-GIREMI" target="_blank" rel="noopener noreferrer">https://github.com/gxiaolab/L-GIREMI</a>
+      </li>
+      <li>
+        <strong>BEAPR - Contributor:</strong> BEAPR identifies allele-specific
+        binding events in eCLIP-seq data to functionally characterize genetic
+        variants. Taking into account crosslinking-induced sequence propensity
+        and variation between replicated experiments, BEAPR achieves
+        high-accuracy calls and identifies clinically relevant variants. Built
+        in C++ and R, available on GitHub. GitHub:
+        <a href="https://github.com/gxiaolab/BEAPR" target="_blank" rel="noopener noreferrer">https://github.com/gxiaolab/BEAPR</a>
+      </li>
+    </ul>
     <a class="btn" href="https://github.com/giovanniquinones" target="_blank" rel="noopener noreferrer">
       View GitHub Profile
     </a>
