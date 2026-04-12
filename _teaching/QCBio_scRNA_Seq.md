@@ -4,9 +4,10 @@ collection: teaching
 type: "Technical workshop"
 permalink: /teaching/2014-spring-teaching-1
 venue: "UCLA QCBio Collaboratory"
-date: 2022-01 to 2025-12
 location: "Los Angeles, CA"
 ---
+
+*Taught between January 2022 to December 2025 (quarterly)*
 
 This workshop introduces the basic concepts and algorithms necessary to analyze single-cell RNA-sequencing data using the R package Seurat. The workshop is hands-on and covers both theoretical and computational aspects of the analysis of this type of data. Among the topics covered are:
 
