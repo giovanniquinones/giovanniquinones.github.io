@@ -28,7 +28,7 @@ As part of the UCLA QCBio Collaboratory I teach this workshop every quarter of t
 **Session 1**
 
 <iframe width="1280" height="720" 
-  src="https://www.youtube.com/embed/8I0fa-sFeSE&t" 
+  src="https://www.youtube.com/embed/8I0fa-sFeSE" 
   frameborder="0" allowfullscreen>
 </iframe>
 

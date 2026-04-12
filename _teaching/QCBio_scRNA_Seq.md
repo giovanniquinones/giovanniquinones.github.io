@@ -4,7 +4,7 @@ collection: teaching
 type: "Technical workshop"
 permalink: /teaching/2014-spring-teaching-1
 venue: "UCLA QCBio Collaboratory"
-date: 2022-01-02
+date: 2022-01 to 2025-12
 location: "Los Angeles, CA"
 ---
 
