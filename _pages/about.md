@@ -2,7 +2,7 @@
 permalink: /
 title: "Computational RNA Biology"
 excerpt: "I build computational tools to study RNA variation and function in health and disease."
-author_profile: false
+author_profile: true
 redirect_from: 
   - /about/
   - /about.html
