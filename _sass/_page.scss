@@ -453,6 +453,11 @@
     background: linear-gradient(165deg, #f7fafc 0%, #eaf1f7 60%, #f4f7fa 100%);
   }
 
+  .home-card--profile h3 {
+    font-size: clamp(1.3rem, 2.1vw, 1.55rem);
+    line-height: 1.2;
+  }
+
   .home-card:nth-child(2) {
     background: linear-gradient(180deg, #ffffff 0%, #f5f8fc 100%);
   }

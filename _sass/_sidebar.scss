@@ -246,6 +246,8 @@
 
   li {
     white-space: nowrap;
+    font-size: 0.95rem;
+    line-height: 1.45;
   }
 
   a {
@@ -255,11 +257,18 @@
     padding-top: 2px;
     padding-bottom: 2px;
     color: inherit;
-    font-size: $type-size-5;
+    font-size: 0.95rem;
     text-decoration: none;
 
     &:hover {
       text-decoration: underline;
     }
+  }
+
+  .fa,
+  .fab,
+  .fas,
+  .ai {
+    font-size: 1rem;
   }
 }
