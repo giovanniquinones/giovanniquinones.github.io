@@ -1,0 +1,20 @@
+current directory: /Users/giovanni/giovanniquinones.github.io/vendor/bundle/ruby/4.0.0/gems/racc-1.6.2/ext/racc/cparse
+/usr/local/opt/ruby/bin/ruby extconf.rb
+checking for rb_block_call()... yes
+checking for rb_ary_subseq()... yes
+creating Makefile
+
+current directory: /Users/giovanni/giovanniquinones.github.io/vendor/bundle/ruby/4.0.0/gems/racc-1.6.2/ext/racc/cparse
+make -j9 DESTDIR\= sitearchdir\=./.gem.20260423-93621-yebv9j sitelibdir\=./.gem.20260423-93621-yebv9j clean
+
+current directory: /Users/giovanni/giovanniquinones.github.io/vendor/bundle/ruby/4.0.0/gems/racc-1.6.2/ext/racc/cparse
+make -j9 DESTDIR\= sitearchdir\=./.gem.20260423-93621-yebv9j sitelibdir\=./.gem.20260423-93621-yebv9j
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+
+current directory: /Users/giovanni/giovanniquinones.github.io/vendor/bundle/ruby/4.0.0/gems/racc-1.6.2/ext/racc/cparse
+make -j9 DESTDIR\= sitearchdir\=./.gem.20260423-93621-yebv9j sitelibdir\=./.gem.20260423-93621-yebv9j install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20260423-93621-yebv9j/racc
+
+current directory: /Users/giovanni/giovanniquinones.github.io/vendor/bundle/ruby/4.0.0/gems/racc-1.6.2/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20260423-93621-yebv9j sitelibdir\=./.gem.20260423-93621-yebv9j clean

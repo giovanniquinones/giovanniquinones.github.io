@@ -670,12 +670,10 @@
     position: relative;
     padding: 1.15rem 1.2rem;
     margin-bottom: 1rem;
-    border-radius: 14px;
-    border: 1px solid rgba(45, 102, 130, 0.22);
-    background:
-      radial-gradient(circle at 80% 20%, rgba(98, 196, 230, 0.24), transparent 45%),
-      linear-gradient(165deg, #f3fbff 0%, #edf7ff 54%, #f8f4e8 100%);
-    box-shadow: 0 12px 32px rgba(15, 54, 73, 0.14);
+    border-radius: 0;
+    border: 1px solid #d1d1d1;
+    background: #fff;
+    box-shadow: none;
   }
 
   .software-page__eyebrow {
@@ -711,10 +709,10 @@
     grid-column: span 6;
     position: relative;
     padding: 0.95rem;
-    border-radius: 12px;
-    border: 1px solid rgba(32, 97, 126, 0.24);
-    background: linear-gradient(180deg, #ffffff 0%, #f7fbff 100%);
-    box-shadow: 0 10px 24px rgba(19, 53, 68, 0.12);
+    border-radius: 0;
+    border: 1px solid #d1d1d1;
+    background: #fff;
+    box-shadow: none;
   }
 
   .software-card::before {

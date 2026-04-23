@@ -9,7 +9,6 @@ redirect_from:
 ---
 
 <section class="home-hero">
-  <img class="home-hero__sticker" src="{{ '/images/PXL_20210107_064439158.jpg' | relative_url }}" alt="Decorative portrait" />
   <p class="home-hero__eyebrow">Giovanni Quinones Valdez, Ph.D.</p>
   <h2 class="home-hero__title">Making sense of RNA variation with computational biology</h2>
   <p class="home-hero__lede">
