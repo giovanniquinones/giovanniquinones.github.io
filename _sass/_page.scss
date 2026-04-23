@@ -52,7 +52,7 @@
 
   h2 {
     padding-bottom: 0.5em;
-    border-bottom: 2px solid #8B2E2E;
+    border-bottom: 2px solid #1D4E6B;
   }
 
   p, li, dl {
@@ -355,12 +355,10 @@
   .home-hero {
     position: relative;
     padding: clamp(1.25rem, 3vw, 2rem);
-    border-radius: 0;
+    border-radius: 6px;
     margin: 1.25rem 0 1.75rem;
     background: #fff;
-    border: 2px solid #8B2E2E;
-    box-shadow: none;
-    overflow: hidden;
+    border: 2px solid #1D4E6B;
   }
 
   .home-hero::after {
@@ -381,7 +379,7 @@
     height: 72px;
     object-fit: cover;
     border-radius: 0;
-    border: 2px solid #8B2E2E;
+    border: 2px solid #1D4E6B;
     box-shadow: none;
     transform: rotate(0deg);
     z-index: 2;
@@ -392,7 +390,7 @@
     text-transform: uppercase;
     letter-spacing: 0.1em;
     font-weight: 700;
-    color: #8B2E2E;
+    color: #1D4E6B;
     font-size: $type-size-6;
   }
 
@@ -441,7 +439,7 @@
   .home-card {
     grid-column: span 4;
     padding: 0.9rem;
-    border-radius: 0;
+    border-radius: 6px;
     border: 1px solid #d1d1d1;
     background: #fff;
     box-shadow: none;
@@ -450,6 +448,7 @@
   .home-card--profile {
     background: #fff;
     border: 1px solid #d1d1d1;
+    border-radius: 6px;
   }
 
   .home-card--profile h3 {
@@ -482,7 +481,7 @@
     max-width: 230px;
     margin-left: auto;
     margin-right: auto;
-    border-radius: 0;
+    border-radius: 6px;
     padding: 0.35rem;
     background: #fff;
     box-shadow: none;
@@ -493,8 +492,8 @@
     content: "";
     position: absolute;
     inset: 0;
-    border-radius: 0;
-    border: 2px solid #8B2E2E;
+    border-radius: 6px;
+    border: 2px solid #1D4E6B;
     pointer-events: none;
   }
 
@@ -503,7 +502,7 @@
     width: 100%;
     aspect-ratio: 1 / 1;
     object-fit: cover;
-    border-radius: 0;
+    border-radius: 4px;
     border: none;
   }
 
@@ -512,7 +511,7 @@
     text-transform: uppercase;
     letter-spacing: 0.08em;
     font-size: $type-size-7;
-    color: #8B2E2E;
+    color: #1D4E6B;
     font-weight: 700;
   }
 
@@ -535,7 +534,7 @@
 
   .home-gallery {
     padding: 1rem;
-    border-radius: 0;
+    border-radius: 6px;
     border: 1px solid #d1d1d1;
     background: #fff;
   }
@@ -559,7 +558,7 @@
   .home-gallery__item {
     grid-column: span 4;
     margin: 0;
-    border-radius: 0;
+    border-radius: 6px;
     overflow: hidden;
     border: 1px solid #d1d1d1;
     background: #fff;

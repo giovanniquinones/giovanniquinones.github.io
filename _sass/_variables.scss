@@ -60,7 +60,7 @@ $code-background-color-dark : $light-gray;
 $text-color                 : $dark-gray;
 $border-color               : #d1d1d1;
 
-$primary-color              : #8B2E2E;
+$primary-color              : #1D4E6B;
 $success-color              : #62c462;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
@@ -90,11 +90,11 @@ $xing-color                 : #006567;
 
 
 /* links */
-$link-color                 : #8B2E2E;
-$link-color-hover           : #6B1E1E;
-$link-color-visited         : #A54545;
+$link-color                 : #1D4E6B;
+$link-color-hover           : #13344A;
+$link-color-visited         : #2E6A8A;
 $masthead-link-color        : $primary-color;
-$masthead-link-color-hover  : #6B1E1E;
+$masthead-link-color-hover  : #13344A;
 
 
 /*
@@ -146,7 +146,7 @@ $susy: (
    Other
    ========================================================================== */
 
-$border-radius              : 0;
+$border-radius              : 6px;
 $box-shadow                 : none;
 $navicon-width              : 28px;
 $navicon-height             : 4px;
