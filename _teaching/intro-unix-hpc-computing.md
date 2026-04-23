@@ -19,7 +19,7 @@ Topics include:
 - Best practices for organizing and running scalable analyses
 
 
-As part of the UCLA QCBio Collaboratory I teach this workshop every quarter of the academic year. If you are interested in attending the workshop register here:
+As part of the UCLA QCBio Collaboratory, I teach this workshop every quarter of the academic year. If you are interested in attending the workshop, register here:
 
 [UCLA QCBio Collaboratory](https://qcb.ucla.edu/collaboratory/workshops/w1-intro-to-unix-command-line/)
  
