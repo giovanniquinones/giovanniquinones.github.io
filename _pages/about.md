@@ -54,10 +54,11 @@ redirect_from:
   <article class="home-card">
     <p class="home-card__kicker">Research themes</p>
     <ul class="home-tags">
-      <li>RNA-seq analytics</li>
-      <li>Nucleotide variant detection</li>
-      <li>Post-transcriptional biology</li>
-      <li>Disease-focused interpretation</li>
+      <li>Computational method development for RNA-seq data analysis</li>
+      <li>RNA variants: editing and epitranscriptomic modifications</li>
+      <li>Transcriptome-wide RNA processing regulation</li>
+      <li>Post-transcriptional gene regulation</li>
+      <li>Disease mechanisms through an RNA lens</li>
     </ul>
   </article>
 </section>
