@@ -8,7 +8,7 @@ table {
   font-family: $global-font-family;
   font-size: $type-size-6;
   border-collapse: collapse;
-  border: 2px solid #8B2E2E;
+  border: 2px solid #1D4E6B;
 
   & + table {
     margin-top: 1em;
@@ -17,7 +17,7 @@ table {
 
 thead {
   background-color: #fff;
-  border-bottom: 2px solid #8B2E2E;
+  border-bottom: 2px solid #1D4E6B;
 }
 
 th {
