@@ -7,6 +7,17 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.teaching reversed %}
+<h2>Selected courses taught with video recordings</h2>
+
+{% assign selected_courses = site.teaching | where_exp: "post", "post.content contains 'iframe' or post.content contains 'youtube.com'" %}
+{% for post in selected_courses reversed %}
   {% include archive-single.html %}
+{% endfor %}
+
+<h2>Other courses</h2>
+
+{% for post in site.teaching reversed %}
+  {% unless post.content contains 'iframe' or post.content contains 'youtube.com' %}
+  {% include archive-single.html %}
+  {% endunless %}
 {% endfor %}
