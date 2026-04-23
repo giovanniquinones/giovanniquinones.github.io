@@ -1,5 +1,5 @@
 ---
-title: "Single cell RNA-sequencing data analysis with R"
+title: "Single-cell RNA-sequencing Data Analysis with R"
 collection: teaching
 type: "Technical workshop"
 permalink: /teaching/2014-spring-teaching-1
@@ -7,7 +7,7 @@ venue: "UCLA QCBio Collaboratory"
 location: "Los Angeles, CA"
 ---
 
-*Taught between January 2022 to December 2025 (quarterly)*
+*Taught quarterly from January 2022 to December 2025*
 
 This workshop introduces the basic concepts and algorithms necessary to analyze single-cell RNA-sequencing data using the R package Seurat. The workshop is hands-on and covers both theoretical and computational aspects of the analysis of this type of data. Among the topics covered are:
 
@@ -19,7 +19,7 @@ This workshop introduces the basic concepts and algorithms necessary to analyze 
 - Pseudotime analysis
 - Integration of multiple datasets
 
-As part of the UCLA QCBio Collaboratory I teach this workshop every quarter of the academic year. If you are interested in attending the workshop register here:
+As part of the UCLA QCBio Collaboratory, I taught this workshop every quarter of the academic year. If you are interested in attending the workshop, register here:
 
 [UCLA QCBio Collaboratory](https://qcb.ucla.edu/collaboratory/workshops/w20-single-cell-rna-seq)
  
