@@ -83,8 +83,8 @@
       line-height: 1.5;
       text-align: center;
       text-decoration: none;
-      color: #3E8B7E;
-      border: 1px solid #3E8B7E;
+      color: $link-color;
+      border: 1px solid $primary-color;
       border-radius: 0;
 
       &:hover {
@@ -93,7 +93,7 @@
 
       &.current {
         color: #fff;
-        background: #3E8B7E;
+        background: $primary-color;
       }
 
       &.disabled {
@@ -131,8 +131,8 @@
     font-weight: bold;
     text-align: center;
     text-decoration: none;
-    color: #3E8B7E;
-    border: 1px solid #3E8B7E;
+    color: $link-color;
+    border: 1px solid $primary-color;
     border-radius: 0;
 
     &:hover {
