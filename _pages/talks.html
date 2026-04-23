@@ -11,6 +11,17 @@ author_profile: true
 
 {% endif %}
 
-{% for post in site.talks reversed %}
+<h2>Selected talks with video recordings</h2>
+
+{% assign selected_talks = site.talks | where_exp: "post", "post.content contains 'iframe' or post.content contains 'youtube.com' or post.content contains 'recording of the talk'" %}
+{% for post in selected_talks reversed %}
   {% include archive-single-talk.html %}
+{% endfor %}
+
+<h2>Other talks</h2>
+
+{% for post in site.talks reversed %}
+  {% unless post.content contains 'iframe' or post.content contains 'youtube.com' or post.content contains 'recording of the talk' %}
+  {% include archive-single-talk.html %}
+  {% endunless %}
 {% endfor %}
