@@ -19,7 +19,7 @@ form {
     padding: 0;
     color: $text-color;
     border: 0;
-    border-bottom: 1px solid mix(#fff, #000, 80%);
+    border-bottom: 2px solid #8B2E2E;
     white-space: normal;
   }
 
@@ -81,9 +81,9 @@ select {
   margin-bottom: 0.5em;
   color: $text-color;
   background-color: #fff;
-  border: 1px solid mix(#fff, #000, 80%);
-  border-radius: $border-radius;
-  box-shadow: $box-shadow;
+  border: 1px solid #8B2E2E;
+  border-radius: 0;
+  box-shadow: none;
 
   &:hover {
     border-color: mix(#fff, $primary-color, 50%);

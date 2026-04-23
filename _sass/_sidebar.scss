@@ -86,14 +86,10 @@
 
   img {
     max-width: 128px;
-    border-radius: 28px 16px 30px 14px;
-    border: 2px solid transparent;
-    background:
-      linear-gradient(#ffffff, #ffffff) padding-box,
-      linear-gradient(145deg, rgba(255, 191, 103, 0.9), rgba(66, 153, 196, 0.85)) border-box;
-    box-shadow:
-      0 12px 26px rgba(16, 56, 75, 0.24),
-      0 0 0 6px rgba(255, 255, 255, 0.96);
+    border-radius: 0;
+    border: 2px solid #8B2E2E;
+    background: #ffffff;
+    box-shadow: none;
 
     @include breakpoint($large) {
       padding: 0;
