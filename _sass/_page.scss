@@ -476,23 +476,23 @@
 
   .home-grid {
     display: grid;
-    grid-template-columns: repeat(12, minmax(0, 1fr));
+    grid-template-columns: repeat(2, minmax(0, 1fr));
     gap: 0.85rem;
     margin: 1.1rem 0 1.5rem;
   }
 
   .home-card {
-    grid-column: span 4;
     padding: 0.9rem;
     border-radius: 10px;
-    border: 1px solid #d1d1d1;
-    background: #fff;
+    border: 1px solid darken(#35786D, 10%);
+    background: #35786D;
     box-shadow: none;
+    color: #fff;
   }
 
   .home-card--profile {
-    background: #fff;
-    border: 1px solid #d1d1d1;
+    background: #35786D;
+    border: 1px solid darken(#35786D, 10%);
     border-radius: 10px;
   }
 
@@ -502,11 +502,15 @@
   }
 
   .home-card:nth-child(2) {
-    background: #fff;
+    background: #35786D;
   }
 
   .home-card:nth-child(3) {
-    background: #fff;
+    background: #35786D;
+  }
+
+  .home-card:nth-child(4) {
+    background: #35786D;
   }
 
   .home-card h3 {
@@ -514,10 +518,12 @@
     margin-bottom: 0.4rem;
     border: 0;
     padding: 0;
+    color: #fff;
   }
 
   .home-card p {
     margin-bottom: 0;
+    color: #fff;
   }
 
   .home-card__photo-shell {
@@ -528,7 +534,7 @@
     margin-right: auto;
     border-radius: 10px;
     padding: 0.35rem;
-    background: #fff;
+    background: #35786D;
     box-shadow: none;
     transform: rotate(0deg);
   }
@@ -538,7 +544,7 @@
     position: absolute;
     inset: 0;
     border-radius: 10px;
-    border: 2px solid $primary-color;
+    border: 2px solid #fff;
     pointer-events: none;
   }
 
@@ -556,7 +562,7 @@
     text-transform: uppercase;
     letter-spacing: 0.08em;
     font-size: $type-size-7;
-    color: $link-color;
+    color: rgba(255, 255, 255, 0.75);
     font-weight: 700;
   }
 
@@ -573,7 +579,7 @@
 
   .home-timeline span {
     display: block;
-    color: #666;
+    color: rgba(255, 255, 255, 0.75);
     font-size: $type-size-6;
   }
 
@@ -663,8 +669,12 @@
     animation-delay: 0.21s;
   }
 
-  .home-gallery {
+  .home-card:nth-child(4) {
     animation-delay: 0.26s;
+  }
+
+  .home-gallery {
+    animation-delay: 0.32s;
   }
 
   @include breakpoint(max-width $large) {
@@ -675,8 +685,8 @@
       top: 0.75rem;
     }
 
-    .home-card {
-      grid-column: span 12;
+    .home-grid {
+      grid-template-columns: 1fr;
     }
 
     .home-gallery__item,
