@@ -61,10 +61,8 @@ redirect_from:
       <li>Disease mechanisms through an RNA lens</li>
     </ul>
   </article>
-</section>
 
-<section class="home-contact" aria-label="Contact">
-  <article class="home-card">
+  <article class="home-card home-card--contact">
     <p class="home-card__kicker">Contact</p>
     <p>giovas <code>at</code> ucla.edu</p>
   </article>
