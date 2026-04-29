@@ -484,20 +484,21 @@
   .home-card {
     padding: 0.9rem;
     border-radius: 10px;
-    border: 1px solid darken(#35786D, 10%);
+    border: 1px solid #255c53;
     background: #35786D;
     box-shadow: none;
     color: #fff;
   }
 
   .home-card--contact {
-    grid-column: 1 / -1;
-    padding: 0.6rem 0.9rem;
+    grid-column: span 1;
+    padding: 0.5rem 0.9rem;
+    align-self: start;
   }
 
   .home-card--profile {
     background: #35786D;
-    border: 1px solid darken(#35786D, 10%);
+    border: 1px solid #255c53;
     border-radius: 10px;
   }
 
