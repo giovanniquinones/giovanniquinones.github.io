@@ -63,6 +63,13 @@ redirect_from:
   </article>
 </section>
 
+<section class="home-contact" aria-label="Contact">
+  <article class="home-card">
+    <p class="home-card__kicker">Contact</p>
+    <p>giovas <code>at</code> ucla.edu</p>
+  </article>
+</section>
+
 <section class="home-gallery" aria-label="Creative interests">
   <h2>Beyond the bench</h2>
   <p>I also enjoy building RNA-inspired art and folded-paper designs.</p>

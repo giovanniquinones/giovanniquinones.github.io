@@ -11,17 +11,29 @@ author_profile: true
 
 {% endif %}
 
-<h2>Selected talks with video recordings</h2>
+<div class="section-block section-block--recordings">
+  <div class="section-block__header">
+    <span class="section-block__icon">&#9654;</span>
+    <h2 class="section-block__title">With Recordings</h2>
+  </div>
+  <div class="section-block__content">
+    {% assign selected_talks = site.talks | where_exp: "post", "post.content contains 'iframe' or post.content contains 'youtube.com' or post.content contains 'recording of the talk'" %}
+    {% for post in selected_talks reversed %}
+      {% include archive-single-talk.html %}
+    {% endfor %}
+  </div>
+</div>
 
-{% assign selected_talks = site.talks | where_exp: "post", "post.content contains 'iframe' or post.content contains 'youtube.com' or post.content contains 'recording of the talk'" %}
-{% for post in selected_talks reversed %}
-  {% include archive-single-talk.html %}
-{% endfor %}
-
-<h2>Other talks</h2>
-
-{% for post in site.talks reversed %}
-  {% unless post.content contains 'iframe' or post.content contains 'youtube.com' or post.content contains 'recording of the talk' %}
-  {% include archive-single-talk.html %}
-  {% endunless %}
-{% endfor %}
+<div class="section-block section-block--others">
+  <div class="section-block__header">
+    <span class="section-block__icon">&#9632;</span>
+    <h2 class="section-block__title">Others</h2>
+  </div>
+  <div class="section-block__content">
+    {% for post in site.talks reversed %}
+      {% unless post.content contains 'iframe' or post.content contains 'youtube.com' or post.content contains 'recording of the talk' %}
+      {% include archive-single-talk.html %}
+      {% endunless %}
+    {% endfor %}
+  </div>
+</div>

@@ -1,4 +1,49 @@
 /* ==========================================================================
+   SECTION BLOCKS (Talks / Teaching)
+   ========================================================================== */
+
+.section-block {
+  border-radius: 6px;
+  margin-bottom: 2.5em;
+  overflow: hidden;
+  border: 1px solid rgba(0, 0, 0, 0.08);
+}
+
+.section-block__header {
+  display: flex;
+  align-items: center;
+  gap: 0.5em;
+  padding: 0.65em 1.1em;
+}
+
+.section-block--recordings .section-block__header {
+  background-color: #35786D;
+  color: #fff;
+}
+
+.section-block--others .section-block__header {
+  background-color: #f0f0f0;
+  color: #333;
+}
+
+.section-block__icon {
+  font-size: 0.7em;
+  opacity: 0.8;
+}
+
+.section-block__title {
+  margin: 0;
+  font-size: 1.1em;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+}
+
+.section-block__content {
+  padding: 1em 1.25em;
+  background-color: #fff;
+}
+
+/* ==========================================================================
    SINGLE PAGE/POST
    ========================================================================== */
 
@@ -73,10 +118,10 @@
   }
 
   a {
-    text-decoration: underline;
+    text-decoration: none;
 
     &:hover {
-      text-decoration: underline;
+      text-decoration: none;
 
       img {
         box-shadow: 0 0 10px rgba(#000, 0.25);

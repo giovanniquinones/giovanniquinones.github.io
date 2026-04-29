@@ -7,17 +7,29 @@ author_profile: true
 
 {% include base_path %}
 
-<h2>Selected courses taught with video recordings</h2>
+<div class="section-block section-block--recordings">
+  <div class="section-block__header">
+    <span class="section-block__icon">&#9654;</span>
+    <h2 class="section-block__title">With Recordings</h2>
+  </div>
+  <div class="section-block__content">
+    {% assign selected_courses = site.teaching | where_exp: "post", "post.content contains 'iframe' or post.content contains 'youtube.com'" %}
+    {% for post in selected_courses reversed %}
+      {% include archive-single.html %}
+    {% endfor %}
+  </div>
+</div>
 
-{% assign selected_courses = site.teaching | where_exp: "post", "post.content contains 'iframe' or post.content contains 'youtube.com'" %}
-{% for post in selected_courses reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
-<h2>Other courses</h2>
-
-{% for post in site.teaching reversed %}
-  {% unless post.content contains 'iframe' or post.content contains 'youtube.com' %}
-  {% include archive-single.html %}
-  {% endunless %}
-{% endfor %}
+<div class="section-block section-block--others">
+  <div class="section-block__header">
+    <span class="section-block__icon">&#9632;</span>
+    <h2 class="section-block__title">Others</h2>
+  </div>
+  <div class="section-block__content">
+    {% for post in site.teaching reversed %}
+      {% unless post.content contains 'iframe' or post.content contains 'youtube.com' %}
+      {% include archive-single.html %}
+      {% endunless %}
+    {% endfor %}
+  </div>
+</div>
