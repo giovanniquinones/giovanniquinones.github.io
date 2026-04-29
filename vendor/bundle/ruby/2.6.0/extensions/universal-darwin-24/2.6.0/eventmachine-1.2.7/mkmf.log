@@ -18,4 +18,4 @@ checked program was:
 
 "pkg-config --exists openssl"
 | pkg-config --libs openssl
-=> "-L/usr/local/Cellar/openssl@3/3.6.1/lib -lssl -lcrypto\n"
+=> "-L/usr/local/Cellar/openssl@3/3.6.2/lib -lssl -lcrypto\n"
