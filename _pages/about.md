@@ -76,15 +76,21 @@ redirect_from:
 
   <div class="home-gallery__grid">
     <figure class="home-gallery__item home-gallery__item--wide">
-      <img src="{{ '/images/RiboFolds.png' | relative_url }}" alt="RNA art piece" />
+      <a href="{{ '/images/RiboFolds.png' | relative_url }}" target="_blank" rel="noopener">
+        <img src="{{ '/images/RiboFolds.png' | relative_url }}" alt="RNA art piece" />
+      </a>
       <figcaption>RNA art</figcaption>
     </figure>
     <figure class="home-gallery__item">
-      <img src="{{ '/images/PXL_20201013_222829414.jpg' | relative_url }}" alt="Origami figure" />
+      <a href="{{ '/images/PXL_20201013_222829414.jpg' | relative_url }}" target="_blank" rel="noopener">
+        <img src="{{ '/images/PXL_20201013_222829414.jpg' | relative_url }}" alt="Origami figure" />
+      </a>
       <figcaption>Origami</figcaption>
     </figure>
     <figure class="home-gallery__item">
-      <img src="{{ '/images/IMG_1043.JPG' | relative_url }}" alt="Origami artwork" />
+      <a href="{{ '/images/IMG_1043.JPG' | relative_url }}" target="_blank" rel="noopener">
+        <img src="{{ '/images/IMG_1043.JPG' | relative_url }}" alt="Origami artwork" />
+      </a>
       <figcaption>Origami</figcaption>
     </figure>
   </div>
