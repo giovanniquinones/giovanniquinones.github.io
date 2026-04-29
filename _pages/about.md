@@ -64,7 +64,7 @@ redirect_from:
 
   <article class="home-card home-card--contact">
     <p class="home-card__kicker">Contact</p>
-    <p>giovas <code>at</code> ucla.edu</p>
+    <p>giovas at ucla.edu</p>
   </article>
 </section>
 
