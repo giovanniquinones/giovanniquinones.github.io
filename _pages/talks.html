@@ -17,7 +17,7 @@ author_profile: true
     <h2 class="section-block__title">With Recordings</h2>
   </div>
   <div class="section-block__content">
-    {% assign selected_talks = site.talks | where_exp: "post", "post.content contains 'iframe' or post.content contains 'youtube.com' or post.content contains 'recording of the talk'" %}
+    {% assign selected_talks = site.talks | where: "recording", true %}
     {% for post in selected_talks reversed %}
       {% include archive-single-talk.html %}
     {% endfor %}
@@ -31,7 +31,7 @@ author_profile: true
   </div>
   <div class="section-block__content">
     {% for post in site.talks reversed %}
-      {% unless post.content contains 'iframe' or post.content contains 'youtube.com' or post.content contains 'recording of the talk' %}
+      {% unless post.recording %}
       {% include archive-single-talk.html %}
       {% endunless %}
     {% endfor %}

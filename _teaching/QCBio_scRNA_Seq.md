@@ -2,6 +2,7 @@
 title: "Single-cell RNA-sequencing Data Analysis with R"
 collection: teaching
 type: "Technical workshop"
+recording: true
 permalink: /teaching/2014-spring-teaching-1
 venue: "UCLA QCBio Collaboratory"
 location: "Los Angeles, CA"

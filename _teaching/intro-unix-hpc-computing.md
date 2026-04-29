@@ -2,6 +2,7 @@
 title: "Intro to Unix and HPC Computing"
 collection: teaching
 type: "Technical workshop"
+recording: true
 permalink: /teaching/intro-to-unix-and-hpc-computing
 venue: "UCLA QCBio Collaboratory"
 date: 2026-03-29

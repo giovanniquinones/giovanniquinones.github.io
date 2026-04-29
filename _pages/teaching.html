@@ -13,7 +13,7 @@ author_profile: true
     <h2 class="section-block__title">With Recordings</h2>
   </div>
   <div class="section-block__content">
-    {% assign selected_courses = site.teaching | where_exp: "post", "post.content contains 'iframe' or post.content contains 'youtube.com'" %}
+    {% assign selected_courses = site.teaching | where: "recording", true %}
     {% for post in selected_courses reversed %}
       {% include archive-single.html %}
     {% endfor %}
@@ -27,7 +27,7 @@ author_profile: true
   </div>
   <div class="section-block__content">
     {% for post in site.teaching reversed %}
-      {% unless post.content contains 'iframe' or post.content contains 'youtube.com' %}
+      {% unless post.recording %}
       {% include archive-single.html %}
       {% endunless %}
     {% endfor %}

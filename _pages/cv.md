@@ -9,6 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
+<div style="margin-bottom: 1em;">
+  <a href="{{ '/files/CV_GQV.pdf' | relative_url }}" target="_blank" rel="noopener" class="btn btn--primary">Download PDF</a>
+</div>
+
+<iframe src="{{ '/files/CV_GQV.pdf' | relative_url }}" width="100%" height="1100px" style="border: 1px solid #ddd; border-radius: 4px;">
+  <p>Your browser does not support embedded PDFs. <a href="{{ '/files/CV_GQV.pdf' | relative_url }}">Download the CV here</a>.</p>
+</iframe>
+
+---
+
 _Redacted web CV. Personal contact details removed._
 
 ## Profile

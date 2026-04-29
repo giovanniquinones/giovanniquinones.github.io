@@ -2,6 +2,7 @@
 title: "scAllele: a versatile tool for the detection and analysis of variants in scRNA-seq"
 collection: talks
 type: "Talk"
+recording: true
 permalink: /talks/2021-QCBio-1
 venue: "QCBio Seminar Series"
 date: 2021-10-27
