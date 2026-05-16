@@ -484,8 +484,8 @@
   .home-card {
     padding: 0.9rem;
     border-radius: 10px;
-    border: 1px solid #255c53;
-    background: #35786D;
+    border: 1px solid $link-color-hover;
+    background: $primary-color;
     box-shadow: none;
     color: #fff;
   }
@@ -497,8 +497,8 @@
   }
 
   .home-card--profile {
-    background: #35786D;
-    border: 1px solid #255c53;
+    background: $primary-color;
+    border: 1px solid $link-color-hover;
     border-radius: 10px;
   }
 
@@ -508,15 +508,15 @@
   }
 
   .home-card:nth-child(2) {
-    background: #35786D;
+    background: $primary-color;
   }
 
   .home-card:nth-child(3) {
-    background: #35786D;
+    background: $primary-color;
   }
 
   .home-card:nth-child(4) {
-    background: #35786D;
+    background: $primary-color;
   }
 
   .home-card h3 {
@@ -540,7 +540,7 @@
     margin-right: auto;
     border-radius: 10px;
     padding: 0.35rem;
-    background: #35786D;
+    background: $primary-color;
     box-shadow: none;
     transform: rotate(0deg);
   }
