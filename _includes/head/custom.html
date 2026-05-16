@@ -2,6 +2,31 @@
 
 <!-- start custom head snippets -->
 
+<style>
+  body::before {
+    content: "";
+    position: fixed;
+    inset: 0;
+    margin: auto;
+    width: min(120vw, 1750px);
+    height: min(115vh, 1225px);
+    background-image: url("{{ '/images/RiboFolds.png' | relative_url }}");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    opacity: 0.27;
+    pointer-events: none;
+    z-index: 0;
+  }
+
+  @media (max-width: 900px) {
+    body::before {
+      width: min(122vw, 980px);
+      height: min(110vh, 760px);
+    }
+  }
+</style>
+
 <link rel="apple-touch-icon" sizes="57x57" href="{{ base_path }}/images/apple-touch-icon-57x57.png?v=M44lzPylqQ">
 <link rel="apple-touch-icon" sizes="60x60" href="{{ base_path }}/images/apple-touch-icon-60x60.png?v=M44lzPylqQ">
 <link rel="apple-touch-icon" sizes="72x72" href="{{ base_path }}/images/apple-touch-icon-72x72.png?v=M44lzPylqQ">

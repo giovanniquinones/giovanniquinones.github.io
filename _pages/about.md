@@ -9,47 +9,11 @@ redirect_from:
 ---
 
 <style>
-  .page__content {
-    position: relative;
-    z-index: 0;
-    isolation: isolate;
-  }
-
-  .page__content::before {
-    content: "";
-    position: fixed;
-    top: 5.75rem;
-    left: 50%;
-    transform: translateX(-50%);
-    width: min(96vw, 1400px);
-    height: min(92vh, 980px);
-    background-image: url("{{ '/images/RiboFolds.png' | relative_url }}");
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: contain;
-    opacity: 0.22;
-    pointer-events: none;
-    z-index: 0;
-  }
-
-  .page__content > * {
-    position: relative;
-    z-index: 1;
-  }
-
   .home-grid .home-card {
     background: #317985 !important;
     border: 1px solid #255d67 !important;
   }
 
-  @media (max-width: 900px) {
-    .page__content::before {
-      top: 6.1rem;
-      width: min(98vw, 980px);
-      height: min(86vh, 760px);
-      opacity: 0.2;
-    }
-  }
 </style>
 <section class="home-hero">
   <p class="home-hero__eyebrow">Giovanni Quinones Valdez, Ph.D.</p>
