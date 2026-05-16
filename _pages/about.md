@@ -9,43 +9,25 @@ redirect_from:
 ---
 
 <style>
+  .page__content {
+    background-image: url("{{ '/images/RiboFolds.png' | relative_url }}");
+    background-repeat: no-repeat;
+    background-position: right 1.5rem top 2rem;
+    background-size: min(52vw, 560px);
+  }
+
   .home-grid .home-card {
     background: #317985 !important;
     border: 1px solid #255d67 !important;
   }
 
-  .about-watermark {
-    position: relative;
-  }
-
-  .about-watermark::before {
-    content: "";
-    position: absolute;
-    inset: 0;
-    background-image: url("{{ '/images/RiboFolds.png' | relative_url }}");
-    background-repeat: no-repeat;
-    background-position: right 2rem top 4rem;
-    background-size: min(46vw, 520px);
-    opacity: 0.08;
-    pointer-events: none;
-    z-index: 0;
-  }
-
-  .about-watermark > * {
-    position: relative;
-    z-index: 1;
-  }
-
   @media (max-width: 900px) {
-    .about-watermark::before {
-      background-position: center top 3rem;
-      background-size: min(78vw, 420px);
-      opacity: 0.06;
+    .page__content {
+      background-position: center top 2rem;
+      background-size: min(85vw, 430px);
     }
   }
 </style>
-
-<div class="about-watermark">
 <section class="home-hero">
   <p class="home-hero__eyebrow">Giovanni Quinones Valdez, Ph.D.</p>
   <h2 class="home-hero__title">Making sense of RNA variation with computational biology</h2>
@@ -105,8 +87,6 @@ redirect_from:
     <p>giovas at ucla.edu</p>
   </article>
 </section>
-
-</div>
 
 <section class="home-gallery" aria-label="Creative interests">
   <h2>Beyond the bench</h2>

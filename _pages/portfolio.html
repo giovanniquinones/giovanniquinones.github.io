@@ -7,8 +7,32 @@ author_profile: true
 
 {% include base_path %}
 
+<style>
+  .news-entry {
+    margin-bottom: 2rem;
+    padding-bottom: 1.4rem;
+    border-bottom: 1px solid #d9e7ea;
+  }
+
+  .news-entry:last-child {
+    border-bottom: 0;
+    margin-bottom: 0;
+    padding-bottom: 0;
+  }
+
+  .news-entry__summary {
+    margin: 0 0 0.8rem;
+    color: #255d67;
+    font-weight: 600;
+  }
+</style>
 
 {% for post in site.portfolio %}
-  {% include archive-single.html %}
+  <article class="news-entry">
+    {% if post.summary %}
+      <p class="news-entry__summary">{{ post.summary }}</p>
+    {% endif %}
+    {{ post.content }}
+  </article>
 {% endfor %}
 

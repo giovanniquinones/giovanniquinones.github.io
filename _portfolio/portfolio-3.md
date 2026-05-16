@@ -1,6 +1,7 @@
 ---
 title: "Media Mention of Publications"
 excerpt: "<br/><img src='/images/media_mention_icon.png'  width='250'>"
+summary: "Recent external mentions of published work, including IsoLASER and scAllele."
 collection: portfolio
 ---
 
