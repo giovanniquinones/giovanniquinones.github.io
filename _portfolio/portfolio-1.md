@@ -1,6 +1,7 @@
 ---
 title: "Media Coverage of ASHG Award"
 excerpt: "Trainee Research Excellence Award mentions in different websites<br/><img src='/images/award_icon.png' width='200'>"
+summary: "Highlights from external coverage of the ASHG Trainee Research Excellence Award."
 collection: portfolio
 ---
 
