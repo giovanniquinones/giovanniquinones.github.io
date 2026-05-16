@@ -14,27 +14,9 @@ author_profile: true
   <h2>Google Scholar</h2>
 
   {% if author %}
-    <div>
-      <p><strong>{{ author.name | default: "Google Scholar Profile" }}</strong></p>
-      {% if author.affiliation %}<p>{{ author.affiliation }}</p>{% endif %}
-      {% if author.affiliations %}<p>{{ author.affiliations }}</p>{% endif %}
-      {% if author.cited_by and author.cited_by.value %}<p>Cited by: {{ author.cited_by.value }}</p>{% endif %}
-      {% if author.cited_by and author.cited_by.total %}<p>Cited by: {{ author.cited_by.total }}</p>{% endif %}
-      {% if author.cited_by and author.cited_by %}{% unless author.cited_by.value or author.cited_by.total %}<p>Cited by: {{ author.cited_by }}</p>{% endunless %}{% endif %}
-
-      {% if author.interests %}
-        {% assign interests_list = "" %}
-        {% for i in author.interests %}
-          {% if i.title %}
-            {% assign interests_list = interests_list | append: i.title %}
-          {% else %}
-            {% assign interests_list = interests_list | append: i %}
-          {% endif %}
-          {% unless forloop.last %}{% assign interests_list = interests_list | append: ", " %}{% endunless %}
-        {% endfor %}
-        {% if interests_list != "" %}<p>Interests: {{ interests_list }}</p>{% endif %}
-      {% endif %}
-    </div>
+    <p>
+      This section uses a Google Scholar widget. For the most up-to-date manuscript list, please see the <a href="{{ '/cv/' | relative_url }}">CV</a>.
+    </p>
 
     {% if metrics and metrics.size >= 3 %}
       <div class="scholar-metrics">

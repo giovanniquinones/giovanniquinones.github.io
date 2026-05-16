@@ -481,11 +481,11 @@
     margin: 1.1rem 0 1.5rem;
   }
 
-  .home-card {
+  .home-grid .home-card {
     padding: 0.9rem;
     border-radius: 10px;
-    border: 1px solid $link-color-hover;
-    background: $primary-color;
+    border: 1px solid $link-color-hover !important;
+    background: $primary-color !important;
     box-shadow: none;
     color: #fff;
   }
@@ -496,9 +496,9 @@
     align-self: start;
   }
 
-  .home-card--profile {
-    background: $primary-color;
-    border: 1px solid $link-color-hover;
+  .home-grid .home-card--profile {
+    background: $primary-color !important;
+    border: 1px solid $link-color-hover !important;
     border-radius: 10px;
   }
 
@@ -507,16 +507,16 @@
     line-height: 1.2;
   }
 
-  .home-card:nth-child(2) {
-    background: $primary-color;
+  .home-grid .home-card:nth-child(2) {
+    background: $primary-color !important;
   }
 
-  .home-card:nth-child(3) {
-    background: $primary-color;
+  .home-grid .home-card:nth-child(3) {
+    background: $primary-color !important;
   }
 
-  .home-card:nth-child(4) {
-    background: $primary-color;
+  .home-grid .home-card:nth-child(4) {
+    background: $primary-color !important;
   }
 
   .home-card h3 {
