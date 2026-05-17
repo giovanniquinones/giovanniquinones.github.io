@@ -20,4 +20,10 @@ collection: portfolio
 
 [X Link](https://x.com/GeneticsSociety/status/1855046780397736206)
 
+**ASHG Annual Meeting Lab Group – Denver, Colorado 2024**
+
+<img src="/images/ASHG_lab_group.jpg" alt="Xiao Lab Group at ASHG Annual Meeting" width="70%">
+
+*Xiao lab group at ASHG annual meeting, Denver, Colorado 2024*
+
 
