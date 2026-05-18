@@ -1,13 +1,13 @@
 {
   "search_metadata": {
-    "id": "6a0180ee95a69466a4cbb0be",
+    "id": "6a0b7f73a688558851c3878f",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/rlbW6Wf4bQBJSERAaNUmQQ/6a0180ee95a69466a4cbb0be.json",
-    "created_at": "2026-05-11 07:10:38 UTC",
-    "processed_at": "2026-05-11 07:10:38 UTC",
+    "json_endpoint": "https://serpapi.com/searches/rlbW6Wf4bQBJSERAaNUmQQ/6a0b7f73a688558851c3878f.json",
+    "created_at": "2026-05-18 21:06:59 UTC",
+    "processed_at": "2026-05-18 21:06:59 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=Un02rhgAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/rlbW6Wf4bQBJSERAaNUmQQ/6a0180ee95a69466a4cbb0be.html",
-    "total_time_taken": 2.86
+    "raw_html_file": "https://serpapi.com/searches/rlbW6Wf4bQBJSERAaNUmQQ/6a0b7f73a688558851c3878f.html",
+    "total_time_taken": 0.55
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -51,7 +51,7 @@
       "authors": "JE Moore, MJ Purcaro, HE Pratt, CB Epstein, N Shoresh, J Adrian, T Kawli, ...",
       "publication": "Nature 583 (7818), 699-710, 2020",
       "cited_by": {
-        "value": 2202,
+        "value": 2211,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=648428232262261720",
         "serpapi_link": "https://serpapi.com/search.json?cites=648428232262261720&engine=google_scholar&hl=en",
         "cites_id": "648428232262261720"
@@ -77,7 +77,7 @@
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Un02rhgAAAAJ&citation_for_view=Un02rhgAAAAJ:u5HHmVD_uO8C",
       "citation_id": "Un02rhgAAAAJ:u5HHmVD_uO8C",
       "authors": "YHE Hsiao, JH Bahn, Y Yang, X Lin, S Tran, EW Yang, ...",
-      "publication": "Genome research 28 (6), 812-823, 2018",
+      "publication": "Genome research 28 (6), 812, 2018",
       "cited_by": {
         "value": 162,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13268555053370951987",
@@ -93,7 +93,7 @@
       "authors": "G Quinones-Valdez, SS Tran, HI Jun, JH Bahn, EW Yang, L Zhan, ...",
       "publication": "Communications biology 2 (1), 19, 2019",
       "cited_by": {
-        "value": 145,
+        "value": 146,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11402915078674006669",
         "serpapi_link": "https://serpapi.com/search.json?cites=11402915078674006669&engine=google_scholar&hl=en",
         "cites_id": "11402915078674006669"
@@ -191,12 +191,23 @@
       "authors": "G Quinones-Valdez, K Amoah, X Xiao",
       "publication": "Nature Communications 16 (1), 9603, 2025",
       "cited_by": {
-        "value": 7,
+        "value": 8,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13732698681155342026",
         "serpapi_link": "https://serpapi.com/search.json?cites=13732698681155342026&engine=google_scholar&hl=en",
         "cites_id": "13732698681155342026"
       },
       "year": "2025"
+    },
+    {
+      "title": "Immune landscape of the affected brain in Rasmussen encephalitis",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Un02rhgAAAAJ&citation_for_view=Un02rhgAAAAJ:9ZlFYXVOiuMC",
+      "citation_id": "Un02rhgAAAAJ:9ZlFYXVOiuMC",
+      "authors": "G Quinones-Valdez, JW Chang, SD Magaki, HV Vinters, N Salamon, ...",
+      "publication": "Scientific Reports, 2026",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2026"
     },
     {
       "title": "Allele-specific splicing modulates protein isoforms and Alzheimer’s risk",
@@ -215,17 +226,6 @@
       "citation_id": "Un02rhgAAAAJ:mVmsd5A6BfQC",
       "authors": "RM Barney, G Quinones-Valdez, AJ King, K Amoah, W Wang, X Xiao",
       "publication": "bioRxiv, 2026.02. 13.705798, 2026",
-      "cited_by": {
-        "value": null
-      },
-      "year": "2026"
-    },
-    {
-      "title": "Immune landscape of the affected brain in Rasmussen encephalitis",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Un02rhgAAAAJ&citation_for_view=Un02rhgAAAAJ:aqlVkmm33-oC",
-      "citation_id": "Un02rhgAAAAJ:aqlVkmm33-oC",
-      "authors": "G Quinones-Valdez, JW Chang, SD Magaki, HV Vinters, N Salamon, ...",
-      "publication": "Research Square, 2026",
       "cited_by": {
         "value": null
       },
@@ -302,8 +302,8 @@
     "table": [
       {
         "citations": {
-          "all": 2910,
-          "since_2021": 2763
+          "all": 2921,
+          "since_2021": 2773
         }
       },
       {
@@ -334,11 +334,11 @@
       },
       {
         "year": 2022,
-        "citations": 448
+        "citations": 449
       },
       {
         "year": 2023,
-        "citations": 490
+        "citations": 489
       },
       {
         "year": 2024,
@@ -346,11 +346,11 @@
       },
       {
         "year": 2025,
-        "citations": 618
+        "citations": 619
       },
       {
         "year": 2026,
-        "citations": 252
+        "citations": 261
       }
     ]
   },
