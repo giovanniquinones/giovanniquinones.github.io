@@ -1,13 +1,14 @@
 {
   "search_metadata": {
-    "id": "6a5471503d34ddcd328a55e9",
+    "id": "6a937fb5e6cb305db1f5fd44",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/rlbW6Wf4bQBJSERAaNUmQQ/6a5471503d34ddcd328a55e9.json",
-    "created_at": "2026-07-13 05:02:08 UTC",
-    "processed_at": "2026-07-13 05:02:08 UTC",
+    "json_endpoint": "https://serpapi.com/searches/sGV1CEHDit4Wras_VDwRoxvhzkw3q4AxWdBjIDe0Z4U/6a937fb5e6cb305db1f5fd44.json",
+    "markdown_endpoint": "https://serpapi.com/searches/sGV1CEHDit4Wras_VDwRoxvhzkw3q4AxWdBjIDe0Z4U/6a937fb5e6cb305db1f5fd44.md",
+    "created_at": "2026-08-30 00:56:21 UTC",
+    "processed_at": "2026-08-30 00:56:21 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=Un02rhgAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/rlbW6Wf4bQBJSERAaNUmQQ/6a5471503d34ddcd328a55e9.html",
-    "total_time_taken": 1.61
+    "raw_html_file": "https://serpapi.com/searches/sGV1CEHDit4Wras_VDwRoxvhzkw3q4AxWdBjIDe0Z4U/6a937fb5e6cb305db1f5fd44.html",
+    "total_time_taken": 1.43
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -51,7 +52,7 @@
       "authors": "JE Moore, MJ Purcaro, HE Pratt, CB Epstein, N Shoresh, J Adrian, T Kawli, ...",
       "publication": "Nature 583 (7818), 699-710, 2020",
       "cited_by": {
-        "value": 2307,
+        "value": 2381,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=648428232262261720",
         "serpapi_link": "https://serpapi.com/search.json?cites=648428232262261720&engine=google_scholar&hl=en",
         "cites_id": "648428232262261720"
@@ -65,7 +66,7 @@
       "authors": "MP Snyder, TR Gingeras, JE Moore, Z Weng, MB Gerstein, B Ren, ...",
       "publication": "Nature 583 (7818), 693-698, 2020",
       "cited_by": {
-        "value": 198,
+        "value": 203,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13037996884087036368,12466045730709983789,7901029321751058697",
         "serpapi_link": "https://serpapi.com/search.json?cites=13037996884087036368%2C12466045730709983789%2C7901029321751058697&engine=google_scholar&hl=en",
         "cites_id": "13037996884087036368,12466045730709983789,7901029321751058697"
@@ -79,7 +80,7 @@
       "authors": "YHE Hsiao, JH Bahn, Y Yang, X Lin, S Tran, EW Yang, ...",
       "publication": "Genome research 28 (6), 812-823, 2018",
       "cited_by": {
-        "value": 165,
+        "value": 172,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13268555053370951987",
         "serpapi_link": "https://serpapi.com/search.json?cites=13268555053370951987&engine=google_scholar&hl=en",
         "cites_id": "13268555053370951987"
@@ -93,7 +94,7 @@
       "authors": "G Quinones-Valdez, SS Tran, HI Jun, JH Bahn, EW Yang, L Zhan, ...",
       "publication": "Communications biology 2 (1), 19, 2019",
       "cited_by": {
-        "value": 149,
+        "value": 152,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11402915078674006669",
         "serpapi_link": "https://serpapi.com/search.json?cites=11402915078674006669&engine=google_scholar&hl=en",
         "cites_id": "11402915078674006669"
@@ -107,7 +108,7 @@
       "authors": "EW Yang, JH Bahn, EYH Hsiao, BX Tan, Y Sun, T Fu, B Zhou, ...",
       "publication": "Nature communications 10 (1), 1338, 2019",
       "cited_by": {
-        "value": 61,
+        "value": 63,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10137849346563844167",
         "serpapi_link": "https://serpapi.com/search.json?cites=10137849346563844167&engine=google_scholar&hl=en",
         "cites_id": "10137849346563844167"
@@ -121,7 +122,7 @@
       "authors": "TW Chan, T Fu, JH Bahn, HI Jun, JH Lee, G Quinones-Valdez, C Cheng, ...",
       "publication": "Genome biology 21 (1), 268, 2020",
       "cited_by": {
-        "value": 54,
+        "value": 55,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3283132903120402362,5322147104356830065",
         "serpapi_link": "https://serpapi.com/search.json?cites=3283132903120402362%2C5322147104356830065&engine=google_scholar&hl=en",
         "cites_id": "3283132903120402362,5322147104356830065"
@@ -135,7 +136,7 @@
       "authors": "R Zheng, M Dunlap, GOM Bobkov, C Gonzalez-Figueroa, KJ Patel, J Lyu, ...",
       "publication": "Molecular cell 84 (11), 2087-2103. e8, 2024",
       "cited_by": {
-        "value": 37,
+        "value": 43,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17186719674900460619,7484198392927232078",
         "serpapi_link": "https://serpapi.com/search.json?cites=17186719674900460619%2C7484198392927232078&engine=google_scholar&hl=en",
         "cites_id": "17186719674900460619,7484198392927232078"
@@ -149,7 +150,7 @@
       "authors": "Z Liu, G Quinones-Valdez, T Fu, E Huang, M Choudhury, F Reese, ...",
       "publication": "Genome Biology 24 (1), 171, 2023",
       "cited_by": {
-        "value": 25,
+        "value": 26,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16476454066440598919",
         "serpapi_link": "https://serpapi.com/search.json?cites=16476454066440598919&engine=google_scholar&hl=en",
         "cites_id": "16476454066440598919"
@@ -157,7 +158,7 @@
       "year": "2023"
     },
     {
-      "title": "scAllele: A versatile tool for the detection and analysis of variants in scRNA-seq",
+      "title": "scAllele: a versatile tool for the detection and analysis of variants in scRNA-seq",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Un02rhgAAAAJ&citation_for_view=Un02rhgAAAAJ:3fE2CSJIrl8C",
       "citation_id": "Un02rhgAAAAJ:3fE2CSJIrl8C",
       "authors": "G Quinones-Valdez, T Fu, TW Chan, X Xiao",
@@ -205,7 +206,10 @@
       "authors": "AJ King, K Amoah, L Zhang, JH Bahn, RM Barney, G Quinones-Valdez, ...",
       "publication": "Genome Research, 2026.02. 13.705796, 2026",
       "cited_by": {
-        "value": null
+        "value": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4396556652743916951",
+        "serpapi_link": "https://serpapi.com/search.json?cites=4396556652743916951&engine=google_scholar&hl=en",
+        "cites_id": "4396556652743916951"
       },
       "year": "2026"
     },
@@ -302,8 +306,8 @@
     "table": [
       {
         "citations": {
-          "all": 3043,
-          "since_2021": 2895
+          "all": 3143,
+          "since_2021": 2994
         }
       },
       {
@@ -326,31 +330,31 @@
       },
       {
         "year": 2020,
-        "citations": 109
+        "citations": 108
       },
       {
         "year": 2021,
-        "citations": 382
+        "citations": 387
       },
       {
         "year": 2022,
-        "citations": 449
+        "citations": 455
       },
       {
         "year": 2023,
-        "citations": 493
+        "citations": 489
       },
       {
         "year": 2024,
-        "citations": 581
+        "citations": 580
       },
       {
         "year": 2025,
-        "citations": 613
+        "citations": 605
       },
       {
         "year": 2026,
-        "citations": 376
+        "citations": 477
       }
     ]
   },
@@ -403,7 +407,7 @@
       "author_id": "pcMUUEAAAAAJ",
       "affiliations": "Baylor College of Medicine",
       "email": "Verified email at bcm.edu",
-      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=pcMUUEAAAAAJ&citpid=2"
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=pcMUUEAAAAAJ&citpid=3"
     },
     {
       "name": "Mudra Choudhury",
