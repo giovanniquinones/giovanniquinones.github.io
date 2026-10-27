@@ -1,14 +1,14 @@
 {
   "search_metadata": {
-    "id": "6ac592c44fa3ba9fae32e42f",
+    "id": "6ae1007f0a76677e9c8bcc85",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/4DvS2yIqz281gTJHBgGFWgIjYUJDW3xZE4sv8VtOGyA/6ac592c44fa3ba9fae32e42f.json",
-    "markdown_endpoint": "https://serpapi.com/searches/4DvS2yIqz281gTJHBgGFWgIjYUJDW3xZE4sv8VtOGyA/6ac592c44fa3ba9fae32e42f.md",
-    "created_at": "2026-10-07 00:31:00 UTC",
-    "processed_at": "2026-10-07 00:31:00 UTC",
+    "json_endpoint": "https://serpapi.com/searches/rx3XQiCfxZxf1DeEXQVNdeOotrhU12Y1ajSS6UUVC4Y/6ae1007f0a76677e9c8bcc85.json",
+    "markdown_endpoint": "https://serpapi.com/searches/rx3XQiCfxZxf1DeEXQVNdeOotrhU12Y1ajSS6UUVC4Y/6ae1007f0a76677e9c8bcc85.md",
+    "created_at": "2026-10-27 19:50:23 UTC",
+    "processed_at": "2026-10-27 19:50:23 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=Un02rhgAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/4DvS2yIqz281gTJHBgGFWgIjYUJDW3xZE4sv8VtOGyA/6ac592c44fa3ba9fae32e42f.html",
-    "total_time_taken": 1.11
+    "raw_html_file": "https://serpapi.com/searches/rx3XQiCfxZxf1DeEXQVNdeOotrhU12Y1ajSS6UUVC4Y/6ae1007f0a76677e9c8bcc85.html",
+    "total_time_taken": 5.66
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -52,7 +52,7 @@
       "authors": "JE Moore, MJ Purcaro, HE Pratt, CB Epstein, N Shoresh, J Adrian, T Kawli, ...",
       "publication": "Nature 583 (7818), 699-710, 2020",
       "cited_by": {
-        "value": 2453,
+        "value": 2494,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=648428232262261720",
         "serpapi_link": "https://serpapi.com/search.json?cites=648428232262261720&engine=google_scholar&hl=en",
         "cites_id": "648428232262261720"
@@ -66,7 +66,7 @@
       "authors": "MP Snyder, TR Gingeras, JE Moore, Z Weng, MB Gerstein, B Ren, ...",
       "publication": "Nature 583 (7818), 693-698, 2020",
       "cited_by": {
-        "value": 204,
+        "value": 210,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13037996884087036368,12466045730709983789,7901029321751058697",
         "serpapi_link": "https://serpapi.com/search.json?cites=13037996884087036368%2C12466045730709983789%2C7901029321751058697&engine=google_scholar&hl=en",
         "cites_id": "13037996884087036368,12466045730709983789,7901029321751058697"
@@ -80,7 +80,7 @@
       "authors": "YHE Hsiao, JH Bahn, Y Yang, X Lin, S Tran, EW Yang, ...",
       "publication": "Genome research 28 (6), 812-823, 2018",
       "cited_by": {
-        "value": 173,
+        "value": 174,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13268555053370951987",
         "serpapi_link": "https://serpapi.com/search.json?cites=13268555053370951987&engine=google_scholar&hl=en",
         "cites_id": "13268555053370951987"
@@ -94,7 +94,7 @@
       "authors": "G Quinones-Valdez, SS Tran, HI Jun, JH Bahn, EW Yang, L Zhan, ...",
       "publication": "Communications biology 2 (1), 19, 2019",
       "cited_by": {
-        "value": 152,
+        "value": 155,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11402915078674006669",
         "serpapi_link": "https://serpapi.com/search.json?cites=11402915078674006669&engine=google_scholar&hl=en",
         "cites_id": "11402915078674006669"
@@ -122,7 +122,7 @@
       "authors": "TW Chan, T Fu, JH Bahn, HI Jun, JH Lee, G Quinones-Valdez, C Cheng, ...",
       "publication": "Genome biology 21 (1), 268, 2020",
       "cited_by": {
-        "value": 55,
+        "value": 57,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3283132903120402362,5322147104356830065",
         "serpapi_link": "https://serpapi.com/search.json?cites=3283132903120402362%2C5322147104356830065&engine=google_scholar&hl=en",
         "cites_id": "3283132903120402362,5322147104356830065"
@@ -136,7 +136,7 @@
       "authors": "R Zheng, M Dunlap, GOM Bobkov, C Gonzalez-Figueroa, KJ Patel, J Lyu, ...",
       "publication": "Molecular cell 84 (11), 2087-2103. e8, 2024",
       "cited_by": {
-        "value": 48,
+        "value": 51,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17186719674900460619,7484198392927232078",
         "serpapi_link": "https://serpapi.com/search.json?cites=17186719674900460619%2C7484198392927232078&engine=google_scholar&hl=en",
         "cites_id": "17186719674900460619,7484198392927232078"
@@ -178,7 +178,7 @@
       "authors": "JL Hervoso, K Amoah, J Dodson, M Choudhury, A Bhattacharya, ...",
       "publication": "The American Journal of Human Genetics 111 (8), 1573-1587, 2024",
       "cited_by": {
-        "value": 17,
+        "value": 19,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6069675586488762136",
         "serpapi_link": "https://serpapi.com/search.json?cites=6069675586488762136&engine=google_scholar&hl=en",
         "cites_id": "6069675586488762136"
@@ -192,7 +192,7 @@
       "authors": "G Quinones-Valdez, K Amoah, X Xiao",
       "publication": "Nature Communications 16 (1), 9603, 2025",
       "cited_by": {
-        "value": 12,
+        "value": 15,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13732698681155342026",
         "serpapi_link": "https://serpapi.com/search.json?cites=13732698681155342026&engine=google_scholar&hl=en",
         "cites_id": "13732698681155342026"
@@ -306,8 +306,8 @@
     "table": [
       {
         "citations": {
-          "all": 3228,
-          "since_2021": 3078
+          "all": 3289,
+          "since_2021": 3137
         }
       },
       {
@@ -342,19 +342,19 @@
       },
       {
         "year": 2023,
-        "citations": 487
+        "citations": 490
       },
       {
         "year": 2024,
-        "citations": 584
+        "citations": 586
       },
       {
         "year": 2025,
-        "citations": 610
+        "citations": 608
       },
       {
         "year": 2026,
-        "citations": 553
+        "citations": 609
       }
     ]
   },
