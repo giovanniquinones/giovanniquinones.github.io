@@ -1,363 +1,239 @@
 {
-  "container_type": "Author",
-  "filled": [
-    "basics",
-    "publications",
-    "indices"
-  ],
-  "scholar_id": "Un02rhgAAAAJ",
-  "source": "AUTHOR_PROFILE_PAGE",
-  "name": "Giovanni Quinones-Valdez",
-  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=Un02rhgAAAAJ&citpid=2",
-  "affiliation": "UCLA",
-  "organization": 14108176128635076915,
-  "interests": [
-    "Transcriptomics",
-    "Bioinformatics",
-    "RNA biology",
-    "Genomics"
-  ],
-  "email_domain": "@ucla.edu",
-  "homepage": "https://giovanniquinones.github.io/",
-  "citedby": 3327,
-  "publications": [
+  "author": {
+    "name": "Giovanni Quinones-Valdez",
+    "affiliations": "UCLA",
+    "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=Un02rhgAAAAJ&citpid=2"
+  },
+  "articles": [
     {
-      "container_type": "Publication",
-      "source": "AUTHOR_PUBLICATION_ENTRY",
-      "bib": {
-        "title": "Expanded encyclopaedias of DNA elements in the human and mouse genomes",
-        "pub_year": "2020",
-        "citation": "Nature 583 (7818), 699-710, 2020"
+      "title": "Expanded encyclopaedias of DNA elements in the human and mouse genomes",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&citation_for_view=Un02rhgAAAAJ:hqOjcs7Dif8C",
+      "authors": "",
+      "publication": "",
+      "cited_by": {
+        "value": 2530
       },
-      "filled": false,
-      "author_pub_id": "Un02rhgAAAAJ:hqOjcs7Dif8C",
-      "num_citations": 2530,
-      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=648428232262261720",
-      "cites_id": [
-        "648428232262261720"
-      ]
+      "year": "2020"
     },
     {
-      "container_type": "Publication",
-      "source": "AUTHOR_PUBLICATION_ENTRY",
-      "bib": {
-        "title": "Perspectives on ENCODE",
-        "pub_year": "2020",
-        "citation": "Nature 583 (7818), 693-698, 2020"
+      "title": "Perspectives on ENCODE",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&citation_for_view=Un02rhgAAAAJ:UebtZRa9Y70C",
+      "authors": "",
+      "publication": "",
+      "cited_by": {
+        "value": 208
       },
-      "filled": false,
-      "author_pub_id": "Un02rhgAAAAJ:UebtZRa9Y70C",
-      "num_citations": 208,
-      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13037996884087036368,12466045730709983789,7901029321751058697",
-      "cites_id": [
-        "13037996884087036368",
-        "12466045730709983789",
-        "7901029321751058697"
-      ]
+      "year": "2020"
     },
     {
-      "container_type": "Publication",
-      "source": "AUTHOR_PUBLICATION_ENTRY",
-      "bib": {
-        "title": "RNA editing in nascent RNA affects pre-mRNA splicing",
-        "pub_year": "2018",
-        "citation": "Genome research 28 (6), 812-823, 2018"
+      "title": "RNA editing in nascent RNA affects pre-mRNA splicing",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&citation_for_view=Un02rhgAAAAJ:u5HHmVD_uO8C",
+      "authors": "",
+      "publication": "",
+      "cited_by": {
+        "value": 175
       },
-      "filled": false,
-      "author_pub_id": "Un02rhgAAAAJ:u5HHmVD_uO8C",
-      "num_citations": 175,
-      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13268555053370951987",
-      "cites_id": [
-        "13268555053370951987"
-      ]
+      "year": "2018"
     },
     {
-      "container_type": "Publication",
-      "source": "AUTHOR_PUBLICATION_ENTRY",
-      "bib": {
-        "title": "Regulation of RNA editing by RNA-binding proteins in human cells",
-        "pub_year": "2019",
-        "citation": "Communications biology 2 (1), 19, 2019"
+      "title": "Regulation of RNA editing by RNA-binding proteins in human cells",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&citation_for_view=Un02rhgAAAAJ:2osOgNQ5qMEC",
+      "authors": "",
+      "publication": "",
+      "cited_by": {
+        "value": 155
       },
-      "filled": false,
-      "author_pub_id": "Un02rhgAAAAJ:2osOgNQ5qMEC",
-      "num_citations": 155,
-      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11402915078674006669",
-      "cites_id": [
-        "11402915078674006669"
-      ]
+      "year": "2019"
     },
     {
-      "container_type": "Publication",
-      "source": "AUTHOR_PUBLICATION_ENTRY",
-      "bib": {
-        "title": "Allele-specific binding of RNA-binding proteins reveals functional genetic variants in the RNA",
-        "pub_year": "2019",
-        "citation": "Nature communications 10 (1), 1338, 2019"
+      "title": "Allele-specific binding of RNA-binding proteins reveals functional genetic variants in the RNA",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&citation_for_view=Un02rhgAAAAJ:u-x6o8ySG0sC",
+      "authors": "",
+      "publication": "",
+      "cited_by": {
+        "value": 63
       },
-      "filled": false,
-      "author_pub_id": "Un02rhgAAAAJ:u-x6o8ySG0sC",
-      "num_citations": 63,
-      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10137849346563844167",
-      "cites_id": [
-        "10137849346563844167"
-      ]
+      "year": "2019"
     },
     {
-      "container_type": "Publication",
-      "source": "AUTHOR_PUBLICATION_ENTRY",
-      "bib": {
-        "title": "RNA editing in cancer impacts mRNA abundance in immune response pathways",
-        "pub_year": "2020",
-        "citation": "Genome biology 21 (1), 268, 2020"
+      "title": "RNA editing in cancer impacts mRNA abundance in immune response pathways",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&citation_for_view=Un02rhgAAAAJ:Tyk-4Ss8FVUC",
+      "authors": "",
+      "publication": "",
+      "cited_by": {
+        "value": 58
       },
-      "filled": false,
-      "author_pub_id": "Un02rhgAAAAJ:Tyk-4Ss8FVUC",
-      "num_citations": 58,
-      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3283132903120402362,5322147104356830065",
-      "cites_id": [
-        "3283132903120402362",
-        "5322147104356830065"
-      ]
+      "year": "2020"
     },
     {
-      "container_type": "Publication",
-      "source": "AUTHOR_PUBLICATION_ENTRY",
-      "bib": {
-        "title": "hnRNPM protects against the dsRNA-mediated interferon response by repressing LINE-associated cryptic splicing",
-        "pub_year": "2024",
-        "citation": "Molecular cell 84 (11), 2087-2103. e8, 2024"
+      "title": "hnRNPM protects against the dsRNA-mediated interferon response by repressing LINE-associated cryptic splicing",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&citation_for_view=Un02rhgAAAAJ:ULOm3_A8WrAC",
+      "authors": "",
+      "publication": "",
+      "cited_by": {
+        "value": 52
       },
-      "filled": false,
-      "author_pub_id": "Un02rhgAAAAJ:ULOm3_A8WrAC",
-      "num_citations": 52,
-      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17186719674900460619,7484198392927232078",
-      "cites_id": [
-        "17186719674900460619",
-        "7484198392927232078"
-      ]
+      "year": "2024"
     },
     {
-      "container_type": "Publication",
-      "source": "AUTHOR_PUBLICATION_ENTRY",
-      "bib": {
-        "title": "L-GIREMI uncovers RNA editing sites in long-read RNA-seq",
-        "pub_year": "2023",
-        "citation": "Genome Biology 24 (1), 171, 2023"
+      "title": "L-GIREMI uncovers RNA editing sites in long-read RNA-seq",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&citation_for_view=Un02rhgAAAAJ:MXK_kJrjxJIC",
+      "authors": "",
+      "publication": "",
+      "cited_by": {
+        "value": 29
       },
-      "filled": false,
-      "author_pub_id": "Un02rhgAAAAJ:MXK_kJrjxJIC",
-      "num_citations": 29,
-      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16476454066440598919",
-      "cites_id": [
-        "16476454066440598919"
-      ]
+      "year": "2023"
     },
     {
-      "container_type": "Publication",
-      "source": "AUTHOR_PUBLICATION_ENTRY",
-      "bib": {
-        "title": "scAllele: a versatile tool for the detection and analysis of variants in scRNA-seq",
-        "pub_year": "2022",
-        "citation": "Science Advances 8 (35), eabn6398, 2022"
+      "title": "scAllele: a versatile tool for the detection and analysis of variants in scRNA-seq",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&citation_for_view=Un02rhgAAAAJ:3fE2CSJIrl8C",
+      "authors": "",
+      "publication": "",
+      "cited_by": {
+        "value": 20
       },
-      "filled": false,
-      "author_pub_id": "Un02rhgAAAAJ:3fE2CSJIrl8C",
-      "num_citations": 20,
-      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6023914868540801289,16551074891127263578",
-      "cites_id": [
-        "6023914868540801289",
-        "16551074891127263578"
-      ]
+      "year": "2022"
     },
     {
-      "container_type": "Publication",
-      "source": "AUTHOR_PUBLICATION_ENTRY",
-      "bib": {
-        "title": "Splicing-specific transcriptome-wide association uncovers genetic mechanisms for schizophrenia",
-        "pub_year": "2024",
-        "citation": "The American Journal of Human Genetics 111 (8), 1573-1587, 2024"
+      "title": "Splicing-specific transcriptome-wide association uncovers genetic mechanisms for schizophrenia",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&citation_for_view=Un02rhgAAAAJ:_kc_bZDykSQC",
+      "authors": "",
+      "publication": "",
+      "cited_by": {
+        "value": 19
       },
-      "filled": false,
-      "author_pub_id": "Un02rhgAAAAJ:_kc_bZDykSQC",
-      "num_citations": 19,
-      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6069675586488762136",
-      "cites_id": [
-        "6069675586488762136"
-      ]
+      "year": "2024"
     },
     {
-      "container_type": "Publication",
-      "source": "AUTHOR_PUBLICATION_ENTRY",
-      "bib": {
-        "title": "Long-read RNA-seq demarcates cis- and trans-directed alternative RNA splicing",
-        "pub_year": "2025",
-        "citation": "Nature Communications 16 (1), 9603, 2025"
+      "title": "Long-read RNA-seq demarcates cis- and trans-directed alternative RNA splicing",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&citation_for_view=Un02rhgAAAAJ:YOwf2qJgpHMC",
+      "authors": "",
+      "publication": "",
+      "cited_by": {
+        "value": 15
       },
-      "filled": false,
-      "author_pub_id": "Un02rhgAAAAJ:YOwf2qJgpHMC",
-      "num_citations": 15,
-      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13732698681155342026",
-      "cites_id": [
-        "13732698681155342026"
-      ]
+      "year": "2025"
     },
     {
-      "container_type": "Publication",
-      "source": "AUTHOR_PUBLICATION_ENTRY",
-      "bib": {
-        "title": "Allele-specific splicing modulates protein isoforms and Alzheimer’s risk",
-        "pub_year": "2026",
-        "citation": "Genome Research, 2026.02. 13.705796, 2026"
+      "title": "Allele-specific splicing modulates protein isoforms and Alzheimer’s risk",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&citation_for_view=Un02rhgAAAAJ:7PzlFSSx8tAC",
+      "authors": "",
+      "publication": "",
+      "cited_by": {
+        "value": 2
       },
-      "filled": false,
-      "author_pub_id": "Un02rhgAAAAJ:7PzlFSSx8tAC",
-      "num_citations": 2,
-      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4396556652743916951",
-      "cites_id": [
-        "4396556652743916951"
-      ]
+      "year": "2026"
     },
     {
-      "container_type": "Publication",
-      "source": "AUTHOR_PUBLICATION_ENTRY",
-      "bib": {
-        "title": "Immune landscape of the affected brain in Rasmussen encephalitis",
-        "pub_year": "2026",
-        "citation": "Scientific Reports, 2026"
+      "title": "Immune landscape of the affected brain in Rasmussen encephalitis",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&citation_for_view=Un02rhgAAAAJ:9ZlFYXVOiuMC",
+      "authors": "",
+      "publication": "",
+      "cited_by": {
+        "value": 1
       },
-      "filled": false,
-      "author_pub_id": "Un02rhgAAAAJ:9ZlFYXVOiuMC",
-      "num_citations": 1,
-      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16573933388220506031",
-      "cites_id": [
-        "16573933388220506031"
-      ]
+      "year": "2026"
     },
     {
-      "container_type": "Publication",
-      "source": "AUTHOR_PUBLICATION_ENTRY",
-      "bib": {
-        "title": "CryEx. v2, an enhanced protocol for the quantitative detection and visualization of cryptic splicing using human transcriptome data",
-        "pub_year": "2026",
-        "citation": "STAR protocols 7 (4), 104931, 2026"
+      "title": "CryEx. v2, an enhanced protocol for the quantitative detection and visualization of cryptic splicing using human transcriptome data",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&citation_for_view=Un02rhgAAAAJ:qUcmZB5y_30C",
+      "authors": "",
+      "publication": "",
+      "cited_by": {
+        "value": 0
       },
-      "filled": false,
-      "author_pub_id": "Un02rhgAAAAJ:qUcmZB5y_30C",
-      "num_citations": 0
+      "year": "2026"
     },
     {
-      "container_type": "Publication",
-      "source": "AUTHOR_PUBLICATION_ENTRY",
-      "bib": {
-        "title": "Single-cell tracing identifies a stage-spanning progenitor linked to chemoresistance in Down syndrome myeloid leukemia",
-        "pub_year": "2026",
-        "citation": "Klinische Pädiatrie 238 (03), 0069, 2026"
+      "title": "Single-cell tracing identifies a stage-spanning progenitor linked to chemoresistance in Down syndrome myeloid leukemia",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&citation_for_view=Un02rhgAAAAJ:ZeXyd9-uunAC",
+      "authors": "",
+      "publication": "",
+      "cited_by": {
+        "value": 0
       },
-      "filled": false,
-      "author_pub_id": "Un02rhgAAAAJ:ZeXyd9-uunAC",
-      "num_citations": 0
+      "year": "2026"
     },
     {
-      "container_type": "Publication",
-      "source": "AUTHOR_PUBLICATION_ENTRY",
-      "bib": {
-        "title": "Allele-specific alternative polyadenylation links noncoding genetic variation to Alzheimer’s disease risk",
-        "pub_year": "2026",
-        "citation": "bioRxiv, 2026"
+      "title": "Allele-specific alternative polyadenylation links noncoding genetic variation to Alzheimer’s disease risk",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&citation_for_view=Un02rhgAAAAJ:mVmsd5A6BfQC",
+      "authors": "",
+      "publication": "",
+      "cited_by": {
+        "value": 0
       },
-      "filled": false,
-      "author_pub_id": "Un02rhgAAAAJ:mVmsd5A6BfQC",
-      "num_citations": 0
+      "year": "2026"
     },
     {
-      "container_type": "Publication",
-      "source": "AUTHOR_PUBLICATION_ENTRY",
-      "bib": {
-        "title": "The Encyclopedia of DNA Elements",
-        "pub_year": "2026",
-        "citation": "bioRxiv, 2026.07. 06.731365, 2026"
+      "title": "The Encyclopedia of DNA Elements",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&citation_for_view=Un02rhgAAAAJ:IWHjjKOFINEC",
+      "authors": "",
+      "publication": "",
+      "cited_by": {
+        "value": 0
       },
-      "filled": false,
-      "author_pub_id": "Un02rhgAAAAJ:IWHjjKOFINEC",
-      "num_citations": 0
+      "year": "2026"
     },
     {
-      "container_type": "Publication",
-      "source": "AUTHOR_PUBLICATION_ENTRY",
-      "bib": {
-        "title": "Single-cell tracing of myeloid leukemia evolution in down syndrome reveals a latent progenitor bridging disease onset, progression and relapse",
-        "pub_year": "2025",
-        "citation": "Blood 146, 1472, 2025"
+      "title": "Single-cell tracing of myeloid leukemia evolution in down syndrome reveals a latent progenitor bridging disease onset, progression and relapse",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&citation_for_view=Un02rhgAAAAJ:qxL8FJ1GzNcC",
+      "authors": "",
+      "publication": "",
+      "cited_by": {
+        "value": 0
       },
-      "filled": false,
-      "author_pub_id": "Un02rhgAAAAJ:qxL8FJ1GzNcC",
-      "num_citations": 0
+      "year": "2025"
     },
     {
-      "container_type": "Publication",
-      "source": "AUTHOR_PUBLICATION_ENTRY",
-      "bib": {
-        "title": "3160–TRACING THE ORIGIN AND EVOLUTION OF MYELOID LEUKEMIA IN DOWN SYNDROME",
-        "pub_year": "2025",
-        "citation": "Experimental Hematology 151, 105101, 2025"
+      "title": "3160–TRACING THE ORIGIN AND EVOLUTION OF MYELOID LEUKEMIA IN DOWN SYNDROME",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&citation_for_view=Un02rhgAAAAJ:M3ejUd6NZC8C",
+      "authors": "",
+      "publication": "",
+      "cited_by": {
+        "value": 0
       },
-      "filled": false,
-      "author_pub_id": "Un02rhgAAAAJ:M3ejUd6NZC8C",
-      "num_citations": 0
+      "year": "2025"
     },
     {
-      "container_type": "Publication",
-      "source": "AUTHOR_PUBLICATION_ENTRY",
-      "bib": {
-        "title": "Function and Regulation of Nucleotide Variants in RNA",
-        "pub_year": "2021",
-        "citation": "University of California, Los Angeles, 2021"
+      "title": "Function and Regulation of Nucleotide Variants in RNA",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&citation_for_view=Un02rhgAAAAJ:ufrVoPGSRksC",
+      "authors": "",
+      "publication": "",
+      "cited_by": {
+        "value": 0
       },
-      "filled": false,
-      "author_pub_id": "Un02rhgAAAAJ:ufrVoPGSRksC",
-      "num_citations": 0
+      "year": "2021"
     },
     {
-      "container_type": "Publication",
-      "source": "AUTHOR_PUBLICATION_ENTRY",
-      "bib": {
-        "title": "Functional Roles of Single Nucleotide Variants in Alternative Splicing",
-        "pub_year": "2018",
-        "citation": "UCLA, 2018"
+      "title": "Functional Roles of Single Nucleotide Variants in Alternative Splicing",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&citation_for_view=Un02rhgAAAAJ:9yKSN-GCB0IC",
+      "authors": "",
+      "publication": "",
+      "cited_by": {
+        "value": 0
       },
-      "filled": false,
-      "author_pub_id": "Un02rhgAAAAJ:9yKSN-GCB0IC",
-      "num_citations": 0
+      "year": "2018"
     },
     {
-      "container_type": "Publication",
-      "source": "AUTHOR_PUBLICATION_ENTRY",
-      "bib": {
-        "title": "Delaying Retinal Degeneration in a Mouse Model of Geographic Atrophy: An Antioxidant Gene Therapy Approach.",
-        "pub_year": "2015",
-        "citation": "Investigative Ophthalmology & Visual Science 56 (7), 3189-3189, 2015"
+      "title": "Delaying Retinal Degeneration in a Mouse Model of Geographic Atrophy: An Antioxidant Gene Therapy Approach.",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&citation_for_view=Un02rhgAAAAJ:d1gkVwhDpl0C",
+      "authors": "",
+      "publication": "",
+      "cited_by": {
+        "value": 0
       },
-      "filled": false,
-      "author_pub_id": "Un02rhgAAAAJ:d1gkVwhDpl0C",
-      "num_citations": 0
+      "year": "2015"
     },
     {
-      "container_type": "Publication",
-      "source": "AUTHOR_PUBLICATION_ENTRY",
-      "bib": {
-        "title": "393. Effectiveness of Antioxidant Gene Therapy in Delaying Retinal Degeneration",
-        "pub_year": "2015",
-        "citation": "Molecular Therapy 23, S156, 2015"
+      "title": "393. Effectiveness of Antioxidant Gene Therapy in Delaying Retinal Degeneration",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&citation_for_view=Un02rhgAAAAJ:qjMakFHDy7sC",
+      "authors": "",
+      "publication": "",
+      "cited_by": {
+        "value": 0
       },
-      "filled": false,
-      "author_pub_id": "Un02rhgAAAAJ:qjMakFHDy7sC",
-      "num_citations": 0
+      "year": "2015"
     }
-  ],
-  "citedby5y": 3177,
-  "hindex": 11,
-  "hindex5y": 11,
-  "i10index": 11,
-  "i10index5y": 11
+  ]
 }
