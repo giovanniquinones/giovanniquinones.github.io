@@ -4,12 +4,69 @@
     "affiliations": "UCLA",
     "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=Un02rhgAAAAJ&citpid=2"
   },
+  "cited_by": {
+    "table": [
+      {
+        "citations": {
+          "all": 3327,
+          "since_2021": 3177
+        }
+      },
+      {
+        "h_index": {
+          "all": 11,
+          "since_2021": 11
+        }
+      },
+      {
+        "i10_index": {
+          "all": 11,
+          "since_2021": 11
+        }
+      }
+    ],
+    "graph": [
+      {
+        "year": 2019,
+        "citations": 20
+      },
+      {
+        "year": 2020,
+        "citations": 109
+      },
+      {
+        "year": 2021,
+        "citations": 388
+      },
+      {
+        "year": 2022,
+        "citations": 455
+      },
+      {
+        "year": 2023,
+        "citations": 490
+      },
+      {
+        "year": 2024,
+        "citations": 586
+      },
+      {
+        "year": 2025,
+        "citations": 605
+      },
+      {
+        "year": 2026,
+        "citations": 652
+      }
+    ]
+  },
   "articles": [
     {
       "title": "Expanded encyclopaedias of DNA elements in the human and mouse genomes",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&citation_for_view=Un02rhgAAAAJ:hqOjcs7Dif8C",
-      "authors": "",
-      "publication": "",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Un02rhgAAAAJ&pagesize=100&citation_for_view=Un02rhgAAAAJ:hqOjcs7Dif8C",
+      "authors": "JE Moore, MJ Purcaro, HE Pratt, CB Epstein, N Shoresh, J Adrian, T Kawli, ...",
+      "author": "JE Moore, MJ Purcaro, HE Pratt, CB Epstein, N Shoresh, J Adrian, T Kawli, ...",
+      "publication": "Nature 583 (7818), 699-710, 2020",
       "cited_by": {
         "value": 2530
       },
@@ -17,9 +74,10 @@
     },
     {
       "title": "Perspectives on ENCODE",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&citation_for_view=Un02rhgAAAAJ:UebtZRa9Y70C",
-      "authors": "",
-      "publication": "",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Un02rhgAAAAJ&pagesize=100&citation_for_view=Un02rhgAAAAJ:UebtZRa9Y70C",
+      "authors": "MP Snyder, TR Gingeras, JE Moore, Z Weng, MB Gerstein, B Ren, ...",
+      "author": "MP Snyder, TR Gingeras, JE Moore, Z Weng, MB Gerstein, B Ren, ...",
+      "publication": "Nature 583 (7818), 693-698, 2020",
       "cited_by": {
         "value": 208
       },
@@ -27,9 +85,10 @@
     },
     {
       "title": "RNA editing in nascent RNA affects pre-mRNA splicing",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&citation_for_view=Un02rhgAAAAJ:u5HHmVD_uO8C",
-      "authors": "",
-      "publication": "",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Un02rhgAAAAJ&pagesize=100&citation_for_view=Un02rhgAAAAJ:u5HHmVD_uO8C",
+      "authors": "YHE Hsiao, JH Bahn, Y Yang, X Lin, S Tran, EW Yang, ...",
+      "author": "YHE Hsiao, JH Bahn, Y Yang, X Lin, S Tran, EW Yang, ...",
+      "publication": "Genome research 28 (6), 812-823, 2018",
       "cited_by": {
         "value": 175
       },
@@ -37,9 +96,10 @@
     },
     {
       "title": "Regulation of RNA editing by RNA-binding proteins in human cells",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&citation_for_view=Un02rhgAAAAJ:2osOgNQ5qMEC",
-      "authors": "",
-      "publication": "",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Un02rhgAAAAJ&pagesize=100&citation_for_view=Un02rhgAAAAJ:2osOgNQ5qMEC",
+      "authors": "<strong>G Quinones-Valdez</strong>, SS Tran, HI Jun, JH Bahn, EW Yang, L Zhan, ...",
+      "author": "<strong>G Quinones-Valdez</strong>, SS Tran, HI Jun, JH Bahn, EW Yang, L Zhan, ...",
+      "publication": "Communications biology 2 (1), 19, 2019",
       "cited_by": {
         "value": 155
       },
@@ -47,9 +107,10 @@
     },
     {
       "title": "Allele-specific binding of RNA-binding proteins reveals functional genetic variants in the RNA",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&citation_for_view=Un02rhgAAAAJ:u-x6o8ySG0sC",
-      "authors": "",
-      "publication": "",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Un02rhgAAAAJ&pagesize=100&citation_for_view=Un02rhgAAAAJ:u-x6o8ySG0sC",
+      "authors": "EW Yang, JH Bahn, EYH Hsiao, BX Tan, Y Sun, T Fu, B Zhou, ...",
+      "author": "EW Yang, JH Bahn, EYH Hsiao, BX Tan, Y Sun, T Fu, B Zhou, ...",
+      "publication": "Nature communications 10 (1), 1338, 2019",
       "cited_by": {
         "value": 63
       },
@@ -57,9 +118,10 @@
     },
     {
       "title": "RNA editing in cancer impacts mRNA abundance in immune response pathways",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&citation_for_view=Un02rhgAAAAJ:Tyk-4Ss8FVUC",
-      "authors": "",
-      "publication": "",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Un02rhgAAAAJ&pagesize=100&citation_for_view=Un02rhgAAAAJ:Tyk-4Ss8FVUC",
+      "authors": "TW Chan, T Fu, JH Bahn, HI Jun, JH Lee, <strong>G Quinones-Valdez</strong>, C Cheng, ...",
+      "author": "TW Chan, T Fu, JH Bahn, HI Jun, JH Lee, <strong>G Quinones-Valdez</strong>, C Cheng, ...",
+      "publication": "Genome biology 21 (1), 268, 2020",
       "cited_by": {
         "value": 58
       },
@@ -67,9 +129,10 @@
     },
     {
       "title": "hnRNPM protects against the dsRNA-mediated interferon response by repressing LINE-associated cryptic splicing",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&citation_for_view=Un02rhgAAAAJ:ULOm3_A8WrAC",
-      "authors": "",
-      "publication": "",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Un02rhgAAAAJ&pagesize=100&citation_for_view=Un02rhgAAAAJ:ULOm3_A8WrAC",
+      "authors": "R Zheng, M Dunlap, GOM Bobkov, C Gonzalez-Figueroa, KJ Patel, J Lyu, ...",
+      "author": "R Zheng, M Dunlap, GOM Bobkov, C Gonzalez-Figueroa, KJ Patel, J Lyu, ...",
+      "publication": "Molecular cell 84 (11), 2087-2103. e8, 2024",
       "cited_by": {
         "value": 52
       },
@@ -77,9 +140,10 @@
     },
     {
       "title": "L-GIREMI uncovers RNA editing sites in long-read RNA-seq",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&citation_for_view=Un02rhgAAAAJ:MXK_kJrjxJIC",
-      "authors": "",
-      "publication": "",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Un02rhgAAAAJ&pagesize=100&citation_for_view=Un02rhgAAAAJ:MXK_kJrjxJIC",
+      "authors": "Z Liu, <strong>G Quinones-Valdez</strong>, T Fu, E Huang, M Choudhury, F Reese, ...",
+      "author": "Z Liu, <strong>G Quinones-Valdez</strong>, T Fu, E Huang, M Choudhury, F Reese, ...",
+      "publication": "Genome Biology 24 (1), 171, 2023",
       "cited_by": {
         "value": 29
       },
@@ -87,9 +151,10 @@
     },
     {
       "title": "scAllele: a versatile tool for the detection and analysis of variants in scRNA-seq",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&citation_for_view=Un02rhgAAAAJ:3fE2CSJIrl8C",
-      "authors": "",
-      "publication": "",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Un02rhgAAAAJ&pagesize=100&citation_for_view=Un02rhgAAAAJ:3fE2CSJIrl8C",
+      "authors": "<strong>G Quinones-Valdez</strong>, T Fu, TW Chan, X Xiao",
+      "author": "<strong>G Quinones-Valdez</strong>, T Fu, TW Chan, X Xiao",
+      "publication": "Science Advances 8 (35), eabn6398, 2022",
       "cited_by": {
         "value": 20
       },
@@ -97,9 +162,10 @@
     },
     {
       "title": "Splicing-specific transcriptome-wide association uncovers genetic mechanisms for schizophrenia",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&citation_for_view=Un02rhgAAAAJ:_kc_bZDykSQC",
-      "authors": "",
-      "publication": "",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Un02rhgAAAAJ&pagesize=100&citation_for_view=Un02rhgAAAAJ:_kc_bZDykSQC",
+      "authors": "JL Hervoso, K Amoah, J Dodson, M Choudhury, A Bhattacharya, ...",
+      "author": "JL Hervoso, K Amoah, J Dodson, M Choudhury, A Bhattacharya, ...",
+      "publication": "The American Journal of Human Genetics 111 (8), 1573-1587, 2024",
       "cited_by": {
         "value": 19
       },
@@ -107,9 +173,10 @@
     },
     {
       "title": "Long-read RNA-seq demarcates cis- and trans-directed alternative RNA splicing",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&citation_for_view=Un02rhgAAAAJ:YOwf2qJgpHMC",
-      "authors": "",
-      "publication": "",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Un02rhgAAAAJ&pagesize=100&citation_for_view=Un02rhgAAAAJ:YOwf2qJgpHMC",
+      "authors": "<strong>G Quinones-Valdez</strong>, K Amoah, X Xiao",
+      "author": "<strong>G Quinones-Valdez</strong>, K Amoah, X Xiao",
+      "publication": "Nature Communications 16 (1), 9603, 2025",
       "cited_by": {
         "value": 15
       },
@@ -117,9 +184,10 @@
     },
     {
       "title": "Allele-specific splicing modulates protein isoforms and Alzheimer’s risk",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&citation_for_view=Un02rhgAAAAJ:7PzlFSSx8tAC",
-      "authors": "",
-      "publication": "",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Un02rhgAAAAJ&pagesize=100&citation_for_view=Un02rhgAAAAJ:7PzlFSSx8tAC",
+      "authors": "AJ King, K Amoah, L Zhang, JH Bahn, RM Barney, <strong>G Quinones-Valdez</strong>, ...",
+      "author": "AJ King, K Amoah, L Zhang, JH Bahn, RM Barney, <strong>G Quinones-Valdez</strong>, ...",
+      "publication": "Genome Research, 2026.02. 13.705796, 2026",
       "cited_by": {
         "value": 2
       },
@@ -127,9 +195,10 @@
     },
     {
       "title": "Immune landscape of the affected brain in Rasmussen encephalitis",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&citation_for_view=Un02rhgAAAAJ:9ZlFYXVOiuMC",
-      "authors": "",
-      "publication": "",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Un02rhgAAAAJ&pagesize=100&citation_for_view=Un02rhgAAAAJ:9ZlFYXVOiuMC",
+      "authors": "<strong>G Quinones-Valdez</strong>, JW Chang, SD Magaki, HV Vinters, N Salamon, ...",
+      "author": "<strong>G Quinones-Valdez</strong>, JW Chang, SD Magaki, HV Vinters, N Salamon, ...",
+      "publication": "Scientific Reports, 2026",
       "cited_by": {
         "value": 1
       },
@@ -137,9 +206,10 @@
     },
     {
       "title": "CryEx. v2, an enhanced protocol for the quantitative detection and visualization of cryptic splicing using human transcriptome data",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&citation_for_view=Un02rhgAAAAJ:qUcmZB5y_30C",
-      "authors": "",
-      "publication": "",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Un02rhgAAAAJ&pagesize=100&citation_for_view=Un02rhgAAAAJ:qUcmZB5y_30C",
+      "authors": "R Zheng, <strong>G Quinones-Valdez</strong>, X Xiao, C Cheng",
+      "author": "R Zheng, <strong>G Quinones-Valdez</strong>, X Xiao, C Cheng",
+      "publication": "STAR protocols 7 (4), 104931, 2026",
       "cited_by": {
         "value": 0
       },
@@ -147,9 +217,10 @@
     },
     {
       "title": "Single-cell tracing identifies a stage-spanning progenitor linked to chemoresistance in Down syndrome myeloid leukemia",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&citation_for_view=Un02rhgAAAAJ:ZeXyd9-uunAC",
-      "authors": "",
-      "publication": "",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Un02rhgAAAAJ&pagesize=100&citation_for_view=Un02rhgAAAAJ:ZeXyd9-uunAC",
+      "authors": "K Rohde, S Frenz-Wiessner, Y Wang, <strong>G Quinones-Valdez</strong>, H Issa, ...",
+      "author": "K Rohde, S Frenz-Wiessner, Y Wang, <strong>G Quinones-Valdez</strong>, H Issa, ...",
+      "publication": "Klinische Pädiatrie 238 (03), 0069, 2026",
       "cited_by": {
         "value": 0
       },
@@ -157,9 +228,10 @@
     },
     {
       "title": "Allele-specific alternative polyadenylation links noncoding genetic variation to Alzheimer’s disease risk",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&citation_for_view=Un02rhgAAAAJ:mVmsd5A6BfQC",
-      "authors": "",
-      "publication": "",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Un02rhgAAAAJ&pagesize=100&citation_for_view=Un02rhgAAAAJ:mVmsd5A6BfQC",
+      "authors": "RM Barney, <strong>G Quinones-Valdez</strong>, AJ King, K Amoah, W Wang, X Xiao",
+      "author": "RM Barney, <strong>G Quinones-Valdez</strong>, AJ King, K Amoah, W Wang, X Xiao",
+      "publication": "bioRxiv, 2026",
       "cited_by": {
         "value": 0
       },
@@ -167,9 +239,10 @@
     },
     {
       "title": "The Encyclopedia of DNA Elements",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&citation_for_view=Un02rhgAAAAJ:IWHjjKOFINEC",
-      "authors": "",
-      "publication": "",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Un02rhgAAAAJ&pagesize=100&citation_for_view=Un02rhgAAAAJ:IWHjjKOFINEC",
+      "authors": "ENCODE Project Consortium, TE Reddy",
+      "author": "ENCODE Project Consortium, TE Reddy",
+      "publication": "bioRxiv, 2026.07. 06.731365, 2026",
       "cited_by": {
         "value": 0
       },
@@ -177,9 +250,10 @@
     },
     {
       "title": "Single-cell tracing of myeloid leukemia evolution in down syndrome reveals a latent progenitor bridging disease onset, progression and relapse",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&citation_for_view=Un02rhgAAAAJ:qxL8FJ1GzNcC",
-      "authors": "",
-      "publication": "",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Un02rhgAAAAJ&pagesize=100&citation_for_view=Un02rhgAAAAJ:qxL8FJ1GzNcC",
+      "authors": "S Frenz-Wiessner, Y Wang, K Rohde, <strong>G Quinones-Valdez</strong>, H Issa, ...",
+      "author": "S Frenz-Wiessner, Y Wang, K Rohde, <strong>G Quinones-Valdez</strong>, H Issa, ...",
+      "publication": "Blood 146, 1472, 2025",
       "cited_by": {
         "value": 0
       },
@@ -187,9 +261,10 @@
     },
     {
       "title": "3160–TRACING THE ORIGIN AND EVOLUTION OF MYELOID LEUKEMIA IN DOWN SYNDROME",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&citation_for_view=Un02rhgAAAAJ:M3ejUd6NZC8C",
-      "authors": "",
-      "publication": "",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Un02rhgAAAAJ&pagesize=100&citation_for_view=Un02rhgAAAAJ:M3ejUd6NZC8C",
+      "authors": "S Frenz-Wiessner, Y Wang, GQ Valdez, P Mack, H Issa, K Rohde, ...",
+      "author": "S Frenz-Wiessner, Y Wang, GQ Valdez, P Mack, H Issa, K Rohde, ...",
+      "publication": "Experimental Hematology 151, 105101, 2025",
       "cited_by": {
         "value": 0
       },
@@ -197,9 +272,10 @@
     },
     {
       "title": "Function and Regulation of Nucleotide Variants in RNA",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&citation_for_view=Un02rhgAAAAJ:ufrVoPGSRksC",
-      "authors": "",
-      "publication": "",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Un02rhgAAAAJ&pagesize=100&citation_for_view=Un02rhgAAAAJ:ufrVoPGSRksC",
+      "authors": "GQ Valdez",
+      "author": "GQ Valdez",
+      "publication": "University of California, Los Angeles, 2021",
       "cited_by": {
         "value": 0
       },
@@ -207,9 +283,10 @@
     },
     {
       "title": "Functional Roles of Single Nucleotide Variants in Alternative Splicing",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&citation_for_view=Un02rhgAAAAJ:9yKSN-GCB0IC",
-      "authors": "",
-      "publication": "",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Un02rhgAAAAJ&pagesize=100&citation_for_view=Un02rhgAAAAJ:9yKSN-GCB0IC",
+      "authors": "YH Hsiao",
+      "author": "YH Hsiao",
+      "publication": "UCLA, 2018",
       "cited_by": {
         "value": 0
       },
@@ -217,9 +294,10 @@
     },
     {
       "title": "Delaying Retinal Degeneration in a Mouse Model of Geographic Atrophy: An Antioxidant Gene Therapy Approach.",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&citation_for_view=Un02rhgAAAAJ:d1gkVwhDpl0C",
-      "authors": "",
-      "publication": "",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Un02rhgAAAAJ&pagesize=100&citation_for_view=Un02rhgAAAAJ:d1gkVwhDpl0C",
+      "authors": "MR Biswal, CJ Ildefonso, BP Rossmiller, H Mao, H Li, P Han, P Zhu, ...",
+      "author": "MR Biswal, CJ Ildefonso, BP Rossmiller, H Mao, H Li, P Han, P Zhu, ...",
+      "publication": "Investigative Ophthalmology & Visual Science 56 (7), 3189-3189, 2015",
       "cited_by": {
         "value": 0
       },
@@ -227,9 +305,10 @@
     },
     {
       "title": "393. Effectiveness of Antioxidant Gene Therapy in Delaying Retinal Degeneration",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&citation_for_view=Un02rhgAAAAJ:qjMakFHDy7sC",
-      "authors": "",
-      "publication": "",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Un02rhgAAAAJ&pagesize=100&citation_for_view=Un02rhgAAAAJ:qjMakFHDy7sC",
+      "authors": "MR Biswal, C Ildefonso, Z Wang, H Mao, H Li, P Zhu, G Quinones, ...",
+      "author": "MR Biswal, C Ildefonso, Z Wang, H Mao, H Li, P Zhu, G Quinones, ...",
+      "publication": "Molecular Therapy 23, S156, 2015",
       "cited_by": {
         "value": 0
       },
