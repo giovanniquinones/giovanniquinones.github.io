@@ -248,6 +248,82 @@
   }
 }
 
+.scholar-chart {
+  margin: 1em 0 1.5em;
+}
+
+.scholar-chart__title {
+  font-size: $type-size-6;
+  color: $gray;
+  margin-bottom: 0.5em;
+}
+
+.scholar-chart__bars {
+  display: flex;
+  align-items: flex-end;
+  margin: 0;
+  padding: 1.4em 0 0;
+  list-style: none;
+}
+
+.scholar-chart__col {
+  flex: 1 1 0;
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0;
+}
+
+.scholar-chart__track {
+  height: 140px;
+  width: 100%;
+  max-width: 28px;
+  padding: 0 1px;
+  display: flex;
+  align-items: flex-end;
+}
+
+.scholar-chart__bar {
+  position: relative;
+  width: 100%;
+  min-height: 1px;
+  background: $primary-color;
+  border-radius: 4px 4px 0 0;
+}
+
+/* value appears on hover; the latest year is always labeled */
+.scholar-chart__value {
+  position: absolute;
+  bottom: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+  padding-bottom: 2px;
+  font-size: $type-size-7;
+  color: $text-color;
+  white-space: nowrap;
+  opacity: 0;
+  transition: opacity 0.15s;
+}
+
+.scholar-chart__col:hover .scholar-chart__value,
+.scholar-chart__col:last-child .scholar-chart__value {
+  opacity: 1;
+}
+
+.scholar-chart__col:hover .scholar-chart__bar {
+  filter: brightness(0.85);
+}
+
+.scholar-chart__year {
+  width: 100%;
+  padding-top: 0.3em;
+  border-top: 1px solid $border-color;
+  text-align: center;
+  font-size: $type-size-8;
+  color: $gray;
+}
+
 .scholar-metrics {
   margin-top: 1em;
 }

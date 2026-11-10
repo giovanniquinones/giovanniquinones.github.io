@@ -18,6 +18,28 @@ author_profile: true
       This section uses a Google Scholar widget. For the most up-to-date manuscript list, please see the <a href="{{ '/cv/' | relative_url }}">CV</a>.
     </p>
 
+    {% assign graph = scholar.cited_by.graph %}
+    {% if graph and graph.size > 0 %}
+      {% assign graph_max = 1 %}
+      {% for g in graph %}{% if g.citations > graph_max %}{% assign graph_max = g.citations %}{% endif %}{% endfor %}
+      <figure class="scholar-chart">
+        <figcaption class="scholar-chart__title">Citations per year</figcaption>
+        <ol class="scholar-chart__bars" role="list">
+          {% for g in graph %}
+            {% assign pct = g.citations | times: 100.0 | divided_by: graph_max %}
+            <li class="scholar-chart__col">
+              <span class="scholar-chart__track">
+                <span class="scholar-chart__bar" style="height: {{ pct }}%">
+                  <span class="scholar-chart__value">{{ g.citations }}</span>
+                </span>
+              </span>
+              <span class="scholar-chart__year">{{ g.year }}</span>
+            </li>
+          {% endfor %}
+        </ol>
+      </figure>
+    {% endif %}
+
     {% if metrics and metrics.size >= 3 %}
       <div class="scholar-metrics">
         <h3>Citation metrics</h3>
@@ -25,17 +47,17 @@ author_profile: true
           <div class="scholar-metrics__item">
             <div class="scholar-metrics__label">Citations</div>
             <div class="scholar-metrics__value">{{ metrics[0].citations.all }}</div>
-            <div class="scholar-metrics__since">Since 2021: {{ metrics[0].citations.since_2021 }}</div>
+            {% for kv in metrics[0].citations %}{% if kv[0] != "all" %}<div class="scholar-metrics__since">Since {{ kv[0] | remove: "since_" }}: {{ kv[1] }}</div>{% endif %}{% endfor %}
           </div>
           <div class="scholar-metrics__item">
             <div class="scholar-metrics__label">h-index</div>
             <div class="scholar-metrics__value">{{ metrics[1].h_index.all }}</div>
-            <div class="scholar-metrics__since">Since 2021: {{ metrics[1].h_index.since_2021 }}</div>
+            {% for kv in metrics[1].h_index %}{% if kv[0] != "all" %}<div class="scholar-metrics__since">Since {{ kv[0] | remove: "since_" }}: {{ kv[1] }}</div>{% endif %}{% endfor %}
           </div>
           <div class="scholar-metrics__item">
             <div class="scholar-metrics__label">i10-index</div>
             <div class="scholar-metrics__value">{{ metrics[2].i10_index.all }}</div>
-            <div class="scholar-metrics__since">Since 2021: {{ metrics[2].i10_index.since_2021 }}</div>
+            {% for kv in metrics[2].i10_index %}{% if kv[0] != "all" %}<div class="scholar-metrics__since">Since {{ kv[0] | remove: "since_" }}: {{ kv[1] }}</div>{% endif %}{% endfor %}
           </div>
         </div>
       </div>
