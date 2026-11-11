@@ -252,7 +252,7 @@
   /* override the theme's flex <figure> so the chart spans the full width */
   display: block;
   width: 100%;
-  max-width: 640px;
+  max-width: 429px;
   margin: 1em 0 1.75em;
 }
 
@@ -274,7 +274,7 @@
 }
 
 .scholar-chart__col {
-  flex: 1 0 4em;
+  flex: 1 0 2.68em;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -285,7 +285,7 @@
 .scholar-chart__track {
   height: 180px;
   width: 100%;
-  max-width: 56px;
+  max-width: 37.5px;
   padding: 0 4px;
   display: flex;
   align-items: flex-end;
