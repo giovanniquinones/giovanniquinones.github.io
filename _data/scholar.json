@@ -8,8 +8,8 @@
     "table": [
       {
         "citations": {
-          "all": 3327,
-          "since_2021": 3177
+          "all": 3323,
+          "since_2021": 3174
         }
       },
       {
@@ -44,19 +44,19 @@
       },
       {
         "year": 2023,
-        "citations": 490
+        "citations": 491
       },
       {
         "year": 2024,
-        "citations": 586
+        "citations": 585
       },
       {
         "year": 2025,
-        "citations": 605
+        "citations": 604
       },
       {
         "year": 2026,
-        "citations": 652
+        "citations": 650
       }
     ]
   },
@@ -68,7 +68,7 @@
       "author": "JE Moore, MJ Purcaro, HE Pratt, CB Epstein, N Shoresh, J Adrian, T Kawli, ...",
       "publication": "Nature 583 (7818), 699-710, 2020",
       "cited_by": {
-        "value": 2530
+        "value": 2521
       },
       "year": "2020"
     },
@@ -79,7 +79,7 @@
       "author": "MP Snyder, TR Gingeras, JE Moore, Z Weng, MB Gerstein, B Ren, ...",
       "publication": "Nature 583 (7818), 693-698, 2020",
       "cited_by": {
-        "value": 208
+        "value": 210
       },
       "year": "2020"
     },
@@ -101,7 +101,7 @@
       "author": "<strong>G Quinones-Valdez</strong>, SS Tran, HI Jun, JH Bahn, EW Yang, L Zhan, ...",
       "publication": "Communications biology 2 (1), 19, 2019",
       "cited_by": {
-        "value": 155
+        "value": 156
       },
       "year": "2019"
     },
@@ -134,7 +134,7 @@
       "author": "R Zheng, M Dunlap, GOM Bobkov, C Gonzalez-Figueroa, KJ Patel, J Lyu, ...",
       "publication": "Molecular cell 84 (11), 2087-2103. e8, 2024",
       "cited_by": {
-        "value": 52
+        "value": 54
       },
       "year": "2024"
     },
@@ -216,6 +216,17 @@
       "year": "2026"
     },
     {
+      "title": "The Encyclopedia of DNA Elements",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Un02rhgAAAAJ&pagesize=100&citation_for_view=Un02rhgAAAAJ:IWHjjKOFINEC",
+      "authors": "ENCODE Project Consortium",
+      "author": "ENCODE Project Consortium",
+      "publication": "bioRxiv, 2026",
+      "cited_by": {
+        "value": 0
+      },
+      "year": "2026"
+    },
+    {
       "title": "Single-cell tracing identifies a stage-spanning progenitor linked to chemoresistance in Down syndrome myeloid leukemia",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Un02rhgAAAAJ&pagesize=100&citation_for_view=Un02rhgAAAAJ:ZeXyd9-uunAC",
       "authors": "K Rohde, S Frenz-Wiessner, Y Wang, <strong>G Quinones-Valdez</strong>, H Issa, ...",
@@ -232,17 +243,6 @@
       "authors": "RM Barney, <strong>G Quinones-Valdez</strong>, AJ King, K Amoah, W Wang, X Xiao",
       "author": "RM Barney, <strong>G Quinones-Valdez</strong>, AJ King, K Amoah, W Wang, X Xiao",
       "publication": "bioRxiv, 2026",
-      "cited_by": {
-        "value": 0
-      },
-      "year": "2026"
-    },
-    {
-      "title": "The Encyclopedia of DNA Elements",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Un02rhgAAAAJ&pagesize=100&citation_for_view=Un02rhgAAAAJ:IWHjjKOFINEC",
-      "authors": "ENCODE Project Consortium, TE Reddy",
-      "author": "ENCODE Project Consortium, TE Reddy",
-      "publication": "bioRxiv, 2026.07. 06.731365, 2026",
       "cited_by": {
         "value": 0
       },
