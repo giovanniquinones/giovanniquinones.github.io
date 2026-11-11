@@ -24,7 +24,7 @@ author_profile: true
       {% for g in graph %}{% if g.citations > graph_max %}{% assign graph_max = g.citations %}{% endif %}{% endfor %}
       <figure class="scholar-chart">
         <figcaption class="scholar-chart__title">Citations per year</figcaption>
-        <ol class="scholar-chart__bars" role="list">
+        <ol class="scholar-chart__bars" role="list" tabindex="0" aria-label="Citations per year; scroll horizontally to see all years">
           {% for g in graph %}
             {% assign pct = g.citations | times: 100.0 | divided_by: graph_max %}
             <li class="scholar-chart__col">
