@@ -25,6 +25,19 @@ author_profile: true
   </header>
 
   <div class="software-grid">
+
+    <article class="software-card">
+      <h3 class="software-card__title"><span class="software-card__name">CryEx</span></h3>
+      <p>CryEx is a Python pipeline for identifying and quantifying cryptic and annotated exons from RNA-seq data. It uses StringTie for transcript assembly and supports splice junction analysis, exon inclusion quantification, and differential splicing analysis. Available on GitHub and PyPI.</p>
+      <ul class="software-tags">
+        <li>RNA-seq</li>
+        <li>Cryptic exons</li>
+        <li>Python</li>
+      </ul>
+      <p><a href="https://github.com/giovanniquinones/CryEx" target="_blank" rel="noopener noreferrer">Repository</a></p>
+      <p><a href="https://doi.org/10.1016/j.xpro.2026.104931" target="_blank" rel="noopener noreferrer">Related paper</a></p>
+    </article>
+
     <article class="software-card">
       <h3 class="software-card__title"><span class="software-card__name">isoLASER</span><img class="software-card__icon" src="{{ '/images/isoLASER_icon.png' | relative_url }}" alt="isoLASER icon" /></h3>
       <p><strong>Role:</strong> Lead developer</p>
