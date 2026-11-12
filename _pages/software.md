@@ -27,7 +27,7 @@ author_profile: true
   <div class="software-grid">
 
     <article class="software-card">
-      <h3 class="software-card__title"><span class="software-card__name">CryEx</span></h3>
+      <h3 class="software-card__title"><span class="software-card__name">CryEx</span><img class="software-card__icon" src="{{ '/images/cryex_icon.jpg' | relative_url }}" alt="CryEx icon" /></h3>
       <p>CryEx is a Python pipeline for identifying and quantifying cryptic and annotated exons from RNA-seq data. It uses StringTie for transcript assembly and supports splice junction analysis, exon inclusion quantification, and differential splicing analysis. Available on GitHub and PyPI.</p>
       <ul class="software-tags">
         <li>RNA-seq</li>
